@@ -1,0 +1,71 @@
+{
+  "id": 1243572405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.27309,1.45552,10.27309,1.45552",
+    "geom:latitude":1.45552,
+    "geom:longitude":10.27309,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncamanvi",
+    "gn:country_code":"GQ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307624,
+    "gn:latitude":1.45552,
+    "gn:longitude":10.27309,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncamanvi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nlamanvi",
+        "Ncamanvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307624
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"aa849e6dc4e914adb03d18e4c41230e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785239,
+            "locality_id":1243572405,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1243572405,
+    "wof:lastmodified":1537624087,
+    "wof:name":"Ncamanvi",
+    "wof:parent_id":1108785239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.27309,
+    1.45552,
+    10.27309,
+    1.45552
+],
+  "geometry": {"coordinates":[10.27309,1.45552],"type":"Point"}
+}

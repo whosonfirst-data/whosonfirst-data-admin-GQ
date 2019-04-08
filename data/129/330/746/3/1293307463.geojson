@@ -1,0 +1,67 @@
+{
+  "id": 1293307463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2676,1.99312,11.2676,1.99312",
+    "geom:latitude":1.99312,
+    "geom:longitude":11.2676,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bitet",
+    "gn:country_code":"GQ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309745,
+    "gn:latitude":1.99312,
+    "gn:longitude":11.2676,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bitet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309745
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a739ffac5d722d983a86b7a798e7ea1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1293307463,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1293307463,
+    "wof:lastmodified":1537044633,
+    "wof:name":"Bitet",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2676,
+    1.99312,
+    11.2676,
+    1.99312
+],
+  "geometry": {"coordinates":[11.2676,1.99312],"type":"Point"}
+}

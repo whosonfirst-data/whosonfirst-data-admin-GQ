@@ -1,0 +1,77 @@
+{
+  "id": 1293501937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33232,1.64557,11.33232,1.64557",
+    "geom:latitude":1.64557,
+    "geom:longitude":11.33232,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Encoembe",
+    "gn:country_code":"GQ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309147,
+    "gn:latitude":1.64557,
+    "gn:longitude":11.33232,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Encoembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593,
+        85632287,
+        85671591,
+        1108785265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309147
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6428e995c98fcb90649f1d9c859edc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1293501937,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785265,
+            "locality_id":1293501937,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1293501937,
+    "wof:lastmodified":1536766544,
+    "wof:name":"Encoembe",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33232,
+    1.64557,
+    11.33232,
+    1.64557
+],
+  "geometry": {"coordinates":[11.33232,1.64557],"type":"Point"}
+}

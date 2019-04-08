@@ -1,0 +1,61 @@
+{
+  "id": 1209429707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48657,1.39088,10.48657,1.39088",
+    "geom:latitude":1.39088,
+    "geom:longitude":10.48657,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acaasi",
+    "gn:country_code":"GQ",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310645,
+    "gn:latitude":1.39088,
+    "gn:longitude":10.48657,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Acaasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310645
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c2cabf7ac812fd4f3b111767b30fc42f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209429707
+        }
+    ],
+    "wof:id":1209429707,
+    "wof:lastmodified":1536287272,
+    "wof:name":"Acaasi",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48657,
+    1.39088,
+    10.48657,
+    1.39088
+],
+  "geometry": {"coordinates":[10.48657,1.39088],"type":"Point"}
+}

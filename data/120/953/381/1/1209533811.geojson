@@ -1,0 +1,67 @@
+{
+  "id": 1209533811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78951,2.13941,9.78951,2.13941",
+    "geom:latitude":2.13941,
+    "geom:longitude":9.78951,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Evongo",
+    "gn:country_code":"GQ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308980,
+    "gn:latitude":2.13941,
+    "gn:longitude":9.78951,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Evongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ivungo",
+        "Ebongo",
+        "Ivoungo",
+        "Evongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308980
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"867dc575c95ee73acab91ad0f07527ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209533811
+        }
+    ],
+    "wof:id":1209533811,
+    "wof:lastmodified":1537624104,
+    "wof:name":"Evongo",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78951,
+    2.13941,
+    9.78951,
+    2.13941
+],
+  "geometry": {"coordinates":[9.78951,2.13941],"type":"Point"}
+}

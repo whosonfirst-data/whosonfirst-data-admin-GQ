@@ -1,0 +1,72 @@
+{
+  "id": 1226257507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54986,3.41067,8.54986,3.41067",
+    "geom:latitude":3.41067,
+    "geom:longitude":8.54986,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ruiche",
+    "gn:country_code":"GQ",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306802,
+    "gn:latitude":3.41067,
+    "gn:longitude":8.54986,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ruich\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buchica",
+        "Ruicha",
+        "Ruich\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671599,
+        1108785255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306802
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ab48d23f0608460c47ea912208090767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785255,
+            "locality_id":1226257507,
+            "region_id":85671599
+        }
+    ],
+    "wof:id":1226257507,
+    "wof:lastmodified":1537624075,
+    "wof:name":"Ruiche",
+    "wof:parent_id":1108785255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54986,
+    3.41067,
+    8.54986,
+    3.41067
+],
+  "geometry": {"coordinates":[8.54986,3.41067],"type":"Point"}
+}

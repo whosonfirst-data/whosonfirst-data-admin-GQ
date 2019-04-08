@@ -1,0 +1,67 @@
+{
+  "id": 1343676391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.72475,1.34572,10.72475,1.34572",
+    "geom:latitude":1.34572,
+    "geom:longitude":10.72475,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Efulan",
+    "gn:country_code":"GQ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309205,
+    "gn:latitude":1.34572,
+    "gn:longitude":10.72475,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Efulan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309205
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"82e28ad3f8b2c779185bb037b0d87592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1343676391,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1343676391,
+    "wof:lastmodified":1536932763,
+    "wof:name":"Efulan",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.72475,
+    1.34572,
+    10.72475,
+    1.34572
+],
+  "geometry": {"coordinates":[10.72475,1.34572],"type":"Point"}
+}

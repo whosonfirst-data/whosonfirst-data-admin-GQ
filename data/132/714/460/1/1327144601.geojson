@@ -1,0 +1,71 @@
+{
+  "id": 1327144601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10883,2.06657,11.10883,2.06657",
+    "geom:latitude":2.06657,
+    "geom:longitude":11.10883,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbedumo",
+    "gn:country_code":"GQ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308295,
+    "gn:latitude":2.06657,
+    "gn:longitude":11.10883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbedumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbedumu",
+        "Mbedumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308295
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"8531cb854e24a1fa9625c86b001547ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1327144601,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1327144601,
+    "wof:lastmodified":1537624097,
+    "wof:name":"Mbedumo",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10883,
+    2.06657,
+    11.10883,
+    2.06657
+],
+  "geometry": {"coordinates":[11.10883,2.06657],"type":"Point"}
+}

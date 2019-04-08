@@ -1,0 +1,71 @@
+{
+  "id": 1259493205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.60386,1.97337,10.60386,1.97337",
+    "geom:latitude":1.97337,
+    "geom:longitude":10.60386,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mfulayong",
+    "gn:country_code":"GQ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308062,
+    "gn:latitude":1.97337,
+    "gn:longitude":10.60386,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mfulayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nfulayong",
+        "Mfulayong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308062
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d582182d40c9de12506c598871f08b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785275,
+            "locality_id":1259493205,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1259493205,
+    "wof:lastmodified":1537624094,
+    "wof:name":"Mfulayong",
+    "wof:parent_id":1108785275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.60386,
+    1.97337,
+    10.60386,
+    1.97337
+],
+  "geometry": {"coordinates":[10.60386,1.97337],"type":"Point"}
+}

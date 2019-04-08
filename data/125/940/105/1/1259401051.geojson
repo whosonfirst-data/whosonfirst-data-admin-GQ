@@ -1,0 +1,71 @@
+{
+  "id": 1259401051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03882,2.14612,11.03882,2.14612",
+    "geom:latitude":2.14612,
+    "geom:longitude":11.03882,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aseosi",
+    "gn:country_code":"GQ",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310259,
+    "gn:latitude":2.14612,
+    "gn:longitude":11.03882,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aseosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asemosi",
+        "Aseosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310259
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dbedffa659dba28a80e7947e87a85628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1259401051,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1259401051,
+    "wof:lastmodified":1537624120,
+    "wof:name":"Aseosi",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03882,
+    2.14612,
+    11.03882,
+    2.14612
+],
+  "geometry": {"coordinates":[11.03882,2.14612],"type":"Point"}
+}

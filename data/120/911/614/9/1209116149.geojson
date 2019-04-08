@@ -1,0 +1,61 @@
+{
+  "id": 1209116149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50828,1.76514,10.50828,1.76514",
+    "geom:latitude":1.76514,
+    "geom:longitude":10.50828,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abang",
+    "gn:country_code":"GQ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310730,
+    "gn:latitude":1.76514,
+    "gn:longitude":10.50828,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Abang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310730
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"acf5dc27d277468983406759cc05271f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209116149
+        }
+    ],
+    "wof:id":1209116149,
+    "wof:lastmodified":1536297247,
+    "wof:name":"Abang",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50828,
+    1.7651400000000002,
+    10.50828,
+    1.7651400000000002
+],
+  "geometry": {"coordinates":[10.50828,1.76514],"type":"Point"}
+}

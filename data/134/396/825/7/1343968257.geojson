@@ -1,0 +1,67 @@
+{
+  "id": 1343968257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85453,1.94535,9.85453,1.94535",
+    "geom:latitude":1.94535,
+    "geom:longitude":9.85453,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ntuba",
+    "gn:country_code":"GQ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307107,
+    "gn:latitude":1.94535,
+    "gn:longitude":9.85453,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ntuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307107
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"f2b4e920adfae4d172d4553ae75fa64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1343968257,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1343968257,
+    "wof:lastmodified":1537007923,
+    "wof:name":"Ntuba",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85453,
+    1.94535,
+    9.85453,
+    1.94535
+],
+  "geometry": {"coordinates":[9.85453,1.94535],"type":"Point"}
+}

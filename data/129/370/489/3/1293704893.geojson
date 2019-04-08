@@ -1,0 +1,71 @@
+{
+  "id": 1293704893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.5988,1.79554,10.5988,1.79554",
+    "geom:latitude":1.79554,
+    "geom:longitude":10.5988,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acam",
+    "gn:country_code":"GQ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310633,
+    "gn:latitude":1.79554,
+    "gn:longitude":10.5988,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Acam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akam",
+        "Acam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310633
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"53202d90d402ffd475cd9d00a133d043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1293704893,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293704893,
+    "wof:lastmodified":1537624127,
+    "wof:name":"Acam",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5988,
+    1.79554,
+    10.5988,
+    1.79554
+],
+  "geometry": {"coordinates":[10.5988,1.79554],"type":"Point"}
+}

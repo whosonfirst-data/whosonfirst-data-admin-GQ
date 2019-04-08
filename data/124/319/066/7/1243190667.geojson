@@ -1,0 +1,71 @@
+{
+  "id": 1243190667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82527,3.52405,8.82527,3.52405",
+    "geom:latitude":3.52405,
+    "geom:longitude":8.82527,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bao Pequeno",
+    "gn:country_code":"GQ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310076,
+    "gn:latitude":3.52405,
+    "gn:longitude":8.82527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba\u00f3 Peque\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bah\u00f3 Peque\u00f1o",
+        "Ba\u00f3 Peque\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671599,
+        1108785281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310076
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"8945b3178e338fb9cfd70c41c43d2d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785281,
+            "locality_id":1243190667,
+            "region_id":85671599
+        }
+    ],
+    "wof:id":1243190667,
+    "wof:lastmodified":1537624117,
+    "wof:name":"Bao Pequeno",
+    "wof:parent_id":1108785281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82527,
+    3.52405,
+    8.82527,
+    3.52405
+],
+  "geometry": {"coordinates":[8.82527,3.52405],"type":"Point"}
+}

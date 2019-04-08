@@ -1,0 +1,67 @@
+{
+  "id": 1276458405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34428,1.81319,11.34428,1.81319",
+    "geom:latitude":1.81319,
+    "geom:longitude":11.34428,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncoasia",
+    "gn:country_code":"GQ",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307569,
+    "gn:latitude":1.81319,
+    "gn:longitude":11.34428,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ncoasia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307569
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"88f06b80c008250a736f1305226350f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1276458405,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1276458405,
+    "wof:lastmodified":1536608285,
+    "wof:name":"Ncoasia",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34428,
+    1.81319,
+    11.34428,
+    1.81319
+],
+  "geometry": {"coordinates":[11.34428,1.81319],"type":"Point"}
+}

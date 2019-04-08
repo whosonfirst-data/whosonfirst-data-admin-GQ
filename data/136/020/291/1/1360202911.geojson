@@ -1,0 +1,81 @@
+{
+  "id": 1360202911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16738,2.17176,11.16738,2.17176",
+    "geom:latitude":2.17176,
+    "geom:longitude":11.16738,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adyap",
+    "gn:country_code":"GQ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310498,
+    "gn:latitude":2.17176,
+    "gn:longitude":11.16738,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adyap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayap",
+        "Adyap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012107,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310498
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"492098c1c315735a513d0f4433b30137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012107,
+            "locality_id":1360202911,
+            "region_id":85669971
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1360202911,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1360202911,
+    "wof:lastmodified":1537624122,
+    "wof:name":"Adyap",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16738,
+    2.17176,
+    11.16738,
+    2.17176
+],
+  "geometry": {"coordinates":[11.16738,2.17176],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276453159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5617,1.14594,9.5617,1.14594",
+    "geom:latitude":1.14594,
+    "geom:longitude":9.5617,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Olop",
+    "gn:country_code":"GQ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307014,
+    "gn:latitude":1.14594,
+    "gn:longitude":9.5617,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Olop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307014
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3e9dfb51936ee6f9d3edf5975bdea502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1276453159,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1276453159,
+    "wof:lastmodified":1536615696,
+    "wof:name":"Olop",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5617,
+    1.14594,
+    9.5617,
+    1.14594
+],
+  "geometry": {"coordinates":[9.5617,1.14594],"type":"Point"}
+}

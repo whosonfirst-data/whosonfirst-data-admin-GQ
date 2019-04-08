@@ -1,0 +1,71 @@
+{
+  "id": 1259392755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9357,2.13675,10.9357,2.13675",
+    "geom:latitude":2.13675,
+    "geom:longitude":10.9357,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Egon",
+    "gn:country_code":"GQ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309191,
+    "gn:latitude":2.13675,
+    "gn:longitude":10.9357,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Egon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eguong-Niemayong",
+        "Egon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309191
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d235d9a531cb5093f9e700f678b2745c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785263,
+            "locality_id":1259392755,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1259392755,
+    "wof:lastmodified":1537624106,
+    "wof:name":"Egon",
+    "wof:parent_id":1108785263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9357,
+    2.13675,
+    10.9357,
+    2.13675
+],
+  "geometry": {"coordinates":[10.9357,2.13675],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292913555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48118,1.50392,10.48118,1.50392",
+    "geom:latitude":1.50392,
+    "geom:longitude":10.48118,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsung",
+    "gn:country_code":"GQ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307133,
+    "gn:latitude":1.50392,
+    "gn:longitude":10.48118,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nsung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307133
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a8f07040bfa15d01175c956b10e350b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1292913555,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1292913555,
+    "wof:lastmodified":1536618122,
+    "wof:name":"Nsung",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48118,
+    1.50392,
+    10.48118,
+    1.50392
+],
+  "geometry": {"coordinates":[10.48118,1.50392],"type":"Point"}
+}

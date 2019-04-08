@@ -1,0 +1,67 @@
+{
+  "id": 1242692621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40303,2.05074,10.40303,2.05074",
+    "geom:latitude":2.05074,
+    "geom:longitude":10.40303,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acom",
+    "gn:country_code":"GQ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310569,
+    "gn:latitude":2.05074,
+    "gn:longitude":10.40303,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Acom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310569
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9639ff8458d238abedc11c91f21c1803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1242692621,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1242692621,
+    "wof:lastmodified":1536897949,
+    "wof:name":"Acom",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40303,
+    2.05074,
+    10.40303,
+    2.05074
+],
+  "geometry": {"coordinates":[10.40303,2.05074],"type":"Point"}
+}

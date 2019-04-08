@@ -1,0 +1,72 @@
+{
+  "id": 1259392557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2251,1.74119,11.2251,1.74119",
+    "geom:latitude":1.74119,
+    "geom:longitude":11.2251,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nonkien",
+    "gn:country_code":"GQ",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307213,
+    "gn:latitude":1.74119,
+    "gn:longitude":11.2251,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nonkie\u00f1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nonkieng",
+        "Nnonkie\u00f1",
+        "Nonkie\u00f1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307213
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"4d0b3f59a8e1da23858bb47f4c7592b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785265,
+            "locality_id":1259392557,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1259392557,
+    "wof:lastmodified":1537624079,
+    "wof:name":"Nonkien",
+    "wof:parent_id":1108785265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2251,
+    1.74119,
+    11.2251,
+    1.74119
+],
+  "geometry": {"coordinates":[11.2251,1.74119],"type":"Point"}
+}

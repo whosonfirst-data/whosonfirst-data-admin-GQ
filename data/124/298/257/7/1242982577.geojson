@@ -1,0 +1,72 @@
+{
+  "id": 1242982577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.62722,-1.44556,5.62722,-1.44556",
+    "geom:latitude":-1.44556,
+    "geom:longitude":5.62722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aual",
+    "gn:cc2":"GQ",
+    "gn:country_code":"GQ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306737,
+    "gn:latitude":-1.44556,
+    "gn:longitude":5.62722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Cruz",
+        "Aual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671563,
+        1108785283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306737
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9c0bd9f462af253857f23adc62992790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785283,
+            "locality_id":1242982577,
+            "region_id":85671563
+        }
+    ],
+    "wof:id":1242982577,
+    "wof:lastmodified":1537624074,
+    "wof:name":"Aual",
+    "wof:parent_id":1108785283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62722,
+    -1.44556,
+    5.62722,
+    -1.44556
+],
+  "geometry": {"coordinates":[5.62722,-1.44556],"type":"Point"}
+}

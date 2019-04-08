@@ -1,0 +1,65 @@
+{
+  "id": 1209432953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83969,1.84753,10.83969,1.84753",
+    "geom:latitude":1.84753,
+    "geom:longitude":10.83969,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncut",
+    "gn:country_code":"GQ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307480,
+    "gn:latitude":1.84753,
+    "gn:longitude":10.83969,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkut",
+        "Ncut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307480
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"f38cfcdcd5ced32aa1073224f6098960",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209432953
+        }
+    ],
+    "wof:id":1209432953,
+    "wof:lastmodified":1537624083,
+    "wof:name":"Ncut",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83969,
+    1.84753,
+    10.83969,
+    1.84753
+],
+  "geometry": {"coordinates":[10.83969,1.84753],"type":"Point"}
+}

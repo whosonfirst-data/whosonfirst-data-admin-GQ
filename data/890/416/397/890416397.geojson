@@ -1,0 +1,105 @@
+{
+  "id": 890416397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26603,1.12985,11.26603,1.12985",
+    "geom:latitude":1.12985,
+    "geom:longitude":11.26603,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":3769,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nsok"
+    ],
+    "name:chi_x_preferred":[
+        "\u6069\u7d22\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Nsok"
+    ],
+    "name:eng_x_preferred":[
+        "Nsok"
+    ],
+    "name:fre_x_preferred":[
+        "Nsok"
+    ],
+    "name:ita_x_preferred":[
+        "Nsok"
+    ],
+    "name:pol_x_preferred":[
+        "Nsok"
+    ],
+    "name:por_x_preferred":[
+        "Nsok"
+    ],
+    "name:spa_x_preferred":[
+        "Nsok"
+    ],
+    "name:swe_x_preferred":[
+        "Nsok"
+    ],
+    "name:tur_x_preferred":[
+        "Nsok"
+    ],
+    "name:unk_x_variant":[
+        "Ensorc"
+    ],
+    "qs:name":"Nsok",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"1.133333333",
+    "wd:longitude":"11.266666666",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307145,
+        "gp:id":1480966,
+        "qs:id":139449,
+        "wd:id":"Q2604881",
+        "wk:page":"Nsok"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469051132,
+    "wof:geomhash":"9306cd6e1ffae4cbddfa616dd2daf268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890416397,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":890416397,
+    "wof:lastmodified":1527792798,
+    "wof:name":"Nsok",
+    "wof:parent_id":85671591,
+    "wof:placetype":"locality",
+    "wof:population":3769,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26603,
+    1.12985,
+    11.26603,
+    1.12985
+],
+  "geometry": {"coordinates":[11.26603,1.12985],"type":"Point"}
+}

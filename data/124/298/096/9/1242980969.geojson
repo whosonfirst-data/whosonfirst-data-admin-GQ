@@ -1,0 +1,67 @@
+{
+  "id": 1242980969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.72493,1.83893,10.72493,1.83893",
+    "geom:latitude":1.83893,
+    "geom:longitude":10.72493,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acueton",
+    "gn:country_code":"GQ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310536,
+    "gn:latitude":1.83893,
+    "gn:longitude":10.72493,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Acueton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310536
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c6a9b480d15474317a9f26f5b383028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1242980969,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1242980969,
+    "wof:lastmodified":1536978920,
+    "wof:name":"Acueton",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.72493,
+    1.83893,
+    10.72493,
+    1.83893
+],
+  "geometry": {"coordinates":[10.72493,1.83893],"type":"Point"}
+}

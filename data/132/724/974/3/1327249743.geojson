@@ -1,0 +1,71 @@
+{
+  "id": 1327249743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.42553,1.14428,9.42553,1.14428",
+    "geom:latitude":1.14428,
+    "geom:longitude":9.42553,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mfaman",
+    "gn:country_code":"GQ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308095,
+    "gn:latitude":1.14428,
+    "gn:longitude":9.42553,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mfaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nfaman",
+        "Mfaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308095
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"f305f1c5d93639d4d75cf62c9f7d221c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1327249743,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1327249743,
+    "wof:lastmodified":1537624095,
+    "wof:name":"Mfaman",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.42553,
+    1.14428,
+    9.42553,
+    1.14428
+],
+  "geometry": {"coordinates":[9.42553,1.14428],"type":"Point"}
+}

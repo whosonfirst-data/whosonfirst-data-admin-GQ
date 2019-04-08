@@ -1,0 +1,67 @@
+{
+  "id": 1276888197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47115,1.61223,10.47115,1.61223",
+    "geom:latitude":1.61223,
+    "geom:longitude":10.47115,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Masoc",
+    "gn:country_code":"GQ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308428,
+    "gn:latitude":1.61223,
+    "gn:longitude":10.47115,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Masoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308428
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"324d1dd9b7556b5db90ee1b25db61e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785239,
+            "locality_id":1276888197,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1276888197,
+    "wof:lastmodified":1537028699,
+    "wof:name":"Masoc",
+    "wof:parent_id":1108785239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47115,
+    1.61223,
+    10.47115,
+    1.61223
+],
+  "geometry": {"coordinates":[10.47115,1.61223],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293307547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13118,1.7465,10.13118,1.7465",
+    "geom:latitude":1.7465,
+    "geom:longitude":10.13118,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ebasoc",
+    "gn:country_code":"GQ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309342,
+    "gn:latitude":1.7465,
+    "gn:longitude":10.13118,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ebasoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebansok",
+        "Ebasoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309342
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d561ef07d271011aa3a858ce0405191f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1293307547,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293307547,
+    "wof:lastmodified":1537624109,
+    "wof:name":"Ebasoc",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13118,
+    1.7465,
+    10.13118,
+    1.7465
+],
+  "geometry": {"coordinates":[10.13118,1.7465],"type":"Point"}
+}

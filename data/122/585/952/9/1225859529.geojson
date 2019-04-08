@@ -1,0 +1,67 @@
+{
+  "id": 1225859529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.97853,2.11822,10.97853,2.11822",
+    "geom:latitude":2.11822,
+    "geom:longitude":10.97853,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aconekien",
+    "gn:country_code":"GQ",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310548,
+    "gn:latitude":2.11822,
+    "gn:longitude":10.97853,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Aconeki\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310548
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dcf0537418630787453702b50d993505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785263,
+            "locality_id":1225859529,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1225859529,
+    "wof:lastmodified":1536992896,
+    "wof:name":"Aconekien",
+    "wof:parent_id":1108785263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.97853,
+    2.11822,
+    10.97853,
+    2.11822
+],
+  "geometry": {"coordinates":[10.97853,2.11822],"type":"Point"}
+}

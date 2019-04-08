@@ -1,0 +1,94 @@
+{
+  "id": 890416401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47066,2.01643,10.47066,2.01643",
+    "geom:latitude":2.01643,
+    "geom:longitude":10.47066,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":1683,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ncue"
+    ],
+    "name:dut_x_preferred":[
+        "Ncue"
+    ],
+    "name:eng_x_preferred":[
+        "Ncue"
+    ],
+    "name:fre_x_preferred":[
+        "Ncue"
+    ],
+    "name:ita_x_preferred":[
+        "Ncue"
+    ],
+    "name:spa_x_preferred":[
+        "Ncue"
+    ],
+    "name:swe_x_preferred":[
+        "Ncue"
+    ],
+    "name:tur_x_preferred":[
+        "Ncue"
+    ],
+    "name:unk_x_variant":[
+        "Nkue Misi\u00f3n"
+    ],
+    "qs:name":"Ncue",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307502,
+        "gp:id":1311566,
+        "qs:id":139451,
+        "wd:id":"Q3874055",
+        "wk:page":"Ncue"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469051132,
+    "wof:geomhash":"aa07be3b843347341e3fe0fc7146c8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890416401,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":890416401,
+    "wof:lastmodified":1527792800,
+    "wof:name":"Ncue",
+    "wof:parent_id":85671583,
+    "wof:placetype":"locality",
+    "wof:population":1683,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47066,
+    2.01643,
+    10.47066,
+    2.01643
+],
+  "geometry": {"coordinates":[10.47066,2.01643],"type":"Point"}
+}

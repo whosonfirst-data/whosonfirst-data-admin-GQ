@@ -1,0 +1,71 @@
+{
+  "id": 1293802261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.41109,1.87803,10.41109,1.87803",
+    "geom:latitude":1.87803,
+    "geom:longitude":10.41109,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Obenelang",
+    "gn:country_code":"GQ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307069,
+    "gn:latitude":1.87803,
+    "gn:longitude":10.41109,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obenelang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abenelang",
+        "Obenelang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307069
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"925bfd795c117224e9bc4fcdef542470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1293802261,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293802261,
+    "wof:lastmodified":1537624077,
+    "wof:name":"Obenelang",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.41109,
+    1.87803,
+    10.41109,
+    1.87803
+],
+  "geometry": {"coordinates":[10.41109,1.87803],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259894373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96811,2.02646,10.96811,2.02646",
+    "geom:latitude":2.02646,
+    "geom:longitude":10.96811,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Andon",
+    "gn:country_code":"GQ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310336,
+    "gn:latitude":2.02646,
+    "gn:longitude":10.96811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Andon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andom",
+        "Andon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310336
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b4fe3fd77a02c54d9aeb48caba22b989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1259894373,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1259894373,
+    "wof:lastmodified":1537624121,
+    "wof:name":"Andon",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96811,
+    2.02646,
+    10.96811,
+    2.02646
+],
+  "geometry": {"coordinates":[10.96811,2.02646],"type":"Point"}
+}

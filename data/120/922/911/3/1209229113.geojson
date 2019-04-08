@@ -1,0 +1,65 @@
+{
+  "id": 1209229113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15679,1.2502,10.15679,1.2502",
+    "geom:latitude":1.2502,
+    "geom:longitude":10.15679,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acan",
+    "gn:country_code":"GQ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310626,
+    "gn:latitude":1.2502,
+    "gn:longitude":10.15679,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Acan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akam",
+        "Acan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310626
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dc0b778b67e7edfd8f60291b43747e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209229113
+        }
+    ],
+    "wof:id":1209229113,
+    "wof:lastmodified":1537624126,
+    "wof:name":"Acan",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15679,
+    1.2502,
+    10.15679,
+    1.2502
+],
+  "geometry": {"coordinates":[10.15679,1.2502],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243378285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55558,1.48283,9.55558,1.48283",
+    "geom:latitude":1.48283,
+    "geom:longitude":9.55558,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boabele",
+    "gn:country_code":"GQ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309731,
+    "gn:latitude":1.48283,
+    "gn:longitude":9.55558,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Boabele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309731
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5f7aace43743e276c586213e8e7ff304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785241,
+            "locality_id":1243378285,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1243378285,
+    "wof:lastmodified":1536903975,
+    "wof:name":"Boabele",
+    "wof:parent_id":1108785241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55558,
+    1.48283,
+    9.55558,
+    1.48283
+],
+  "geometry": {"coordinates":[9.55558,1.48283],"type":"Point"}
+}

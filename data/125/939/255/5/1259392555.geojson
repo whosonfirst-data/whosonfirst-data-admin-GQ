@@ -1,0 +1,71 @@
+{
+  "id": 1259392555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82869,1.85476,10.82869,1.85476",
+    "geom:latitude":1.85476,
+    "geom:longitude":10.82869,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bicugo",
+    "gn:country_code":"GQ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309896,
+    "gn:latitude":1.85476,
+    "gn:longitude":10.82869,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bicugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bikugo",
+        "Bicugo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309896
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b09b36937d104a913bdc7231e81694cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1259392555,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1259392555,
+    "wof:lastmodified":1537624114,
+    "wof:name":"Bicugo",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82869,
+    1.85476,
+    10.82869,
+    1.85476
+],
+  "geometry": {"coordinates":[10.82869,1.85476],"type":"Point"}
+}

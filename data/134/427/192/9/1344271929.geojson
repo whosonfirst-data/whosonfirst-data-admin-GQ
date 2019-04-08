@@ -1,0 +1,67 @@
+{
+  "id": 1344271929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78601,1.86262,10.78601,1.86262",
+    "geom:latitude":1.86262,
+    "geom:longitude":10.78601,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saugon",
+    "gn:country_code":"GQ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306717,
+    "gn:latitude":1.86262,
+    "gn:longitude":10.78601,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Saugon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306717
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"8b8873f317996558f7477c74bd86dc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1344271929,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1344271929,
+    "wof:lastmodified":1537064629,
+    "wof:name":"Saugon",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78601,
+    1.86262,
+    10.78601,
+    1.86262
+],
+  "geometry": {"coordinates":[10.78601,1.86262],"type":"Point"}
+}

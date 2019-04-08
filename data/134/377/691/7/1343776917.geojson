@@ -1,0 +1,77 @@
+{
+  "id": 1343776917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84871,1.02556,10.84871,1.02556",
+    "geom:latitude":1.02556,
+    "geom:longitude":10.84871,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Enengmelen",
+    "gn:country_code":"GQ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309136,
+    "gn:latitude":1.02556,
+    "gn:longitude":10.84871,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"E\u00f1engmelen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309136
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7049800e16b2a2c541c57e637844ad03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1343776917,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1343776917,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1343776917,
+    "wof:lastmodified":1536787589,
+    "wof:name":"Enengmelen",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84871,
+    1.02556,
+    10.84871,
+    1.02556
+],
+  "geometry": {"coordinates":[10.84871,1.02556],"type":"Point"}
+}

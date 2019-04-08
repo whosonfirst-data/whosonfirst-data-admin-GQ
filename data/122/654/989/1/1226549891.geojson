@@ -1,0 +1,67 @@
+{
+  "id": 1226549891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69832,1.04871,10.69832,1.04871",
+    "geom:latitude":1.04871,
+    "geom:longitude":10.69832,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"GQ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306770,
+    "gn:latitude":1.04871,
+    "gn:longitude":10.69832,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306770
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9f866152e733bd14b9ab58c41925e7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1226549891,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1226549891,
+    "wof:lastmodified":1536991160,
+    "wof:name":"San Carlos",
+    "wof:parent_id":1108785227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69832,
+    1.04871,
+    10.69832,
+    1.04871
+],
+  "geometry": {"coordinates":[10.69832,1.04871],"type":"Point"}
+}

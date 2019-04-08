@@ -1,0 +1,71 @@
+{
+  "id": 1225959119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36187,1.67287,10.36187,1.67287",
+    "geom:latitude":1.67287,
+    "geom:longitude":10.36187,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mesoc",
+    "gn:country_code":"GQ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308116,
+    "gn:latitude":1.67287,
+    "gn:longitude":10.36187,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mesoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masok",
+        "Mesoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308116
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"f4acc61a637b11d3c078454239b49bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1225959119,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1225959119,
+    "wof:lastmodified":1537624095,
+    "wof:name":"Mesoc",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36187,
+    1.67287,
+    10.36187,
+    1.67287
+],
+  "geometry": {"coordinates":[10.36187,1.67287],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276773383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48574,1.48289,10.48574,1.48289",
+    "geom:latitude":1.48289,
+    "geom:longitude":10.48574,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Enang",
+    "gn:country_code":"GQ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309148,
+    "gn:latitude":1.48289,
+    "gn:longitude":10.48574,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"E\u00f1ang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "E\u00f1eng",
+        "E\u00f1ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309148
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"07dee72e24dd71674a796cc0edeba807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1276773383,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1276773383,
+    "wof:lastmodified":1537624105,
+    "wof:name":"Enang",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48574,
+    1.48289,
+    10.48574,
+    1.48289
+],
+  "geometry": {"coordinates":[10.48574,1.48289],"type":"Point"}
+}

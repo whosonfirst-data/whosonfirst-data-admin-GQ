@@ -1,0 +1,71 @@
+{
+  "id": 1209825417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18772,1.8882,11.18772,1.8882",
+    "geom:latitude":1.8882,
+    "geom:longitude":11.18772,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncum",
+    "gn:country_code":"GQ",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307499,
+    "gn:latitude":1.8882,
+    "gn:longitude":11.18772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkum",
+        "Ncum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307499
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d7a7b0bf2472c63b90dde54d1911e647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1209825417,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1209825417,
+    "wof:lastmodified":1537624084,
+    "wof:name":"Ncum",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18772,
+    1.8882,
+    11.18772,
+    1.8882
+],
+  "geometry": {"coordinates":[11.18772,1.8882],"type":"Point"}
+}

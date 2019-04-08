@@ -1,0 +1,67 @@
+{
+  "id": 1343280205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28932,1.19918,11.28932,1.19918",
+    "geom:latitude":1.19918,
+    "geom:longitude":11.28932,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abama",
+    "gn:country_code":"GQ",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310741,
+    "gn:latitude":1.19918,
+    "gn:longitude":11.28932,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Abama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310741
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6d3163d05b63242fb858fdb4e91900cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1343280205,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1343280205,
+    "wof:lastmodified":1537005677,
+    "wof:name":"Abama",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28932,
+    1.19918,
+    11.28932,
+    1.19918
+],
+  "geometry": {"coordinates":[11.28932,1.19918],"type":"Point"}
+}

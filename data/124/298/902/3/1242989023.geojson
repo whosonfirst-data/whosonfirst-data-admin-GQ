@@ -1,0 +1,71 @@
+{
+  "id": 1242989023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.39221,1.79873,11.39221,1.79873",
+    "geom:latitude":1.79873,
+    "geom:longitude":11.39221,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayaelon",
+    "gn:country_code":"GQ",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310158,
+    "gn:latitude":1.79873,
+    "gn:longitude":11.39221,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayaelon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayabilon",
+        "Ayaelon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310158
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ca63bfdeca5c9388a208c4ed2ac3dc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1242989023,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1242989023,
+    "wof:lastmodified":1537624118,
+    "wof:name":"Ayaelon",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.39221,
+    1.79873,
+    11.39221,
+    1.79873
+],
+  "geometry": {"coordinates":[11.39221,1.79873],"type":"Point"}
+}

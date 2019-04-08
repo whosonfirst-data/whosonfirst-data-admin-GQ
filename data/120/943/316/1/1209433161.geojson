@@ -1,0 +1,61 @@
+{
+  "id": 1209433161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37395,1.7165,11.37395,1.7165",
+    "geom:latitude":1.7165,
+    "geom:longitude":11.37395,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Icondo",
+    "gn:country_code":"GQ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308851,
+    "gn:latitude":1.7165,
+    "gn:longitude":11.37395,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Icondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308851
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"4fffefcb97ea42b0d3b320369f0fd6f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209433161
+        }
+    ],
+    "wof:id":1209433161,
+    "wof:lastmodified":1536287179,
+    "wof:name":"Icondo",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37395,
+    1.7165,
+    11.37395,
+    1.7165
+],
+  "geometry": {"coordinates":[11.37395,1.7165],"type":"Point"}
+}

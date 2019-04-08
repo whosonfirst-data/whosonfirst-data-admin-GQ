@@ -1,0 +1,71 @@
+{
+  "id": 1293502279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31532,0.89569,9.31532,0.89569",
+    "geom:latitude":0.89569,
+    "geom:longitude":9.31532,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngueogo",
+    "gn:country_code":"GQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307295,
+    "gn:latitude":0.89569,
+    "gn:longitude":9.31532,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ng\u00fceogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngueyogo",
+        "Ng\u00fceogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307295
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"10b896daec4eb2ce96521bf0d2edb680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785245,
+            "locality_id":1293502279,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1293502279,
+    "wof:lastmodified":1537624080,
+    "wof:name":"Ngueogo",
+    "wof:parent_id":1108785245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31532,
+    0.89569,
+    9.31532,
+    0.89569
+],
+  "geometry": {"coordinates":[9.31532,0.89569],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327343729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.90462,1.5277,9.90462,1.5277",
+    "geom:latitude":1.5277,
+    "geom:longitude":9.90462,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbeenam",
+    "gn:country_code":"GQ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308294,
+    "gn:latitude":1.5277,
+    "gn:longitude":9.90462,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mbeenam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308294
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c757cac74c26a3025e15f3f64a905ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1327343729,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1327343729,
+    "wof:lastmodified":1536808412,
+    "wof:name":"Mbeenam",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90462,
+    1.5277,
+    9.90462,
+    1.5277
+],
+  "geometry": {"coordinates":[9.90462,1.5277],"type":"Point"}
+}

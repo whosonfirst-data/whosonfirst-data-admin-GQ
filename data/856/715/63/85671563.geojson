@@ -1,0 +1,216 @@
+{
+  "id": 85671563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001261,
+    "geom:area_square_m":15588799.52732,
+    "geom:bbox":"5.60211134,-1.461277723,5.63708353,-1.402111053",
+    "geom:latitude":-1.432286,
+    "geom:longitude":5.621013,
+    "gn:population":4433,
+    "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Annob\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":-1.43035,
+    "lbl:longitude":5.622429,
+    "mps:latitude":-1.440944,
+    "mps:longitude":5.632754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u043e\u0431\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'Annob\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Annob\u00f3n Province"
+    ],
+    "name:eng_x_variant":[
+        "Annobon",
+        "Annob\u00f3n"
+    ],
+    "name:est_x_preferred":[
+        "Annob\u00f3ni provints"
+    ],
+    "name:eus_x_preferred":[
+        "Annobongo probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0646\u0648\u0628\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Annob\u00f3nin provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Province d'Annob\u00f3n"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Annobon"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Annob\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Annobon",
+        "Provincia de Annob\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Administraci\u00f3n Territorial de Annob\u00f3n"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"GNQ",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"GNQ-1467",
+    "ne:adm1_code":"GNQ-1467",
+    "ne:admin":"Equatorial Guinea",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"GQ.AN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1467",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"EK03",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Equatorial Guinea",
+    "ne:gn_a1_code":"GQ.03",
+    "ne:gn_id":"2310307",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Provincia de Annobon",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"EK03",
+    "ne:gns_id":"-2063678",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Annobon",
+    "ne:gns_region":"",
+    "ne:gu_a3":"GNQ",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"GQ-",
+    "ne:iso_a2":"GQ",
+    "ne:labelrank":"8",
+    "ne:latitude":"-1.44699000000",
+    "ne:longitude":"5.62933000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":4,
+    "ne:name":"Annob\u00f3n",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AN",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"GNQ",
+    "ne:sub_code":"",
+    "ne:type":"Provincia",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20069854,
+    "ne:woe_label":"",
+    "ne:woe_name":"Annobon",
+    "qs:a0":"Equatorial Guinea",
+    "qs:a0_lc":"GQ",
+    "qs:a1":"Annob\u00f3n",
+    "qs:a1_lc":"GNQ-1467",
+    "qs:adm0":"Equatorial Guinea",
+    "qs:adm0_a3":"GNQ",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2015-07-19",
+    "statoids:area_km":"17",
+    "statoids:area_mi":"7",
+    "statoids:as_of_date":"2015-07-19",
+    "statoids:capital":"San Antonio de Palea",
+    "statoids:country":"GQ",
+    "statoids:gec":"EK03",
+    "statoids:hasc":"GQ.AN",
+    "statoids:iso":"AN",
+    "statoids:name":"Annob\u00f3n",
+    "statoids:population":"5232",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"GQ-AN",
+    "wof:belongsto":[
+        102191573,
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"EK03",
+        "gn:id":2310307,
+        "gp:id":20069854,
+        "hasc:id":"GQ.AN",
+        "iso:id":"GQ-AN",
+        "qs:id":1149769,
+        "unlc:id":"GQ-AN",
+        "wd:id":"Q3736616",
+        "wk:page":"Annob\u00f3n Province"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5a01086467825844b1009d79d57a37f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "region_id":85671563
+        }
+    ],
+    "wof:id":85671563,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lang_x_official":[
+        "spa",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "spa",
+        "fra"
+    ],
+    "wof:lastmodified":1553550342,
+    "wof:name":"Annob\u00f3n",
+    "wof:parent_id":85632287,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":5232,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:shortcode":"AN",
+    "wof:subdivision":"GQ-AN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60211134000002,
+    -1.46127772299997,
+    5.63708353000004,
+    -1.40211105299994
+],
+  "geometry": {"coordinates":[[[5.60288906100004,-1.41502773799993],[5.60288906100004,-1.41250002399994],[5.60705566400003,-1.41083335899998],[5.60624980900008,-1.40836107699994],[5.60830545400006,-1.40797221699995],[5.609972,-1.40630555199994],[5.61080551100002,-1.40630555199994],[5.61208343500005,-1.40502774699996],[5.61205577900006,-1.40416669799993],[5.61411094700003,-1.40211105299994],[5.61497211500006,-1.40211105299994],[5.61833334000005,-1.40541660799994],[5.62163877500006,-1.40708339199995],[5.62330532100003,-1.40708339199995],[5.62369442000005,-1.40836107699994],[5.62541675600005,-1.40922224499997],[5.62541675600005,-1.40999996699998],[5.62747240100003,-1.41294443599997],[5.62833356900006,-1.41294443599997],[5.63124990500006,-1.41586112999994],[5.63038873700003,-1.41672217799993],[5.63038873700003,-1.41833329199994],[5.63124990500006,-1.41919445999997],[5.63124990500006,-1.42172217399997],[5.63291645100003,-1.42338883899993],[5.63291645100003,-1.42502772799998],[5.63455534000008,-1.42669439299993],[5.63377761800007,-1.42916667499998],[5.63455534000008,-1.43083333999994],[5.63708353000004,-1.43255555599995],[5.63622236300006,-1.43336105299994],[5.63536119500003,-1.43669450299996],[5.63622236300006,-1.43755555199994],[5.63536119500003,-1.43836116799997],[5.63622236300006,-1.44166672199998],[5.63458347300002,-1.44500005199996],[5.63538885100007,-1.44586110099993],[5.63538885100007,-1.44833338299998],[5.63625001900004,-1.45000004799994],[5.63452768300004,-1.45252776099994],[5.63538885100007,-1.45500004299993],[5.63208341600006,-1.45666670799994],[5.63288879400005,-1.45838892499995],[5.63077783600005,-1.46044444999995],[5.62919426000008,-1.46044444999995],[5.62833356900006,-1.45958328199993],[5.62666654600002,-1.46044444999995],[5.62627792400002,-1.45919442199994],[5.62416648900006,-1.45794439299993],[5.62249994300004,-1.45961105799995],[5.62166643100005,-1.45961105799995],[5.62080574000004,-1.45794439299993],[5.61913871800004,-1.45708334399996],[5.61708354900003,-1.45833337299996],[5.61625003800003,-1.46086108699995],[5.61497211500006,-1.46127772299997],[5.61372232400004,-1.46000003799998],[5.61372232400004,-1.45755553199996],[5.61538887000006,-1.45588886699994],[5.61538887000006,-1.45502781899995],[5.61161088900008,-1.45375001399998],[5.61122226700007,-1.45255553699997],[5.60869455300002,-1.44916665599993],[5.60869455300002,-1.44755554199998],[5.61166667900005,-1.44377779999996],[5.61330556900003,-1.44377779999996],[5.61455535900007,-1.44249999499994],[5.61536121400007,-1.44083332999997],[5.61455535900007,-1.43916666499996],[5.60872221000005,-1.42919444999995],[5.60872221000005,-1.42586111999998],[5.60747242000002,-1.42461109199996],[5.60661125200005,-1.42541670799994],[5.60541677500004,-1.42499995199995],[5.60541677500004,-1.42336106299996],[5.60622215300003,-1.42250001399998],[5.60541677500004,-1.42088890099996],[5.60622215300003,-1.42002773299993],[5.60622215300003,-1.41836106799997],[5.60500001900004,-1.41708338299998],[5.60330534000008,-1.41794443099997],[5.60211134000002,-1.41588890599996],[5.60288906100004,-1.41502773799993]]],"type":"Polygon"}
+}

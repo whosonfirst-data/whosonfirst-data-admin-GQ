@@ -1,0 +1,63 @@
+{
+  "id": 1276883287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0,1.0,10.0,1.0",
+    "geom:latitude":1.0,
+    "geom:longitude":10.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Elon",
+    "gn:country_code":"GQ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309170,
+    "gn:latitude":1.0,
+    "gn:longitude":10.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Elon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309170
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"35e76c2daa38ecd3a0a06445bf7d2673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276883287,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276883287,
+    "wof:lastmodified":1537034932,
+    "wof:name":"Elon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0,
+    1.0,
+    10.0,
+    1.0
+],
+  "geometry": {"coordinates":[10.0,1.0],"type":"Point"}
+}

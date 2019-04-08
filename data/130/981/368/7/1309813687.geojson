@@ -1,0 +1,67 @@
+{
+  "id": 1309813687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.24662,1.09343,11.24662,1.09343",
+    "geom:latitude":1.09343,
+    "geom:longitude":11.24662,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asia",
+    "gn:country_code":"GQ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310255,
+    "gn:latitude":1.09343,
+    "gn:longitude":11.24662,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Asi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310255
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d681729f231cba9971a87e2b4cff56a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1309813687,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1309813687,
+    "wof:lastmodified":1536920230,
+    "wof:name":"Asia",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.24662,
+    1.09343,
+    11.24662,
+    1.09343
+],
+  "geometry": {"coordinates":[11.24662,1.09343],"type":"Point"}
+}

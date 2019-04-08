@@ -1,0 +1,67 @@
+{
+  "id": 1243190621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78454,1.98272,10.78454,1.98272",
+    "geom:latitude":1.98272,
+    "geom:longitude":10.78454,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manung",
+    "gn:country_code":"GQ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308464,
+    "gn:latitude":1.98272,
+    "gn:longitude":10.78454,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ma\u00f1ung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308464
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"96f0942a9a34980c8e5a14082d1a0840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785237,
+            "locality_id":1243190621,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1243190621,
+    "wof:lastmodified":1536677355,
+    "wof:name":"Manung",
+    "wof:parent_id":1108785237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78454,
+    1.98272,
+    10.78454,
+    1.98272
+],
+  "geometry": {"coordinates":[10.78454,1.98272],"type":"Point"}
+}

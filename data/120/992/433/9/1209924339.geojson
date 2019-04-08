@@ -1,0 +1,71 @@
+{
+  "id": 1209924339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08773,1.86765,11.08773,1.86765",
+    "geom:latitude":1.86765,
+    "geom:longitude":11.08773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Macomo",
+    "gn:country_code":"GQ",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308601,
+    "gn:latitude":1.86765,
+    "gn:longitude":11.08773,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokomo",
+        "Macomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308601
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9c9414f675f2640f5e18a2888298f189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1209924339,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1209924339,
+    "wof:lastmodified":1537624101,
+    "wof:name":"Macomo",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08773,
+    1.86765,
+    11.08773,
+    1.86765
+],
+  "geometry": {"coordinates":[11.08773,1.86765],"type":"Point"}
+}

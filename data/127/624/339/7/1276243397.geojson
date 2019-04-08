@@ -1,0 +1,71 @@
+{
+  "id": 1276243397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.91721,1.7525,10.91721,1.7525",
+    "geom:latitude":1.7525,
+    "geom:longitude":10.91721,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nniemitang",
+    "gn:country_code":"GQ",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307229,
+    "gn:latitude":1.7525,
+    "gn:longitude":10.91721,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nniemitang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niemitang",
+        "Nniemitang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307229
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"59534ba676ec9502766e9b40d81e2ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1276243397,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1276243397,
+    "wof:lastmodified":1537624079,
+    "wof:name":"Nniemitang",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.91721,
+    1.7525,
+    10.91721,
+    1.7525
+],
+  "geometry": {"coordinates":[10.91721,1.7525],"type":"Point"}
+}

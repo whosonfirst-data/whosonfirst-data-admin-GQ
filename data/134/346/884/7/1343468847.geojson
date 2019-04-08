@@ -1,0 +1,67 @@
+{
+  "id": 1343468847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.13718,1.9262,11.13718,1.9262",
+    "geom:latitude":1.9262,
+    "geom:longitude":11.13718,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Masama",
+    "gn:country_code":"GQ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308442,
+    "gn:latitude":1.9262,
+    "gn:longitude":11.13718,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Masama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308442
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c026aee57852f14e2e9474d6d81675a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1343468847,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1343468847,
+    "wof:lastmodified":1536734111,
+    "wof:name":"Masama",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.13718,
+    1.9262,
+    11.13718,
+    1.9262
+],
+  "geometry": {"coordinates":[11.13718,1.9262],"type":"Point"}
+}

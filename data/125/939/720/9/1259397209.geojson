@@ -1,0 +1,67 @@
+{
+  "id": 1259397209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89114,1.52704,9.89114,1.52704",
+    "geom:latitude":1.52704,
+    "geom:longitude":9.89114,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Enusoc",
+    "gn:country_code":"GQ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309107,
+    "gn:latitude":1.52704,
+    "gn:longitude":9.89114,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Enusoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309107
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d9c4234032b32972b217898e56db76c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1259397209,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1259397209,
+    "wof:lastmodified":1536981789,
+    "wof:name":"Enusoc",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89114,
+    1.52704,
+    9.89114,
+    1.52704
+],
+  "geometry": {"coordinates":[9.89114,1.52704],"type":"Point"}
+}

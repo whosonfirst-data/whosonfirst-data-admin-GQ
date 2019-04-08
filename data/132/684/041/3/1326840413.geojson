@@ -1,0 +1,67 @@
+{
+  "id": 1326840413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62574,1.48621,10.62574,1.48621",
+    "geom:latitude":1.48621,
+    "geom:longitude":10.62574,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Niefang",
+    "gn:country_code":"GQ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307267,
+    "gn:latitude":1.48621,
+    "gn:longitude":10.62574,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Niefang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307267
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a3fbbcf404061df3bd8550cd5d2ecb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1326840413,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1326840413,
+    "wof:lastmodified":1537035332,
+    "wof:name":"Niefang",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62574,
+    1.48621,
+    10.62574,
+    1.48621
+],
+  "geometry": {"coordinates":[10.62574,1.48621],"type":"Point"}
+}

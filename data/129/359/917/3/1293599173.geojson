@@ -1,0 +1,75 @@
+{
+  "id": 1293599173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56689,3.24854,8.56689,3.24854",
+    "geom:latitude":3.24854,
+    "geom:longitude":8.56689,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"San Antonio de Ureca",
+    "gn:country_code":"GQ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306773,
+    "gn:latitude":3.24854,
+    "gn:longitude":8.56689,
+    "gn:modification_date":"2018-01-24",
+    "gn:name":"San Antonio de Ureca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ureka",
+        "Ureca",
+        "San Antonio de Ureka",
+        "Urekd",
+        "San Antonio de Ureca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671599,
+        1108785255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306773,
+        "wk:page":"San_Antonio_de_Ureca"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d814952c1e4764cdb1aaef65aba76f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785255,
+            "locality_id":1293599173,
+            "region_id":85671599
+        }
+    ],
+    "wof:id":1293599173,
+    "wof:lastmodified":1537624074,
+    "wof:name":"San Antonio de Ureca",
+    "wof:parent_id":1108785255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56689,
+    3.24854,
+    8.56689,
+    3.24854
+],
+  "geometry": {"coordinates":[8.56689,3.24854],"type":"Point"}
+}

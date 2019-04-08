@@ -1,0 +1,67 @@
+{
+  "id": 1193034081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.22987,1.39246,11.22987,1.39246",
+    "geom:latitude":1.39246,
+    "geom:longitude":11.22987,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acurensoc",
+    "gn:country_code":"GQ",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310527,
+    "gn:latitude":1.39246,
+    "gn:longitude":11.22987,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Acurensoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310527
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3525cb68bd5ea941578b6a833969948c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1193034081,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1193034081,
+    "wof:lastmodified":1536382925,
+    "wof:name":"Acurensoc",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.22987,
+    1.39246,
+    11.22987,
+    1.39246
+],
+  "geometry": {"coordinates":[11.22987,1.39246],"type":"Point"}
+}

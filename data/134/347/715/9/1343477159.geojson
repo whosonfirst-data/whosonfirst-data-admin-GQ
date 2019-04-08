@@ -1,0 +1,71 @@
+{
+  "id": 1343477159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50622,1.14746,10.50622,1.14746",
+    "geom:latitude":1.14746,
+    "geom:longitude":10.50622,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Enuc",
+    "gn:country_code":"GQ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309112,
+    "gn:latitude":1.14746,
+    "gn:longitude":10.50622,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Enuc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enuk",
+        "Enuc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309112
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"65877fab9c3f583ff3e74b73eee6b219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1343477159,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1343477159,
+    "wof:lastmodified":1537624105,
+    "wof:name":"Enuc",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50622,
+    1.14746,
+    10.50622,
+    1.14746
+],
+  "geometry": {"coordinates":[10.50622,1.14746],"type":"Point"}
+}

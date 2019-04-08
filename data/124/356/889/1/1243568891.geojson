@@ -1,0 +1,71 @@
+{
+  "id": 1243568891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.75747,1.29959,9.75747,1.29959",
+    "geom:latitude":1.29959,
+    "geom:longitude":9.75747,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ichime",
+    "gn:country_code":"GQ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308853,
+    "gn:latitude":1.29959,
+    "gn:longitude":9.75747,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ichime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Echume",
+        "Ichime"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308853
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c3a47bfe1fa10126924d1f0355a0009f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1243568891,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1243568891,
+    "wof:lastmodified":1537624103,
+    "wof:name":"Ichime",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.75747,
+    1.29959,
+    9.75747,
+    1.29959
+],
+  "geometry": {"coordinates":[9.75747,1.29959],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344175325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93357,0.9662,9.93357,0.9662",
+    "geom:latitude":0.9662,
+    "geom:longitude":9.93357,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngamb",
+    "gn:country_code":"GQ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307371,
+    "gn:latitude":0.9662,
+    "gn:longitude":9.93357,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngamb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngambe",
+        "Ngamb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307371
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"60ac636ae407a37b39d0efc16672d985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1344175325,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1344175325,
+    "wof:lastmodified":1537624082,
+    "wof:name":"Ngamb",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93357,
+    0.9662,
+    9.93357,
+    0.9662
+],
+  "geometry": {"coordinates":[9.93357,0.9662],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243472465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.00454,1.03929,11.00454,1.03929",
+    "geom:latitude":1.03929,
+    "geom:longitude":11.00454,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abumeyeme",
+    "gn:country_code":"GQ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310648,
+    "gn:latitude":1.03929,
+    "gn:longitude":11.00454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abumeyeme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abumayeme",
+        "Abumeyeme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310648
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"873001cfbeefe8ae09c80d52402c002b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1243472465,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1243472465,
+    "wof:lastmodified":1537624127,
+    "wof:name":"Abumeyeme",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.00454,
+    1.03929,
+    11.00454,
+    1.03929
+],
+  "geometry": {"coordinates":[11.00454,1.03929],"type":"Point"}
+}

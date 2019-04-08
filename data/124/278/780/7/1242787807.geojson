@@ -1,0 +1,67 @@
+{
+  "id": 1242787807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26821,1.13963,11.26821,1.13963",
+    "geom:latitude":1.13963,
+    "geom:longitude":11.26821,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Masa",
+    "gn:country_code":"GQ",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308452,
+    "gn:latitude":1.13963,
+    "gn:longitude":11.26821,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mas\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308452
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"0036d1104cfedd5ed8b25c0664098f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1242787807,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1242787807,
+    "wof:lastmodified":1536760987,
+    "wof:name":"Masa",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26821,
+    1.13963,
+    11.26821,
+    1.13963
+],
+  "geometry": {"coordinates":[11.26821,1.13963],"type":"Point"}
+}

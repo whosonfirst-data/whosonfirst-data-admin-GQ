@@ -1,0 +1,67 @@
+{
+  "id": 1310420585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24475,1.04414,10.24475,1.04414",
+    "geom:latitude":1.04414,
+    "geom:longitude":10.24475,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mveayong",
+    "gn:country_code":"GQ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307703,
+    "gn:latitude":1.04414,
+    "gn:longitude":10.24475,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mveayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307703
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"cea39e65c22358ad94974e8e4833c1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1310420585,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1310420585,
+    "wof:lastmodified":1537037796,
+    "wof:name":"Mveayong",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24475,
+    1.04414,
+    10.24475,
+    1.04414
+],
+  "geometry": {"coordinates":[10.24475,1.04414],"type":"Point"}
+}

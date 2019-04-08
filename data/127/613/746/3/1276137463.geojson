@@ -1,0 +1,67 @@
+{
+  "id": 1276137463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61992,1.56814,9.61992,1.56814",
+    "geom:latitude":1.56814,
+    "geom:longitude":9.61992,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Poto",
+    "gn:country_code":"GQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306852,
+    "gn:latitude":1.56814,
+    "gn:longitude":9.61992,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Poto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306852
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"46800fe18c75e6d2f5c98b9e56a8890b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1276137463,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1276137463,
+    "wof:lastmodified":1537039421,
+    "wof:name":"Poto",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61992,
+    1.56814,
+    9.61992,
+    1.56814
+],
+  "geometry": {"coordinates":[9.61992,1.56814],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293696627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35799,2.01205,10.35799,2.01205",
+    "geom:latitude":2.01205,
+    "geom:longitude":10.35799,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bocondo",
+    "gn:country_code":"GQ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309713,
+    "gn:latitude":2.01205,
+    "gn:longitude":10.35799,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bocondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309713
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5b6c18a5057dae8d83d986eea5009cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1293696627,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293696627,
+    "wof:lastmodified":1536982060,
+    "wof:name":"Bocondo",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35799,
+    2.01205,
+    10.35799,
+    2.01205
+],
+  "geometry": {"coordinates":[10.35799,2.01205],"type":"Point"}
+}

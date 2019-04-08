@@ -1,0 +1,71 @@
+{
+  "id": 1310415783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28036,1.68064,11.28036,1.68064",
+    "geom:latitude":1.68064,
+    "geom:longitude":11.28036,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngolomo",
+    "gn:country_code":"GQ",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307350,
+    "gn:latitude":1.68064,
+    "gn:longitude":11.28036,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngolomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngulom",
+        "Ngolomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307350
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"831ef05045b5afb05976d73acfb0e981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785265,
+            "locality_id":1310415783,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1310415783,
+    "wof:lastmodified":1537624081,
+    "wof:name":"Ngolomo",
+    "wof:parent_id":1108785265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28036,
+    1.68064,
+    11.28036,
+    1.68064
+],
+  "geometry": {"coordinates":[11.28036,1.68064],"type":"Point"}
+}

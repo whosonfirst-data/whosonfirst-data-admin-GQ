@@ -1,0 +1,67 @@
+{
+  "id": 1243085771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.74035,1.83113,10.74035,1.83113",
+    "geom:latitude":1.83113,
+    "geom:longitude":10.74035,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Namenu",
+    "gn:country_code":"GQ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307660,
+    "gn:latitude":1.83113,
+    "gn:longitude":10.74035,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Name\u00f1u",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307660
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ff4bd260c8ecccd496a06f4eb2693640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1243085771,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1243085771,
+    "wof:lastmodified":1536827488,
+    "wof:name":"Namenu",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.74035,
+    1.83113,
+    10.74035,
+    1.83113
+],
+  "geometry": {"coordinates":[10.74035,1.83113],"type":"Point"}
+}

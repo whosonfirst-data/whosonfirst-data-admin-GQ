@@ -1,0 +1,61 @@
+{
+  "id": 1209629963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.59635,1.46461,9.59635,1.46461",
+    "geom:latitude":1.46461,
+    "geom:longitude":9.59635,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manguma",
+    "gn:country_code":"GQ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308478,
+    "gn:latitude":1.46461,
+    "gn:longitude":9.59635,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Manguma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308478
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5741c0f95a8dfdb8cf9529cf2f0ab943",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209629963
+        }
+    ],
+    "wof:id":1209629963,
+    "wof:lastmodified":1536281222,
+    "wof:name":"Manguma",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.59635,
+    1.46461,
+    9.59635,
+    1.46461
+],
+  "geometry": {"coordinates":[9.59635,1.46461],"type":"Point"}
+}

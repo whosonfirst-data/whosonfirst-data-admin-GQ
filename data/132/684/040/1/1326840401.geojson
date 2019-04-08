@@ -1,0 +1,71 @@
+{
+  "id": 1326840401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48139,1.32485,10.48139,1.32485",
+    "geom:latitude":1.32485,
+    "geom:longitude":10.48139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Metemelete",
+    "gn:country_code":"GQ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308108,
+    "gn:latitude":1.32485,
+    "gn:longitude":10.48139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Metemelete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitemelete",
+        "Metemelete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308108
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9edab50481ed3c751515003eba782a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1326840401,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1326840401,
+    "wof:lastmodified":1537624095,
+    "wof:name":"Metemelete",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48139,
+    1.32485,
+    10.48139,
+    1.32485
+],
+  "geometry": {"coordinates":[10.48139,1.32485],"type":"Point"}
+}

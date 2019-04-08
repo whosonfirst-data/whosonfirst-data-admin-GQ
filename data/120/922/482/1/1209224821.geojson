@@ -1,0 +1,67 @@
+{
+  "id": 1209224821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30741,1.60994,11.30741,1.60994",
+    "geom:latitude":1.60994,
+    "geom:longitude":11.30741,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acoacan",
+    "gn:country_code":"GQ",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310604,
+    "gn:latitude":1.60994,
+    "gn:longitude":11.30741,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Acoacan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acoacam",
+        "Akokam",
+        "Acoacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310604,
+        "wk:page":"Acoac%C3%A1n"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c56eb7e7a3cfd81b46a7ca51e23e4c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209224821
+        }
+    ],
+    "wof:id":1209224821,
+    "wof:lastmodified":1537624126,
+    "wof:name":"Acoacan",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30741,
+    1.60994,
+    11.30741,
+    1.60994
+],
+  "geometry": {"coordinates":[11.30741,1.60994],"type":"Point"}
+}

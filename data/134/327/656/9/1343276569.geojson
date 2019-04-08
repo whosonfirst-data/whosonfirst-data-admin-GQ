@@ -1,0 +1,71 @@
+{
+  "id": 1343276569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91633,3.68166,8.91633,3.68166",
+    "geom:latitude":3.68166,
+    "geom:longitude":8.91633,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tepe",
+    "gn:country_code":"GQ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306639,
+    "gn:latitude":3.68166,
+    "gn:longitude":8.91633,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tep\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tope",
+        "Tep\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671595,
+        1108785233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306639
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a756f2038e581a0080df548d43f30f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785233,
+            "locality_id":1343276569,
+            "region_id":85671595
+        }
+    ],
+    "wof:id":1343276569,
+    "wof:lastmodified":1537624073,
+    "wof:name":"Tepe",
+    "wof:parent_id":1108785233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91633,
+    3.68166,
+    8.91633,
+    3.68166
+],
+  "geometry": {"coordinates":[8.91633,3.68166],"type":"Point"}
+}

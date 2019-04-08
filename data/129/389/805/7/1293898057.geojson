@@ -1,0 +1,63 @@
+{
+  "id": 1293898057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.57274,1.51745,9.57274,1.51745",
+    "geom:latitude":1.51745,
+    "geom:longitude":9.57274,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bindyengue",
+    "gn:country_code":"GQ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309823,
+    "gn:latitude":1.51745,
+    "gn:longitude":9.57274,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bindyengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309823
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"afbe3c21995f432e64160715655c3976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293898057,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293898057,
+    "wof:lastmodified":1536692446,
+    "wof:name":"Bindyengue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.57274,
+    1.51745,
+    9.57274,
+    1.51745
+],
+  "geometry": {"coordinates":[9.57274,1.51745],"type":"Point"}
+}

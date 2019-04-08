@@ -1,0 +1,94 @@
+{
+  "id": 890452731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46716,1.58113,10.46716,1.58113",
+    "geom:latitude":1.58113,
+    "geom:longitude":10.46716,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":2318,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bicurga"
+    ],
+    "name:dut_x_preferred":[
+        "Bicurga"
+    ],
+    "name:eng_x_preferred":[
+        "Bicurga"
+    ],
+    "name:fre_x_preferred":[
+        "Bicurga"
+    ],
+    "name:ita_x_preferred":[
+        "Bicurga"
+    ],
+    "name:spa_x_preferred":[
+        "Bicurga"
+    ],
+    "name:swe_x_preferred":[
+        "Bicurga"
+    ],
+    "name:tur_x_preferred":[
+        "Bicurga"
+    ],
+    "name:unk_x_variant":[
+        "Bikurga"
+    ],
+    "qs:name":"Bicurga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309890,
+        "gp:id":1480495,
+        "qs:id":139457,
+        "wd:id":"Q3639735",
+        "wk:page":"Bicurga"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469052827,
+    "wof:geomhash":"ab04981774077b051483f51b969f560c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890452731,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":890452731,
+    "wof:lastmodified":1527734183,
+    "wof:name":"Bicurga",
+    "wof:parent_id":85671565,
+    "wof:placetype":"locality",
+    "wof:population":2318,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46716,
+    1.58113,
+    10.46716,
+    1.58113
+],
+  "geometry": {"coordinates":[10.46716,1.58113],"type":"Point"}
+}

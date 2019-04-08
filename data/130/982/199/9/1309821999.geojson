@@ -1,0 +1,67 @@
+{
+  "id": 1309821999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82939,1.88297,10.82939,1.88297",
+    "geom:latitude":1.88297,
+    "geom:longitude":10.82939,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oyac",
+    "gn:country_code":"GQ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306899,
+    "gn:latitude":1.88297,
+    "gn:longitude":10.82939,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Oyac",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306899
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"70d6f6ac1fc9bd31a9f4183e77d461f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1309821999,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1309821999,
+    "wof:lastmodified":1536908031,
+    "wof:name":"Oyac",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82939,
+    1.88297,
+    10.82939,
+    1.88297
+],
+  "geometry": {"coordinates":[10.82939,1.88297],"type":"Point"}
+}

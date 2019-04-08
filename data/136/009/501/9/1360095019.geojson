@@ -1,0 +1,67 @@
+{
+  "id": 1360095019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03085,1.99335,10.03085,1.99335",
+    "geom:latitude":1.99335,
+    "geom:longitude":10.03085,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncobeben",
+    "gn:country_code":"GQ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307566,
+    "gn:latitude":1.99335,
+    "gn:longitude":10.03085,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ncobebe\u00f1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307566
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b12666dabfbef4759f536ebff743d130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1360095019,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1360095019,
+    "wof:lastmodified":1536931967,
+    "wof:name":"Ncobeben",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03085,
+    1.99335,
+    10.03085,
+    1.99335
+],
+  "geometry": {"coordinates":[10.03085,1.99335],"type":"Point"}
+}

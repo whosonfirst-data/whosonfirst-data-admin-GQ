@@ -1,0 +1,67 @@
+{
+  "id": 1293696763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93234,1.00182,9.93234,1.00182",
+    "geom:latitude":1.00182,
+    "geom:longitude":9.93234,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbabiyegue",
+    "gn:country_code":"GQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308352,
+    "gn:latitude":1.00182,
+    "gn:longitude":9.93234,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mbabiyegue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308352
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d29ad6f90fd9cd35384981432a44b920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1293696763,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1293696763,
+    "wof:lastmodified":1536981871,
+    "wof:name":"Mbabiyegue",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93234,
+    1.00182,
+    9.93234,
+    1.00182
+],
+  "geometry": {"coordinates":[9.93234,1.00182],"type":"Point"}
+}

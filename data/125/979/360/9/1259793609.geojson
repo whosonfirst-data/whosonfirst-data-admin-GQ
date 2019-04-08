@@ -1,0 +1,63 @@
+{
+  "id": 1259793609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58716,1.55167,9.58716,1.55167",
+    "geom:latitude":1.55167,
+    "geom:longitude":9.58716,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cotango",
+    "gn:country_code":"GQ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309473,
+    "gn:latitude":1.55167,
+    "gn:longitude":9.58716,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cotango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309473
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"fdf40f710b8e7a4520ec137e5138e944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259793609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259793609,
+    "wof:lastmodified":1536908789,
+    "wof:name":"Cotango",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58716,
+    1.55167,
+    9.58716,
+    1.55167
+],
+  "geometry": {"coordinates":[9.58716,1.55167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293696875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61,1.75677,10.61,1.75677",
+    "geom:latitude":1.75677,
+    "geom:longitude":10.61,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asoc",
+    "gn:country_code":"GQ",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310246,
+    "gn:latitude":1.75677,
+    "gn:longitude":10.61,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asok",
+        "Asoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310246
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dd81904ffdfa6ff2a2167a10c201c2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785237,
+            "locality_id":1293696875,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1293696875,
+    "wof:lastmodified":1537624119,
+    "wof:name":"Asoc",
+    "wof:parent_id":1108785237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61,
+    1.75677,
+    10.61,
+    1.75677
+],
+  "geometry": {"coordinates":[10.61,1.75677],"type":"Point"}
+}

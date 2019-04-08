@@ -1,0 +1,62 @@
+{
+  "id": 1209433135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63073,1.67558,10.63073,1.67558",
+    "geom:latitude":1.67558,
+    "geom:longitude":10.63073,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abaamang",
+    "gn:country_code":"GQ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310745,
+    "gn:latitude":1.67558,
+    "gn:longitude":10.63073,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abaamang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310745,
+        "wk:page":"Abaamang"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a6626a59a11cfe1427cd26f32fb6ad35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209433135
+        }
+    ],
+    "wof:id":1209433135,
+    "wof:lastmodified":1537563099,
+    "wof:name":"Abaamang",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63073,
+    1.67558,
+    10.63073,
+    1.67558
+],
+  "geometry": {"coordinates":[10.63073,1.67558],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226160959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13829,1.72219,10.13829,1.72219",
+    "geom:latitude":1.72219,
+    "geom:longitude":10.13829,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Macoga",
+    "gn:country_code":"GQ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308614,
+    "gn:latitude":1.72219,
+    "gn:longitude":10.13829,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Macoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308614
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7cd4a8f501c56710eebea23bce9c0ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1226160959,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1226160959,
+    "wof:lastmodified":1537053483,
+    "wof:name":"Macoga",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13829,
+    1.72219,
+    10.13829,
+    1.72219
+],
+  "geometry": {"coordinates":[10.13829,1.72219],"type":"Point"}
+}

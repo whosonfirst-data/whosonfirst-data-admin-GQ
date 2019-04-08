@@ -1,0 +1,97 @@
+{
+  "id": 890416399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94599,2.02475,10.94599,2.02475",
+    "geom:latitude":2.02475,
+    "geom:longitude":10.94599,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":2122,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nsang"
+    ],
+    "name:dut_x_preferred":[
+        "Nsang"
+    ],
+    "name:eng_x_preferred":[
+        "Nsang"
+    ],
+    "name:fre_x_preferred":[
+        "Nsang"
+    ],
+    "name:ita_x_preferred":[
+        "Nsang"
+    ],
+    "name:pol_x_preferred":[
+        "Nsang"
+    ],
+    "name:spa_x_preferred":[
+        "Nsang"
+    ],
+    "name:swe_x_preferred":[
+        "Nsang"
+    ],
+    "name:tur_x_preferred":[
+        "Nsang"
+    ],
+    "name:unk_x_variant":[
+        "Ensang"
+    ],
+    "qs:name":"Nsang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307197,
+        "gp:id":1311615,
+        "qs:id":139450,
+        "wd:id":"Q3879165",
+        "wk:page":"Nsang"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469051132,
+    "wof:geomhash":"8804015b7238e5bb4298def82577f582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890416399,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":890416399,
+    "wof:lastmodified":1527792798,
+    "wof:name":"Nsang",
+    "wof:parent_id":85671583,
+    "wof:placetype":"locality",
+    "wof:population":2122,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94599,
+    2.02475,
+    10.94599,
+    2.02475
+],
+  "geometry": {"coordinates":[10.94599,2.02475],"type":"Point"}
+}

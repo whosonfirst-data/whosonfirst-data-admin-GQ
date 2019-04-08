@@ -1,0 +1,65 @@
+{
+  "id": 1209329403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10506,2.13567,11.10506,2.13567",
+    "geom:latitude":2.13567,
+    "geom:longitude":11.10506,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Be",
+    "gn:country_code":"GQ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310035,
+    "gn:latitude":2.13567,
+    "gn:longitude":11.10506,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bee",
+        "Be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310035
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"35ff37d29958278c690d6c06a9562b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209329403
+        }
+    ],
+    "wof:id":1209329403,
+    "wof:lastmodified":1537624116,
+    "wof:name":"Be",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10506,
+    2.13567,
+    11.10506,
+    2.13567
+],
+  "geometry": {"coordinates":[11.10506,2.13567],"type":"Point"}
+}

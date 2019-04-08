@@ -1,0 +1,65 @@
+{
+  "id": 1209232851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.72113,1.0499,10.72113,1.0499",
+    "geom:latitude":1.0499,
+    "geom:longitude":10.72113,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acoc",
+    "gn:country_code":"GQ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310601,
+    "gn:latitude":1.0499,
+    "gn:longitude":10.72113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Acoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akok",
+        "Acoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310601
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a61eabf1ca67b06500820900354d6ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209232851
+        }
+    ],
+    "wof:id":1209232851,
+    "wof:lastmodified":1537624125,
+    "wof:name":"Acoc",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.72113,
+    1.0499,
+    10.72113,
+    1.0499
+],
+  "geometry": {"coordinates":[10.72113,1.0499],"type":"Point"}
+}

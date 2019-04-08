@@ -1,0 +1,68 @@
+{
+  "id": 1343373739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34457,1.92973,10.34457,1.92973",
+    "geom:latitude":1.92973,
+    "geom:longitude":10.34457,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkimi",
+    "gn:country_code":"GQ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307247,
+    "gn:latitude":1.92973,
+    "gn:longitude":10.34457,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nkimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307247,
+        "wk:page":"Nkimi"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"27f5d44572a92be2c74a1c3aa1e6ae98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1343373739,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1343373739,
+    "wof:lastmodified":1537563095,
+    "wof:name":"Nkimi",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34457,
+    1.92973,
+    10.34457,
+    1.92973
+],
+  "geometry": {"coordinates":[10.34457,1.92973],"type":"Point"}
+}

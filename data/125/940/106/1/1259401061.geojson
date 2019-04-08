@@ -1,0 +1,67 @@
+{
+  "id": 1259401061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.562,1.4881,9.562,1.4881",
+    "geom:latitude":1.4881,
+    "geom:longitude":9.562,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bandye",
+    "gn:country_code":"GQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310095,
+    "gn:latitude":1.4881,
+    "gn:longitude":9.562,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bandye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310095
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"bd064e528be90c0f963f0de86682c5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785241,
+            "locality_id":1259401061,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1259401061,
+    "wof:lastmodified":1536976532,
+    "wof:name":"Bandye",
+    "wof:parent_id":1108785241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.562,
+    1.4881,
+    9.562,
+    1.4881
+],
+  "geometry": {"coordinates":[9.562,1.4881],"type":"Point"}
+}

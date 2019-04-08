@@ -1,0 +1,61 @@
+{
+  "id": 1243373621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50354,0.98615,9.50354,0.98615",
+    "geom:latitude":0.98615,
+    "geom:longitude":9.50354,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ulando",
+    "gn:country_code":"GQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306568,
+    "gn:latitude":0.98615,
+    "gn:longitude":9.50354,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ulando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306568
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"05560cd1f6879af8d4bf2e96fe134d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243373621,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243373621,
+    "wof:lastmodified":1536910862,
+    "wof:name":"Ulando",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50354,
+    0.98615,
+    9.50354,
+    0.98615
+],
+  "geometry": {"coordinates":[9.50354,0.98615],"type":"Point"}
+}

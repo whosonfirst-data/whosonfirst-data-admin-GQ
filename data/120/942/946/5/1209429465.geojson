@@ -1,0 +1,61 @@
+{
+  "id": 1209429465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30641,1.69992,11.30641,1.69992",
+    "geom:latitude":1.69992,
+    "geom:longitude":11.30641,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bisobinnam",
+    "gn:country_code":"GQ",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309758,
+    "gn:latitude":1.69992,
+    "gn:longitude":11.30641,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bisobinnam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309758
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"1a4822832af3b2543681f165bcfb4caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209429465
+        }
+    ],
+    "wof:id":1209429465,
+    "wof:lastmodified":1536287279,
+    "wof:name":"Bisobinnam",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30641,
+    1.69992,
+    11.30641,
+    1.69992
+],
+  "geometry": {"coordinates":[11.30641,1.69992],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226161355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.93616,1.91678,10.93616,1.91678",
+    "geom:latitude":1.91678,
+    "geom:longitude":10.93616,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncama",
+    "gn:country_code":"GQ",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307628,
+    "gn:latitude":1.91678,
+    "gn:longitude":10.93616,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkon",
+        "Nkam",
+        "Ncama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307628
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9bf102eb05bdf41eb5fabf1792c121ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1226161355,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1226161355,
+    "wof:lastmodified":1537624088,
+    "wof:name":"Ncama",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.93616,
+    1.91678,
+    10.93616,
+    1.91678
+],
+  "geometry": {"coordinates":[10.93616,1.91678],"type":"Point"}
+}

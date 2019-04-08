@@ -1,0 +1,72 @@
+{
+  "id": 1310615605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3438,1.67449,11.3438,1.67449",
+    "geom:latitude":1.67449,
+    "geom:longitude":11.3438,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mvang",
+    "gn:country_code":"GQ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307706,
+    "gn:latitude":1.67449,
+    "gn:longitude":11.3438,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mvang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omvang",
+        "Onvang",
+        "Mvang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307706
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"e76b15b4077d7a5bc9f3ada333826f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1310615605,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310615605,
+    "wof:lastmodified":1537624088,
+    "wof:name":"Mvang",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3438,
+    1.67449,
+    11.3438,
+    1.67449
+],
+  "geometry": {"coordinates":[11.3438,1.67449],"type":"Point"}
+}

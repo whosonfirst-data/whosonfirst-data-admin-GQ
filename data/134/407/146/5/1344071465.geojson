@@ -1,0 +1,71 @@
+{
+  "id": 1344071465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21607,2.03242,11.21607,2.03242",
+    "geom:latitude":2.03242,
+    "geom:longitude":11.21607,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Somoyong",
+    "gn:country_code":"GQ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306670,
+    "gn:latitude":2.03242,
+    "gn:longitude":11.21607,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Somoyong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsoamayong",
+        "Somoyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306670
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"57d911924e7b3e10339b0cc1c3bb8366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1344071465,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1344071465,
+    "wof:lastmodified":1537624074,
+    "wof:name":"Somoyong",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21607,
+    2.03242,
+    11.21607,
+    2.03242
+],
+  "geometry": {"coordinates":[11.21607,2.03242],"type":"Point"}
+}

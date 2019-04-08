@@ -1,0 +1,67 @@
+{
+  "id": 1225859585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81995,1.87988,9.81995,1.87988",
+    "geom:latitude":1.87988,
+    "geom:longitude":9.81995,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Miyoman",
+    "gn:country_code":"GQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307881,
+    "gn:latitude":1.87988,
+    "gn:longitude":9.81995,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Miyoman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307881
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"da756d741e868bd08a68b3c163ea72c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1225859585,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1225859585,
+    "wof:lastmodified":1536992816,
+    "wof:name":"Miyoman",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81995,
+    1.87988,
+    9.81995,
+    1.87988
+],
+  "geometry": {"coordinates":[9.81995,1.87988],"type":"Point"}
+}

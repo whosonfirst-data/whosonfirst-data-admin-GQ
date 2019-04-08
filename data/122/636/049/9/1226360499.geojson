@@ -1,0 +1,67 @@
+{
+  "id": 1226360499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30443,2.11495,11.30443,2.11495",
+    "geom:latitude":2.11495,
+    "geom:longitude":11.30443,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mefeng",
+    "gn:country_code":"GQ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308193,
+    "gn:latitude":2.11495,
+    "gn:longitude":11.30443,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mefeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308193
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"eb728892c193361f4c0e97f67727f02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1226360499,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1226360499,
+    "wof:lastmodified":1536768740,
+    "wof:name":"Mefeng",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30443,
+    2.11495,
+    11.30443,
+    2.11495
+],
+  "geometry": {"coordinates":[11.30443,2.11495],"type":"Point"}
+}

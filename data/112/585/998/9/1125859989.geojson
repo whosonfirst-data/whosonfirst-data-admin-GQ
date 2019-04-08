@@ -1,0 +1,112 @@
+{
+  "id": 1125859989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76209,3.38288,8.76209,3.38288",
+    "geom:latitude":3.38288,
+    "geom:longitude":8.76209,
+    "gn:gn_country":"GQ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":971,
+    "gn:population":971,
+    "iso:country":"GQ",
+    "lbl:latitude":3.38288,
+    "lbl:longitude":8.76209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Riaba"
+    ],
+    "name:dut_x_preferred":[
+        "Riaba"
+    ],
+    "name:eng_x_preferred":[
+        "Riaba"
+    ],
+    "name:fre_x_preferred":[
+        "Riaba"
+    ],
+    "name:ger_x_preferred":[
+        "Riaba"
+    ],
+    "name:ita_x_preferred":[
+        "Riaba"
+    ],
+    "name:pol_x_preferred":[
+        "Riaba"
+    ],
+    "name:spa_x_preferred":[
+        "Riaba"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad de Riaba"
+    ],
+    "name:tur_x_preferred":[
+        "Riaba"
+    ],
+    "name:unk_x_variant":[
+        "Riaba"
+    ],
+    "qs_pg:aaroncc":"GQ",
+    "qs_pg:gn_country":"GQ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2309526,
+    "qs_pg:gn_pop":971,
+    "qs_pg:name":"Ciudad de Riaba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":91216,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671599,
+        1108785281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309526,
+        "qs_pg:id":91216,
+        "wd:id":"Q2604278"
+    },
+    "wof:country":"GQ",
+    "wof:created":1497293788,
+    "wof:geomhash":"0f7d433cb00ec188126e8bd630be186e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785281,
+            "locality_id":1125859989,
+            "region_id":85671599
+        }
+    ],
+    "wof:id":1125859989,
+    "wof:lastmodified":1514443901,
+    "wof:name":"Ciudad de Riaba",
+    "wof:parent_id":1108785281,
+    "wof:placetype":"locality",
+    "wof:population":971,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76209,
+    3.38288,
+    8.76209,
+    3.38288
+],
+  "geometry": {"coordinates":[8.76209,3.38288],"type":"Point"}
+}

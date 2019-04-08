@@ -1,0 +1,71 @@
+{
+  "id": 1259601475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90611,1.76698,10.90611,1.76698",
+    "geom:latitude":1.76698,
+    "geom:longitude":10.90611,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsoc",
+    "gn:country_code":"GQ",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307160,
+    "gn:latitude":1.76698,
+    "gn:longitude":10.90611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nsoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsok",
+        "Nsoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307160
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"834fddbb8b1e85c090fb20911d5b06eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1259601475,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1259601475,
+    "wof:lastmodified":1537624078,
+    "wof:name":"Nsoc",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90611,
+    1.76698,
+    10.90611,
+    1.76698
+],
+  "geometry": {"coordinates":[10.90611,1.76698],"type":"Point"}
+}

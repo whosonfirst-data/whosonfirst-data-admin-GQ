@@ -1,0 +1,86 @@
+{
+  "id": 1293479521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01862,1.69671,11.01862,1.69671",
+    "geom:latitude":1.69671,
+    "geom:longitude":11.01862,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mengomeyen",
+    "gn:country_code":"GQ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309989,
+    "gn:latitude":1.69671,
+    "gn:longitude":11.01862,
+    "gn:modification_date":"2016-03-22",
+    "gn:name":"Mengomey\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
+    "name:fra_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
+    "name:und_x_variant":[
+        "Mongomeyen",
+        "Mangomayen",
+        "Bengonbeyene",
+        "Mengomey\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u6208\u6885\u56e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309989,
+        "wk:page":"Mengomey%C3%A9n"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"02669f205c897f82777861eb5e7cfa60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785269,
+            "locality_id":1293479521,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1293479521,
+    "wof:lastmodified":1537624115,
+    "wof:name":"Mengomeyen",
+    "wof:parent_id":1108785269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01862,
+    1.69671,
+    11.01862,
+    1.69671
+],
+  "geometry": {"coordinates":[11.01862,1.69671],"type":"Point"}
+}

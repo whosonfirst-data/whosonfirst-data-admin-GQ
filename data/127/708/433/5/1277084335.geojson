@@ -1,0 +1,67 @@
+{
+  "id": 1277084335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24346,2.0606,10.24346,2.0606",
+    "geom:latitude":2.0606,
+    "geom:longitude":10.24346,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbintang",
+    "gn:country_code":"GQ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308275,
+    "gn:latitude":2.0606,
+    "gn:longitude":10.24346,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mbintang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308275
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"673ffa501c0e5db9bc72c3cb220fc47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1277084335,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1277084335,
+    "wof:lastmodified":1536765632,
+    "wof:name":"Mbintang",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24346,
+    2.0606,
+    10.24346,
+    2.0606
+],
+  "geometry": {"coordinates":[10.24346,2.0606],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292913427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26849,2.06977,11.26849,2.06977",
+    "geom:latitude":2.06977,
+    "geom:longitude":11.26849,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bifet",
+    "gn:country_code":"GQ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309875,
+    "gn:latitude":2.06977,
+    "gn:longitude":11.26849,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bifet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bifee",
+        "Bifet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309875
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"44dce99c77176a63e36eec75b0fca3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1292913427,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1292913427,
+    "wof:lastmodified":1537624114,
+    "wof:name":"Bifet",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26849,
+    2.06977,
+    11.26849,
+    2.06977
+],
+  "geometry": {"coordinates":[11.26849,2.06977],"type":"Point"}
+}

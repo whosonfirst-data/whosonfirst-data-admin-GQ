@@ -1,0 +1,71 @@
+{
+  "id": 1293024997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91571,3.66693,8.91571,3.66693",
+    "geom:latitude":3.66693,
+    "geom:longitude":8.91571,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cupapa",
+    "gn:country_code":"GQ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309443,
+    "gn:latitude":3.66693,
+    "gn:longitude":8.91571,
+    "gn:modification_date":"2015-01-28",
+    "gn:name":"Cupapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kupapa",
+        "Cupapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671595,
+        1108785233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309443
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"67648a74888aa67ee228bbd7b8d50b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785233,
+            "locality_id":1293024997,
+            "region_id":85671595
+        }
+    ],
+    "wof:id":1293024997,
+    "wof:lastmodified":1537624110,
+    "wof:name":"Cupapa",
+    "wof:parent_id":1108785233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91571,
+    3.66693,
+    8.91571,
+    3.66693
+],
+  "geometry": {"coordinates":[8.91571,3.66693],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226655863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79285,1.64547,9.79285,1.64547",
+    "geom:latitude":1.64547,
+    "geom:longitude":9.79285,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mangumala",
+    "gn:country_code":"GQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308476,
+    "gn:latitude":1.64547,
+    "gn:longitude":9.79285,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mangumala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308476
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ca33d3c852d5500df652eeda9dc4b452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1226655863,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1226655863,
+    "wof:lastmodified":1536843694,
+    "wof:name":"Mangumala",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79285,
+    1.64547,
+    9.79285,
+    1.64547
+],
+  "geometry": {"coordinates":[9.79285,1.64547],"type":"Point"}
+}

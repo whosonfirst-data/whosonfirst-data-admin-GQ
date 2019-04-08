@@ -1,0 +1,67 @@
+{
+  "id": 1344075333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53986,1.61177,10.53986,1.61177",
+    "geom:latitude":1.61177,
+    "geom:longitude":10.53986,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bang",
+    "gn:country_code":"GQ",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310094,
+    "gn:latitude":1.61177,
+    "gn:longitude":10.53986,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310094
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"37fbe6daf26a5b1295d212568017ab98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785239,
+            "locality_id":1344075333,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1344075333,
+    "wof:lastmodified":1536853017,
+    "wof:name":"Bang",
+    "wof:parent_id":1108785239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53986,
+    1.61177,
+    10.53986,
+    1.61177
+],
+  "geometry": {"coordinates":[10.53986,1.61177],"type":"Point"}
+}

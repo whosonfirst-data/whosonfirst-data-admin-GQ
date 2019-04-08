@@ -1,0 +1,65 @@
+{
+  "id": 1209324623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43642,1.3344,10.43642,1.3344",
+    "geom:latitude":1.3344,
+    "geom:longitude":10.43642,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngong",
+    "gn:country_code":"GQ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307325,
+    "gn:latitude":1.3344,
+    "gn:longitude":10.43642,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndgong",
+        "Ngong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307325
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7e26eefd572a86666f9b4c42a14d3e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209324623
+        }
+    ],
+    "wof:id":1209324623,
+    "wof:lastmodified":1537624080,
+    "wof:name":"Ngong",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43642,
+    1.3344,
+    10.43642,
+    1.3344
+],
+  "geometry": {"coordinates":[10.43642,1.3344],"type":"Point"}
+}

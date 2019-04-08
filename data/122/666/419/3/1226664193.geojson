@@ -1,0 +1,71 @@
+{
+  "id": 1226664193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01372,1.59133,10.01372,1.59133",
+    "geom:latitude":1.59133,
+    "geom:longitude":10.01372,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abumnsoc",
+    "gn:country_code":"GQ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310647,
+    "gn:latitude":1.59133,
+    "gn:longitude":10.01372,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abumnsoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abumensok",
+        "Abumnsoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310647
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5d26e25c1b15436a4313d9ef2e73525e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1226664193,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1226664193,
+    "wof:lastmodified":1537624127,
+    "wof:name":"Abumnsoc",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01372,
+    1.59133,
+    10.01372,
+    1.59133
+],
+  "geometry": {"coordinates":[10.01372,1.59133],"type":"Point"}
+}

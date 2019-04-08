@@ -1,0 +1,65 @@
+{
+  "id": 1209332847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.22802,2.11537,11.22802,2.11537",
+    "geom:latitude":2.11537,
+    "geom:longitude":11.22802,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ocua",
+    "gn:country_code":"GQ",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307047,
+    "gn:latitude":2.11537,
+    "gn:longitude":11.22802,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oc\u00faa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okua",
+        "Oc\u00faa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307047
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5d0bda3fa3b85bd4ceca1d53f884c04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209332847
+        }
+    ],
+    "wof:id":1209332847,
+    "wof:lastmodified":1537624076,
+    "wof:name":"Ocua",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.22802,
+    2.11537,
+    11.22802,
+    2.11537
+],
+  "geometry": {"coordinates":[11.22802,2.11537],"type":"Point"}
+}

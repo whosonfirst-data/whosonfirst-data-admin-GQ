@@ -1,0 +1,71 @@
+{
+  "id": 1327352025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68444,1.80028,10.68444,1.80028",
+    "geom:latitude":1.80028,
+    "geom:longitude":10.68444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dun",
+    "gn:country_code":"GQ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309384,
+    "gn:latitude":1.80028,
+    "gn:longitude":10.68444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dum",
+        "Dun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309384
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"282a3d19021a7f0aea511fe8d9cbdefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785237,
+            "locality_id":1327352025,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1327352025,
+    "wof:lastmodified":1537624110,
+    "wof:name":"Dun",
+    "wof:parent_id":1108785237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68444,
+    1.80028,
+    10.68444,
+    1.80028
+],
+  "geometry": {"coordinates":[10.68444,1.80028],"type":"Point"}
+}

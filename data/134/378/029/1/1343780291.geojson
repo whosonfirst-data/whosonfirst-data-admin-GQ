@@ -1,0 +1,67 @@
+{
+  "id": 1343780291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96745,1.73253,9.96745,1.73253",
+    "geom:latitude":1.73253,
+    "geom:longitude":9.96745,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bicoro",
+    "gn:country_code":"GQ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309901,
+    "gn:latitude":1.73253,
+    "gn:longitude":9.96745,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bicoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309901
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ae59a328157e17179a3b0dd87835e43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1343780291,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1343780291,
+    "wof:lastmodified":1536782866,
+    "wof:name":"Bicoro",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96745,
+    1.73253,
+    9.96745,
+    1.73253
+],
+  "geometry": {"coordinates":[9.96745,1.73253],"type":"Point"}
+}

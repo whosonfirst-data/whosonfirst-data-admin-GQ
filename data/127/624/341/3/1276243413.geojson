@@ -1,0 +1,71 @@
+{
+  "id": 1276243413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82149,1.52729,9.82149,1.52729",
+    "geom:latitude":1.52729,
+    "geom:longitude":9.82149,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ecurudya",
+    "gn:country_code":"GQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309232,
+    "gn:latitude":1.52729,
+    "gn:longitude":9.82149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ecurudya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekurecha",
+        "Ecurudya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309232
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"aabe81edb22938287be52a3475d2c434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1276243413,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1276243413,
+    "wof:lastmodified":1537624107,
+    "wof:name":"Ecurudya",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82149,
+    1.52729,
+    9.82149,
+    1.52729
+],
+  "geometry": {"coordinates":[9.82149,1.52729],"type":"Point"}
+}

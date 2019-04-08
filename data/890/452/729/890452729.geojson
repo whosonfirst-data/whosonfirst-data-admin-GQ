@@ -1,0 +1,85 @@
+{
+  "id": 890452729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82212,2.33812,9.82212,2.33812",
+    "geom:latitude":2.33812,
+    "geom:longitude":9.82212,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":1105,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "R\u00edo Campo"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Campo"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Campo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30ab\u30f3\u30dd"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Campo"
+    ],
+    "name:tur_x_preferred":[
+        "Rio Campo"
+    ],
+    "qs:name":"R\u00edo Campo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":256,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306819,
+        "gp:id":1300477,
+        "qs:id":139443,
+        "wd:id":"Q15273982",
+        "wk:page":"R\u00edo Campo"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469052827,
+    "wof:geomhash":"e112274a8e75ea9a139bd08dade05f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890452729,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":890452729,
+    "wof:lastmodified":1527734189,
+    "wof:name":"R\u00edo Campo",
+    "wof:parent_id":85671589,
+    "wof:placetype":"locality",
+    "wof:population":1105,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82212,
+    2.33812,
+    9.82212,
+    2.33812
+],
+  "geometry": {"coordinates":[9.82212,2.33812],"type":"Point"}
+}

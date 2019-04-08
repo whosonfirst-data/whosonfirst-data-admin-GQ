@@ -1,0 +1,72 @@
+{
+  "id": 1310619125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89072,1.15967,9.89072,1.15967",
+    "geom:latitude":1.15967,
+    "geom:longitude":9.89072,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ebongle",
+    "gn:country_code":"GQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309300,
+    "gn:latitude":1.15967,
+    "gn:longitude":9.89072,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ebongle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebonguilla",
+        "Bonguila",
+        "Ebongle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309300
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5f957ef0388b075514a2e3ed1eaabd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1310619125,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1310619125,
+    "wof:lastmodified":1537624108,
+    "wof:name":"Ebongle",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89072,
+    1.15967,
+    9.89072,
+    1.15967
+],
+  "geometry": {"coordinates":[9.89072,1.15967],"type":"Point"}
+}

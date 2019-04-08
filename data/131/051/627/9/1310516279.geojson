@@ -1,0 +1,71 @@
+{
+  "id": 1310516279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57771,1.29686,10.57771,1.29686",
+    "geom:latitude":1.29686,
+    "geom:longitude":10.57771,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Movo",
+    "gn:country_code":"GQ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307746,
+    "gn:latitude":1.29686,
+    "gn:longitude":10.57771,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Movo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mavo",
+        "Movo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307746
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6baa24accbbebe06fbb24fed9408de0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1310516279,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1310516279,
+    "wof:lastmodified":1537624089,
+    "wof:name":"Movo",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57771,
+    1.29686,
+    10.57771,
+    1.29686
+],
+  "geometry": {"coordinates":[10.57771,1.29686],"type":"Point"}
+}

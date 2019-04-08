@@ -1,0 +1,71 @@
+{
+  "id": 1293404725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48788,2.14752,10.48788,2.14752",
+    "geom:latitude":2.14752,
+    "geom:longitude":10.48788,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mfulacon",
+    "gn:country_code":"GQ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308068,
+    "gn:latitude":2.14752,
+    "gn:longitude":10.48788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mfulacon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mfulakom",
+        "Mfulacon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308068
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"22fb397539a3a8f2dcc20b00583b99b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1293404725,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293404725,
+    "wof:lastmodified":1537624094,
+    "wof:name":"Mfulacon",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48788,
+    2.14752,
+    10.48788,
+    2.14752
+],
+  "geometry": {"coordinates":[10.48788,2.14752],"type":"Point"}
+}

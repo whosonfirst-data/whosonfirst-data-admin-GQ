@@ -1,0 +1,105 @@
+{
+  "id": 890416407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95133,1.88262,9.95133,1.88262",
+    "geom:latitude":1.88262,
+    "geom:longitude":9.95133,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":2897,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Machinda"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u6b3d\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Machinda"
+    ],
+    "name:eng_x_preferred":[
+        "Machinda"
+    ],
+    "name:fre_x_preferred":[
+        "Machinda"
+    ],
+    "name:ita_x_preferred":[
+        "Machinda"
+    ],
+    "name:pol_x_preferred":[
+        "Machinda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0438\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Machinda"
+    ],
+    "name:swe_x_preferred":[
+        "Machinda"
+    ],
+    "name:tur_x_preferred":[
+        "Machinda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u06cc\u0646\u0688\u0627"
+    ],
+    "qs:name":"Machinda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"1.883333333",
+    "wd:longitude":"9.966666666",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308626,
+        "gp:id":1311582,
+        "qs:id":139455,
+        "wd:id":"Q924793",
+        "wk:page":"Machinda"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469051133,
+    "wof:geomhash":"3ca43ac98ac18fb22d46cc36a56df43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890416407,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":890416407,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Machinda",
+    "wof:parent_id":85671589,
+    "wof:placetype":"locality",
+    "wof:population":2897,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95133,
+    1.88262,
+    9.95133,
+    1.88262
+],
+  "geometry": {"coordinates":[9.95133,1.88262],"type":"Point"}
+}

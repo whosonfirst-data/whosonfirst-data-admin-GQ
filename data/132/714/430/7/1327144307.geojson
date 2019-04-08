@@ -1,0 +1,71 @@
+{
+  "id": 1327144307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05282,1.67866,11.05282,1.67866",
+    "geom:latitude":1.67866,
+    "geom:longitude":11.05282,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayeguening",
+    "gn:country_code":"GQ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310142,
+    "gn:latitude":1.67866,
+    "gn:longitude":11.05282,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayeguening",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayavene",
+        "Ayeguening"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310142
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"68dd2d7b7438e26312871202575b28e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785269,
+            "locality_id":1327144307,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1327144307,
+    "wof:lastmodified":1537624118,
+    "wof:name":"Ayeguening",
+    "wof:parent_id":1108785269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05282,
+    1.67866,
+    11.05282,
+    1.67866
+],
+  "geometry": {"coordinates":[11.05282,1.67866],"type":"Point"}
+}

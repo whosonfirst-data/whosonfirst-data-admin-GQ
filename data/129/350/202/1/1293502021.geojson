@@ -1,0 +1,67 @@
+{
+  "id": 1293502021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70264,3.27364,8.70264,3.27364",
+    "geom:latitude":3.27364,
+    "geom:longitude":8.70264,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eori",
+    "gn:country_code":"GQ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309102,
+    "gn:latitude":3.27364,
+    "gn:longitude":8.70264,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Eori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671599,
+        1108785281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309102
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"582f1bf458d92d481bfbe7ec7893d4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785281,
+            "locality_id":1293502021,
+            "region_id":85671599
+        }
+    ],
+    "wof:id":1293502021,
+    "wof:lastmodified":1536766412,
+    "wof:name":"Eori",
+    "wof:parent_id":1108785281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70264,
+    3.27364,
+    8.70264,
+    3.27364
+],
+  "geometry": {"coordinates":[8.70264,3.27364],"type":"Point"}
+}

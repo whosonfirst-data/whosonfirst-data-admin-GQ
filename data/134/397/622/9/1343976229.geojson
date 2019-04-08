@@ -1,0 +1,66 @@
+{
+  "id": 1343976229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50559,0.99195,9.50559,0.99195",
+    "geom:latitude":0.99195,
+    "geom:longitude":9.50559,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbelobi",
+    "gn:country_code":"GQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308290,
+    "gn:latitude":0.99195,
+    "gn:longitude":9.50559,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mbelob\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        1108785251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308290
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"f15b91095f84cb521cc3752eb2f964d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785251,
+            "locality_id":1343976229,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343976229,
+    "wof:lastmodified":1536996489,
+    "wof:name":"Mbelobi",
+    "wof:parent_id":1108785251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50559,
+    0.99195,
+    9.50559,
+    0.99195
+],
+  "geometry": {"coordinates":[9.50559,0.99195],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276991249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52326,1.44584,9.52326,1.44584",
+    "geom:latitude":1.44584,
+    "geom:longitude":9.52326,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ilale",
+    "gn:country_code":"GQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308837,
+    "gn:latitude":1.44584,
+    "gn:longitude":9.52326,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ilale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilale-Igene",
+        "Ilale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308837
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"92533479fd507cac6c8d8ae35aab20e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785241,
+            "locality_id":1276991249,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1276991249,
+    "wof:lastmodified":1537624102,
+    "wof:name":"Ilale",
+    "wof:parent_id":1108785241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52326,
+    1.44584,
+    9.52326,
+    1.44584
+],
+  "geometry": {"coordinates":[9.52326,1.44584],"type":"Point"}
+}

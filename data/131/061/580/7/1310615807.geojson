@@ -1,0 +1,71 @@
+{
+  "id": 1310615807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81927,1.60726,9.81927,1.60726",
+    "geom:latitude":1.60726,
+    "geom:longitude":9.81927,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbifala",
+    "gn:country_code":"GQ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308282,
+    "gn:latitude":1.60726,
+    "gn:longitude":9.81927,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbifala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbilifala",
+        "Mbifala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308282
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"0669729ba8265656f506134e8272023b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1310615807,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1310615807,
+    "wof:lastmodified":1537624097,
+    "wof:name":"Mbifala",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81927,
+    1.60726,
+    9.81927,
+    1.60726
+],
+  "geometry": {"coordinates":[9.81927,1.60726],"type":"Point"}
+}

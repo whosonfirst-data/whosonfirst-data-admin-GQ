@@ -1,0 +1,65 @@
+{
+  "id": 1327351907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50038,0.97627,9.50038,0.97627",
+    "geom:latitude":0.97627,
+    "geom:longitude":9.50038,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mendanga",
+    "gn:country_code":"GQ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308151,
+    "gn:latitude":0.97627,
+    "gn:longitude":9.50038,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mendanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bendanga",
+        "Mendanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308151
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c22a64d0cda7b8e0d95e61249ee506f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327351907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327351907,
+    "wof:lastmodified":1537624096,
+    "wof:name":"Mendanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50038,
+    0.97627,
+    9.50038,
+    0.97627
+],
+  "geometry": {"coordinates":[9.50038,0.97627],"type":"Point"}
+}

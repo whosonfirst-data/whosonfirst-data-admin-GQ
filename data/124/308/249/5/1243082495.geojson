@@ -1,0 +1,71 @@
+{
+  "id": 1243082495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69231,1.51526,9.69231,1.51526",
+    "geom:latitude":1.51526,
+    "geom:longitude":9.69231,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncumekie",
+    "gn:country_code":"GQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307487,
+    "gn:latitude":1.51526,
+    "gn:longitude":9.69231,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncumeki\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkumekie",
+        "Ncumeki\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307487
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7d0879027d0edb0f2ffb9b6708ca1c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1243082495,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1243082495,
+    "wof:lastmodified":1537624083,
+    "wof:name":"Ncumekie",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69231,
+    1.51526,
+    9.69231,
+    1.51526
+],
+  "geometry": {"coordinates":[9.69231,1.51526],"type":"Point"}
+}

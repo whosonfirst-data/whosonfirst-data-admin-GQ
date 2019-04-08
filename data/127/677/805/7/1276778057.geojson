@@ -1,0 +1,71 @@
+{
+  "id": 1276778057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31409,2.02079,11.31409,2.02079",
+    "geom:latitude":2.02079,
+    "geom:longitude":11.31409,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mboma",
+    "gn:country_code":"GQ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308253,
+    "gn:latitude":2.02079,
+    "gn:longitude":11.31409,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbomo",
+        "Mboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308253
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7df961d8db3ccdc05f720607c58eef47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1276778057,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1276778057,
+    "wof:lastmodified":1537624097,
+    "wof:name":"Mboma",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31409,
+    2.02079,
+    11.31409,
+    2.02079
+],
+  "geometry": {"coordinates":[11.31409,2.02079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259898367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46336,1.7882,10.46336,1.7882",
+    "geom:latitude":1.7882,
+    "geom:longitude":10.46336,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mfulesong",
+    "gn:country_code":"GQ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308061,
+    "gn:latitude":1.7882,
+    "gn:longitude":10.46336,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mfulesong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nfulensok",
+        "Mfulesong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308061
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6e82b7a582238e56a94d041a56cff743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1259898367,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1259898367,
+    "wof:lastmodified":1537624094,
+    "wof:name":"Mfulesong",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46336,
+    1.7882,
+    10.46336,
+    1.7882
+],
+  "geometry": {"coordinates":[10.46336,1.7882],"type":"Point"}
+}

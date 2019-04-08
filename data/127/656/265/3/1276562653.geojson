@@ -1,0 +1,67 @@
+{
+  "id": 1276562653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.87289,1.89688,9.87289,1.89688",
+    "geom:latitude":1.89688,
+    "geom:longitude":9.87289,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ofos",
+    "gn:country_code":"GQ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307037,
+    "gn:latitude":1.89688,
+    "gn:longitude":9.87289,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ofos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307037
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"df845a27d5512a7898224e2462fb4b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1276562653,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1276562653,
+    "wof:lastmodified":1536968494,
+    "wof:name":"Ofos",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.87289,
+    1.89688,
+    9.87289,
+    1.89688
+],
+  "geometry": {"coordinates":[9.87289,1.89688],"type":"Point"}
+}

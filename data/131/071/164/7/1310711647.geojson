@@ -1,0 +1,81 @@
+{
+  "id": 1310711647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33102,1.98066,11.33102,1.98066",
+    "geom:latitude":1.98066,
+    "geom:longitude":11.33102,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asoc",
+    "gn:country_code":"GQ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310242,
+    "gn:latitude":1.98066,
+    "gn:longitude":11.33102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asok",
+        "Asoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310242
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3956f6ee4022d1ad3a900345e9c3c633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1310711647,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1310711647,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1310711647,
+    "wof:lastmodified":1537624119,
+    "wof:name":"Asoc",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33102,
+    1.98066,
+    11.33102,
+    1.98066
+],
+  "geometry": {"coordinates":[11.33102,1.98066],"type":"Point"}
+}

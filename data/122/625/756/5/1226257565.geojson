@@ -1,0 +1,67 @@
+{
+  "id": 1226257565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24401,1.94525,10.24401,1.94525",
+    "geom:latitude":1.94525,
+    "geom:longitude":10.24401,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Niasam",
+    "gn:country_code":"GQ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307273,
+    "gn:latitude":1.94525,
+    "gn:longitude":10.24401,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Niasam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307273
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"62e364c4c6b2bf33db5076ee7dbd90a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1226257565,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1226257565,
+    "wof:lastmodified":1536917037,
+    "wof:name":"Niasam",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24401,
+    1.94525,
+    10.24401,
+    1.94525
+],
+  "geometry": {"coordinates":[10.24401,1.94525],"type":"Point"}
+}

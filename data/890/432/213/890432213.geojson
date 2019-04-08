@@ -1,0 +1,70 @@
+{
+  "id": 890432213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.64882,1.03225,10.64882,1.03225",
+    "geom:latitude":1.03225,
+    "geom:longitude":10.64882,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":2736,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Akurnam"
+    ],
+    "qs:name":"Acurenam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310533,
+        "gp:id":1480073,
+        "qs:id":278396,
+        "wd:id":"Q2249718",
+        "wk:page":"Acurenam"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469051932,
+    "wof:geomhash":"c18d0b0c7fdcfcab5c8f8ead26d9e133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890432213,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":890432213,
+    "wof:lastmodified":1527793041,
+    "wof:name":"Acurenam",
+    "wof:parent_id":85671565,
+    "wof:placetype":"locality",
+    "wof:population":2736,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.64882,
+    1.03225,
+    10.64882,
+    1.03225
+],
+  "geometry": {"coordinates":[10.64882,1.03225],"type":"Point"}
+}

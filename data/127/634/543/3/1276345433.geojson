@@ -1,0 +1,71 @@
+{
+  "id": 1276345433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32743,1.83959,11.32743,1.83959",
+    "geom:latitude":1.83959,
+    "geom:longitude":11.32743,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Momvo",
+    "gn:country_code":"GQ",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307815,
+    "gn:latitude":1.83959,
+    "gn:longitude":11.32743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Momv\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menv\u00f3",
+        "Momv\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307815
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"1c7d3bc3e3de75f65bf8c2ee4b4764e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1276345433,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1276345433,
+    "wof:lastmodified":1537624089,
+    "wof:name":"Momvo",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32743,
+    1.83959,
+    11.32743,
+    1.83959
+],
+  "geometry": {"coordinates":[11.32743,1.83959],"type":"Point"}
+}

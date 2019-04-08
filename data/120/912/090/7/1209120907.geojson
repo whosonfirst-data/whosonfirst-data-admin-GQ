@@ -1,0 +1,65 @@
+{
+  "id": 1209120907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90685,3.63293,8.90685,3.63293",
+    "geom:latitude":3.63293,
+    "geom:longitude":8.90685,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bao Basuala",
+    "gn:country_code":"GQ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310078,
+    "gn:latitude":3.63293,
+    "gn:longitude":8.90685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba\u00f3 Basuala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baho Basuala",
+        "Ba\u00f3 Basuala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310078
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a0f5a3abbb3b1d20dbd69a2f074c4453",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209120907
+        }
+    ],
+    "wof:id":1209120907,
+    "wof:lastmodified":1537624117,
+    "wof:name":"Bao Basuala",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90685,
+    3.63293,
+    8.90685,
+    3.63293
+],
+  "geometry": {"coordinates":[8.90685,3.63293],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327449827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53128,1.52141,10.53128,1.52141",
+    "geom:latitude":1.52141,
+    "geom:longitude":10.53128,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mongola",
+    "gn:country_code":"GQ",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307797,
+    "gn:latitude":1.52141,
+    "gn:longitude":10.53128,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mongola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangola",
+        "Mongola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307797
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"eeffad8d7b073aa91987cbebd437a091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1327449827,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1327449827,
+    "wof:lastmodified":1537624089,
+    "wof:name":"Mongola",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53128,
+    1.52141,
+    10.53128,
+    1.52141
+],
+  "geometry": {"coordinates":[10.53128,1.52141],"type":"Point"}
+}

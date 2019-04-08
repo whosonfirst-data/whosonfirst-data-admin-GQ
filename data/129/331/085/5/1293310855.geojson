@@ -1,0 +1,67 @@
+{
+  "id": 1293310855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1356,2.04015,11.1356,2.04015",
+    "geom:latitude":2.04015,
+    "geom:longitude":11.1356,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sene",
+    "gn:country_code":"GQ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306712,
+    "gn:latitude":2.04015,
+    "gn:longitude":11.1356,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Se\u00f1e",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306712
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"2cd09545e451cd35703434fa60de4bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1293310855,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1293310855,
+    "wof:lastmodified":1537039999,
+    "wof:name":"Sene",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1356,
+    2.04015,
+    11.1356,
+    2.04015
+],
+  "geometry": {"coordinates":[11.1356,2.04015],"type":"Point"}
+}

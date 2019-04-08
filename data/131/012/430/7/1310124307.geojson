@@ -1,0 +1,67 @@
+{
+  "id": 1310124307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63515,1.50306,10.63515,1.50306",
+    "geom:latitude":1.50306,
+    "geom:longitude":10.63515,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Esong",
+    "gn:country_code":"GQ",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309057,
+    "gn:latitude":1.50306,
+    "gn:longitude":10.63515,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Esong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309057
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"abf1315127b1a69a7407ee59145b9a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1310124307,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1310124307,
+    "wof:lastmodified":1536969066,
+    "wof:name":"Esong",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63515,
+    1.50306,
+    10.63515,
+    1.50306
+],
+  "geometry": {"coordinates":[10.63515,1.50306],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209530465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65674,1.45228,9.65674,1.45228",
+    "geom:latitude":1.45228,
+    "geom:longitude":9.65674,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acalayong",
+    "gn:country_code":"GQ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310637,
+    "gn:latitude":1.45228,
+    "gn:longitude":9.65674,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Acalayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310637
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7661812bf098734b5617423fed392a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209530465
+        }
+    ],
+    "wof:id":1209530465,
+    "wof:lastmodified":1536284296,
+    "wof:name":"Acalayong",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65674,
+    1.45228,
+    9.65674,
+    1.45228
+],
+  "geometry": {"coordinates":[9.65674,1.45228],"type":"Point"}
+}

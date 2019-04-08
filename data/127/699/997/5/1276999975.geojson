@@ -1,0 +1,71 @@
+{
+  "id": 1276999975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01347,0.9688,10.01347,0.9688",
+    "geom:latitude":0.9688,
+    "geom:longitude":10.01347,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Niefala",
+    "gn:country_code":"GQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307269,
+    "gn:latitude":0.9688,
+    "gn:longitude":10.01347,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niefala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nniefala",
+        "Niefala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307269
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"4f9b4535e8b2a05282df3cd9bce19239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908869,
+            "locality_id":1276999975,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1276999975,
+    "wof:lastmodified":1537624080,
+    "wof:name":"Niefala",
+    "wof:parent_id":1091908869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01347,
+    0.9688,
+    10.01347,
+    0.9688
+],
+  "geometry": {"coordinates":[10.01347,0.9688],"type":"Point"}
+}

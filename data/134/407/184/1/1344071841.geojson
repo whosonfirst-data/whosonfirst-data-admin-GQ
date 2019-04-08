@@ -1,0 +1,71 @@
+{
+  "id": 1344071841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4511,2.08574,10.4511,2.08574",
+    "geom:latitude":2.08574,
+    "geom:longitude":10.4511,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cam",
+    "gn:country_code":"GQ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309573,
+    "gn:latitude":2.08574,
+    "gn:longitude":10.4511,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kam",
+        "Cam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309573
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"cee866179c69ef1d03ad8a5e3a3c84d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1344071841,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1344071841,
+    "wof:lastmodified":1537624111,
+    "wof:name":"Cam",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4511,
+    2.08574,
+    10.4511,
+    2.08574
+],
+  "geometry": {"coordinates":[10.4511,2.08574],"type":"Point"}
+}

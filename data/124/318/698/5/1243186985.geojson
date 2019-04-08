@@ -1,0 +1,71 @@
+{
+  "id": 1243186985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44849,1.73713,10.44849,1.73713",
+    "geom:latitude":1.73713,
+    "geom:longitude":10.44849,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncoadyap",
+    "gn:country_code":"GQ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307591,
+    "gn:latitude":1.73713,
+    "gn:longitude":10.44849,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncoadyap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nko\u2019achap",
+        "Ncoadyap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307591
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a49b71d61b782bd7abb46d93eaf19e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1243186985,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1243186985,
+    "wof:lastmodified":1537624086,
+    "wof:name":"Ncoadyap",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44849,
+    1.73713,
+    10.44849,
+    1.73713
+],
+  "geometry": {"coordinates":[10.44849,1.73713],"type":"Point"}
+}

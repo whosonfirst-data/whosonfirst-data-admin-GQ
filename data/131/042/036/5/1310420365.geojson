@@ -1,0 +1,67 @@
+{
+  "id": 1310420365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28998,2.02959,11.28998,2.02959",
+    "geom:latitude":2.02959,
+    "geom:longitude":11.28998,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oveng",
+    "gn:country_code":"GQ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306916,
+    "gn:latitude":2.02959,
+    "gn:longitude":11.28998,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Oveng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306916
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"67565ebe6dbb35c251b1e94d3a92f603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1310420365,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1310420365,
+    "wof:lastmodified":1537038100,
+    "wof:name":"Oveng",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28998,
+    2.02959,
+    11.28998,
+    2.02959
+],
+  "geometry": {"coordinates":[11.28998,2.02959],"type":"Point"}
+}

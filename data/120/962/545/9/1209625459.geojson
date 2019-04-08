@@ -1,0 +1,61 @@
+{
+  "id": 1209625459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4551,1.08493,10.4551,1.08493",
+    "geom:latitude":1.08493,
+    "geom:longitude":10.4551,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Avensoc",
+    "gn:country_code":"GQ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2310182,
+    "gn:latitude":1.08493,
+    "gn:longitude":10.4551,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Avensoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310182
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ac898cd8db4dcab798e64d519076342d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209625459
+        }
+    ],
+    "wof:id":1209625459,
+    "wof:lastmodified":1536281369,
+    "wof:name":"Avensoc",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4551,
+    1.08493,
+    10.4551,
+    1.08493
+],
+  "geometry": {"coordinates":[10.4551,1.08493],"type":"Point"}
+}

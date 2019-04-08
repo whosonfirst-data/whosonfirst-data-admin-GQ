@@ -1,0 +1,67 @@
+{
+  "id": 1226554499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42093,1.08105,10.42093,1.08105",
+    "geom:latitude":1.08105,
+    "geom:longitude":10.42093,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndyedum",
+    "gn:country_code":"GQ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2307421,
+    "gn:latitude":1.08105,
+    "gn:longitude":10.42093,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ndyedum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307421
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dceaffaa7ff670e339bca301fc233ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1226554499,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1226554499,
+    "wof:lastmodified":1536984545,
+    "wof:name":"Ndyedum",
+    "wof:parent_id":1108785227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42093,
+    1.08105,
+    10.42093,
+    1.08105
+],
+  "geometry": {"coordinates":[10.42093,1.08105],"type":"Point"}
+}

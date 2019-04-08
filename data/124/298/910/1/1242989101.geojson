@@ -1,0 +1,67 @@
+{
+  "id": 1242989101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7647,1.82942,9.7647,1.82942",
+    "geom:latitude":1.82942,
+    "geom:longitude":9.7647,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bilorto",
+    "gn:country_code":"GQ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309838,
+    "gn:latitude":1.82942,
+    "gn:longitude":9.7647,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bilorto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309838
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"2450a121c7d1719d4c108957687b4ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1242989101,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1242989101,
+    "wof:lastmodified":1536967640,
+    "wof:name":"Bilorto",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7647,
+    1.82942,
+    9.7647,
+    1.82942
+],
+  "geometry": {"coordinates":[9.7647,1.82942],"type":"Point"}
+}

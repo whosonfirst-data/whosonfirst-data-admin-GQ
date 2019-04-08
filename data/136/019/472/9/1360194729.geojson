@@ -1,0 +1,70 @@
+{
+  "id": 1360194729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50064,0.97367,9.50064,0.97367",
+    "geom:latitude":0.97367,
+    "geom:longitude":9.50064,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bondei",
+    "gn:country_code":"GQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309664,
+    "gn:latitude":0.97367,
+    "gn:longitude":9.50064,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bondei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandy",
+        "Bondei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        1108785251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309664
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"4dac70154890ab7b1b678da7455ae499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785251,
+            "locality_id":1360194729,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360194729,
+    "wof:lastmodified":1537624112,
+    "wof:name":"Bondei",
+    "wof:parent_id":1108785251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50064,
+    0.97367,
+    9.50064,
+    0.97367
+],
+  "geometry": {"coordinates":[9.50064,0.97367],"type":"Point"}
+}

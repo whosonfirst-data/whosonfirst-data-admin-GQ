@@ -1,0 +1,67 @@
+{
+  "id": 1226360783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8104,2.15101,10.8104,2.15101",
+    "geom:latitude":2.15101,
+    "geom:longitude":10.8104,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beayop",
+    "gn:country_code":"GQ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310033,
+    "gn:latitude":2.15101,
+    "gn:longitude":10.8104,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Beayop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310033
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"953db23d2cc81430c60fb6b5c9ae9f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785263,
+            "locality_id":1226360783,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1226360783,
+    "wof:lastmodified":1536768321,
+    "wof:name":"Beayop",
+    "wof:parent_id":1108785263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8104,
+    2.15101,
+    10.8104,
+    2.15101
+],
+  "geometry": {"coordinates":[10.8104,2.15101],"type":"Point"}
+}

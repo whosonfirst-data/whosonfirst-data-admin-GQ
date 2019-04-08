@@ -1,0 +1,67 @@
+{
+  "id": 1293599319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28963,1.35485,10.28963,1.35485",
+    "geom:latitude":1.35485,
+    "geom:longitude":10.28963,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mvain",
+    "gn:country_code":"GQ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307707,
+    "gn:latitude":1.35485,
+    "gn:longitude":10.28963,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mvai\u00f1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307707
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6db52b8d524dc2f31a906c5cc9db6c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1293599319,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293599319,
+    "wof:lastmodified":1536623818,
+    "wof:name":"Mvain",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28963,
+    1.35485,
+    10.28963,
+    1.35485
+],
+  "geometry": {"coordinates":[10.28963,1.35485],"type":"Point"}
+}

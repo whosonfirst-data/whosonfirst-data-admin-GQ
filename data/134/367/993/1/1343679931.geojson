@@ -1,0 +1,67 @@
+{
+  "id": 1343679931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45805,1.19686,10.45805,1.19686",
+    "geom:latitude":1.19686,
+    "geom:longitude":10.45805,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Engomngom",
+    "gn:country_code":"GQ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309132,
+    "gn:latitude":1.19686,
+    "gn:longitude":10.45805,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Engomngom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309132
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"89e0787aa4ee550e3c3a81e1d1ffb371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1343679931,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1343679931,
+    "wof:lastmodified":1536927689,
+    "wof:name":"Engomngom",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45805,
+    1.19686,
+    10.45805,
+    1.19686
+],
+  "geometry": {"coordinates":[10.45805,1.19686],"type":"Point"}
+}

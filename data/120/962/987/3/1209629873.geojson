@@ -1,0 +1,61 @@
+{
+  "id": 1209629873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47392,1.50578,10.47392,1.50578",
+    "geom:latitude":1.50578,
+    "geom:longitude":10.47392,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adyabasi",
+    "gn:country_code":"GQ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310517,
+    "gn:latitude":1.50578,
+    "gn:longitude":10.47392,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Adyabasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310517
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7c9b7d4a5537f0b4616ad1eae39fd876",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209629873
+        }
+    ],
+    "wof:id":1209629873,
+    "wof:lastmodified":1536281225,
+    "wof:name":"Adyabasi",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47392,
+    1.50578,
+    10.47392,
+    1.50578
+],
+  "geometry": {"coordinates":[10.47392,1.50578],"type":"Point"}
+}

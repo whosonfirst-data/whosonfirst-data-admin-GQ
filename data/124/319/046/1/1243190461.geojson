@@ -1,0 +1,71 @@
+{
+  "id": 1243190461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08046,1.73175,10.08046,1.73175",
+    "geom:latitude":1.73175,
+    "geom:longitude":10.08046,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mosumo",
+    "gn:country_code":"GQ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307758,
+    "gn:latitude":1.73175,
+    "gn:longitude":10.08046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mosumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mosumu",
+        "Mosumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307758
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"da2c3e5bc1c9d92649d0e9a699bf035a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1243190461,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1243190461,
+    "wof:lastmodified":1537624089,
+    "wof:name":"Mosumo",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08046,
+    1.73175,
+    10.08046,
+    1.73175
+],
+  "geometry": {"coordinates":[10.08046,1.73175],"type":"Point"}
+}

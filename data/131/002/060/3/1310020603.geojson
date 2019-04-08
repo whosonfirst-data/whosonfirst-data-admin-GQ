@@ -1,0 +1,71 @@
+{
+  "id": 1310020603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32204,0.892,9.32204,0.892",
+    "geom:latitude":0.892,
+    "geom:longitude":9.32204,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lembue",
+    "gn:country_code":"GQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308732,
+    "gn:latitude":0.892,
+    "gn:longitude":9.32204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lembue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lambu\u00e9",
+        "Lembue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308732
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"4ea8ae06c1364ab03542b656236e1cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785245,
+            "locality_id":1310020603,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1310020603,
+    "wof:lastmodified":1537624102,
+    "wof:name":"Lembue",
+    "wof:parent_id":1108785245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32204,
+    0.892,
+    9.32204,
+    0.892
+],
+  "geometry": {"coordinates":[9.32204,0.892],"type":"Point"}
+}

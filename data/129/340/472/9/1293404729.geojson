@@ -1,0 +1,71 @@
+{
+  "id": 1293404729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10342,0.98394,10.10342,0.98394",
+    "geom:latitude":0.98394,
+    "geom:longitude":10.10342,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anguma",
+    "gn:country_code":"GQ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310316,
+    "gn:latitude":0.98394,
+    "gn:longitude":10.10342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anguma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angume",
+        "Anguma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310316
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a001f1f2a00a748de47ab28b7a229ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908869,
+            "locality_id":1293404729,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1293404729,
+    "wof:lastmodified":1537624120,
+    "wof:name":"Anguma",
+    "wof:parent_id":1091908869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10342,
+    0.98394,
+    10.10342,
+    0.98394
+],
+  "geometry": {"coordinates":[10.10342,0.98394],"type":"Point"}
+}

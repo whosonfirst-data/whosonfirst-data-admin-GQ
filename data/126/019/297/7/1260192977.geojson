@@ -1,0 +1,71 @@
+{
+  "id": 1260192977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95946,1.79627,9.95946,1.79627",
+    "geom:latitude":1.79627,
+    "geom:longitude":9.95946,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayacue",
+    "gn:country_code":"GQ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310160,
+    "gn:latitude":1.79627,
+    "gn:longitude":9.95946,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayacue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aya\u2019kue",
+        "Ayacue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310160
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"8765de0b2d75231ada6a08c40e67b1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1260192977,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1260192977,
+    "wof:lastmodified":1537624118,
+    "wof:name":"Ayacue",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95946,
+    1.79627,
+    9.95946,
+    1.79627
+],
+  "geometry": {"coordinates":[9.95946,1.79627],"type":"Point"}
+}

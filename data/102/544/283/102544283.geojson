@@ -1,0 +1,64 @@
+{
+  "id": 102544283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70861111111,3.755,8.70861111111,3.755",
+    "geom:latitude":3.755,
+    "geom:longitude":8.708611,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"76",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424804,
+        "planet_id":1,
+        "state_id":20069855
+    },
+    "wof:belongsto":[
+        85632287,
+        85671595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512730,
+        "iata:code":"SSG",
+        "icao:code":"FGSL",
+        "oa:id":"2876",
+        "wd:id":"Q655320"
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7f03dbd7df31015a3cb82c6a4fd3b18f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544283,
+            "country_id":85632287,
+            "region_id":85671595
+        }
+    ],
+    "wof:id":102544283,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Malabo Airport",
+    "wof:parent_id":85671595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.7086111111111,
+    3.755,
+    8.7086111111111,
+    3.755
+],
+  "geometry": {"coordinates":[8.7086111111111,3.755],"type":"Point"}
+}

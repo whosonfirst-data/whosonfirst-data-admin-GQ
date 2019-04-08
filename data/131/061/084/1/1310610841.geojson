@@ -1,0 +1,67 @@
+{
+  "id": 1310610841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03302,1.95598,11.03302,1.95598",
+    "geom:latitude":1.95598,
+    "geom:longitude":11.03302,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayene",
+    "gn:country_code":"GQ",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310132,
+    "gn:latitude":1.95598,
+    "gn:longitude":11.03302,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ayene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310132
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"184197095364afa5cd7b59dc04c386f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1310610841,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1310610841,
+    "wof:lastmodified":1536765275,
+    "wof:name":"Ayene",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03302,
+    1.95598,
+    11.03302,
+    1.95598
+],
+  "geometry": {"coordinates":[11.03302,1.95598],"type":"Point"}
+}

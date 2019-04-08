@@ -1,0 +1,67 @@
+{
+  "id": 1226153001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62085,1.67397,9.62085,1.67397",
+    "geom:latitude":1.67397,
+    "geom:longitude":9.62085,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Melong",
+    "gn:country_code":"GQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308170,
+    "gn:latitude":1.67397,
+    "gn:longitude":9.62085,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Melong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308170
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b6b46df1872a6ac7ea8c4195a926083f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1226153001,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1226153001,
+    "wof:lastmodified":1537064303,
+    "wof:name":"Melong",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62085,
+    1.67397,
+    9.62085,
+    1.67397
+],
+  "geometry": {"coordinates":[9.62085,1.67397],"type":"Point"}
+}

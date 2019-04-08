@@ -1,0 +1,71 @@
+{
+  "id": 1226057567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02744,2.15386,11.02744,2.15386",
+    "geom:latitude":2.15386,
+    "geom:longitude":11.02744,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Atom",
+    "gn:country_code":"GQ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310202,
+    "gn:latitude":2.15386,
+    "gn:longitude":11.02744,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aton",
+        "Atom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310202
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c2d5b72ec5c258994efb35427d8e94c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1226057567,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1226057567,
+    "wof:lastmodified":1537624119,
+    "wof:name":"Atom",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02744,
+    2.15386,
+    11.02744,
+    2.15386
+],
+  "geometry": {"coordinates":[11.02744,2.15386],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226457183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36828,1.94687,10.36828,1.94687",
+    "geom:latitude":1.94687,
+    "geom:longitude":10.36828,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dumandui",
+    "gn:country_code":"GQ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309390,
+    "gn:latitude":1.94687,
+    "gn:longitude":10.36828,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dumandui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumandui\u00f1",
+        "Dumandui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309390
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6caed7ce0efab057ddaeec9d699bceab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1226457183,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1226457183,
+    "wof:lastmodified":1537624110,
+    "wof:name":"Dumandui",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36828,
+    1.94687,
+    10.36828,
+    1.94687
+],
+  "geometry": {"coordinates":[10.36828,1.94687],"type":"Point"}
+}

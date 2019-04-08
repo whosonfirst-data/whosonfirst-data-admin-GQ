@@ -1,0 +1,71 @@
+{
+  "id": 1293607383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91014,2.16664,9.91014,2.16664",
+    "geom:latitude":2.16664,
+    "geom:longitude":9.91014,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Macora",
+    "gn:country_code":"GQ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308587,
+    "gn:latitude":2.16664,
+    "gn:longitude":9.91014,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makora",
+        "Macora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308587
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"656810631b73237b1c51b6b2b541d58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1293607383,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1293607383,
+    "wof:lastmodified":1537624100,
+    "wof:name":"Macora",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91014,
+    2.16664,
+    9.91014,
+    2.16664
+],
+  "geometry": {"coordinates":[9.91014,2.16664],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259997945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.87754,2.02273,9.87754,2.02273",
+    "geom:latitude":2.02273,
+    "geom:longitude":9.87754,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Afanabang",
+    "gn:country_code":"GQ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310471,
+    "gn:latitude":2.02273,
+    "gn:longitude":9.87754,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Afanabang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310471
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"03d32245df7f0bd9beb041b614fc7c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1259997945,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1259997945,
+    "wof:lastmodified":1536611792,
+    "wof:name":"Afanabang",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.87754,
+    2.02273,
+    9.87754,
+    2.02273
+],
+  "geometry": {"coordinates":[9.87754,2.02273],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259493275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61613,1.17976,9.61613,1.17976",
+    "geom:latitude":1.17976,
+    "geom:longitude":9.61613,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncolamvan",
+    "gn:country_code":"GQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307541,
+    "gn:latitude":1.17976,
+    "gn:longitude":9.61613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncolamvan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkol\u2019Amvam",
+        "Ncol\u00e1mvam",
+        "Ncolamvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307541
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"1b4000d9e99dcf1d252123095b117906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1259493275,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1259493275,
+    "wof:lastmodified":1537624085,
+    "wof:name":"Ncolamvan",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61613,
+    1.17976,
+    9.61613,
+    1.17976
+],
+  "geometry": {"coordinates":[9.61613,1.17976],"type":"Point"}
+}

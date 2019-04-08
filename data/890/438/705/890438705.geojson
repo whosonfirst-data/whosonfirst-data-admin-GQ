@@ -1,0 +1,92 @@
+{
+  "id": 890438705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9084,3.6992,8.9084,3.6992",
+    "geom:latitude":3.6992,
+    "geom:longitude":8.9084,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":2365,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Baney"
+    ],
+    "name:dut_x_preferred":[
+        "Baney"
+    ],
+    "name:eng_x_preferred":[
+        "Baney"
+    ],
+    "name:fre_x_preferred":[
+        "Baney"
+    ],
+    "name:ita_x_preferred":[
+        "Baney"
+    ],
+    "name:spa_x_preferred":[
+        "Baney"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago de Baney"
+    ],
+    "name:tur_x_preferred":[
+        "Baney"
+    ],
+    "name:unk_x_variant":[
+        "Baney"
+    ],
+    "qs:name":"Santiago de Baney",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306722,
+        "gp:id":1480564,
+        "qs:id":1034794,
+        "wd:id":"Q962164"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469052206,
+    "wof:geomhash":"158a492dcba2b61317e1b25cc6b6913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890438705,
+            "region_id":85671595
+        }
+    ],
+    "wof:id":890438705,
+    "wof:lastmodified":1514443907,
+    "wof:name":"Santiago de Baney",
+    "wof:parent_id":85671595,
+    "wof:placetype":"locality",
+    "wof:population":2365,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9084,
+    3.6992,
+    8.9084,
+    3.6992
+],
+  "geometry": {"coordinates":[8.9084,3.6992],"type":"Point"}
+}

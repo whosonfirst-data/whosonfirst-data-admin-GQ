@@ -1,0 +1,61 @@
+{
+  "id": 1293399985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58283,1.03627,9.58283,1.03627",
+    "geom:latitude":1.03627,
+    "geom:longitude":9.58283,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Namelen",
+    "gn:country_code":"GQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307661,
+    "gn:latitude":1.03627,
+    "gn:longitude":9.58283,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u00d1amelen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307661
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3ceebf8b1a5ecb4b6eebcb01c219bd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293399985,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293399985,
+    "wof:lastmodified":1536913497,
+    "wof:name":"Namelen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58283,
+    1.03627,
+    9.58283,
+    1.03627
+],
+  "geometry": {"coordinates":[9.58283,1.03627],"type":"Point"}
+}

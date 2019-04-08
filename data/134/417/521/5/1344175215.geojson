@@ -1,0 +1,67 @@
+{
+  "id": 1344175215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.20892,2.17536,11.20892,2.17536",
+    "geom:latitude":2.17536,
+    "geom:longitude":11.20892,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Okeng",
+    "gn:country_code":"GQ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307029,
+    "gn:latitude":2.17536,
+    "gn:longitude":11.20892,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Okeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669971,
+        1092012107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307029
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"cf12e8258b17078324e4e9718f73333a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092012107,
+            "locality_id":1344175215,
+            "region_id":85669971
+        }
+    ],
+    "wof:id":1344175215,
+    "wof:lastmodified":1536710293,
+    "wof:name":"Okeng",
+    "wof:parent_id":1092012107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.20892,
+    2.17536,
+    11.20892,
+    2.17536
+],
+  "geometry": {"coordinates":[11.20892,2.17536],"type":"Point"}
+}

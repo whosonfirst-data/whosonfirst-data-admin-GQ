@@ -1,0 +1,71 @@
+{
+  "id": 1344071827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96379,1.69668,9.96379,1.69668",
+    "geom:latitude":1.69668,
+    "geom:longitude":9.96379,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Moguomo",
+    "gn:country_code":"GQ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307831,
+    "gn:latitude":1.69668,
+    "gn:longitude":9.96379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moguomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawomo",
+        "Moguomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307831
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"759836feb9e3da29880041e25091054f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1344071827,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1344071827,
+    "wof:lastmodified":1537624090,
+    "wof:name":"Moguomo",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96379,
+    1.69668,
+    9.96379,
+    1.69668
+],
+  "geometry": {"coordinates":[9.96379,1.69668],"type":"Point"}
+}

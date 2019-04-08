@@ -1,0 +1,71 @@
+{
+  "id": 1226660821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10303,1.76474,10.10303,1.76474",
+    "geom:latitude":1.76474,
+    "geom:longitude":10.10303,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsogobuot",
+    "gn:country_code":"GQ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307146,
+    "gn:latitude":1.76474,
+    "gn:longitude":10.10303,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nsogobuot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsogobor",
+        "Nsogobuot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307146
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c9d73032a42a7d2c0bec88529ece79aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785271,
+            "locality_id":1226660821,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1226660821,
+    "wof:lastmodified":1537624078,
+    "wof:name":"Nsogobuot",
+    "wof:parent_id":1108785271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10303,
+    1.76474,
+    10.10303,
+    1.76474
+],
+  "geometry": {"coordinates":[10.10303,1.76474],"type":"Point"}
+}

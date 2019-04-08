@@ -1,0 +1,71 @@
+{
+  "id": 1327040113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71165,3.70928,8.71165,3.70928",
+    "geom:latitude":3.70928,
+    "geom:longitude":8.71165,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sacriba",
+    "gn:country_code":"GQ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306792,
+    "gn:latitude":3.70928,
+    "gn:longitude":8.71165,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e1criba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shack-River",
+        "S\u00e1criba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671595,
+        1108785257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306792
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"4c0856dc2c164cad8088e01a7d5668a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785257,
+            "locality_id":1327040113,
+            "region_id":85671595
+        }
+    ],
+    "wof:id":1327040113,
+    "wof:lastmodified":1537624075,
+    "wof:name":"Sacriba",
+    "wof:parent_id":1108785257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71165,
+    3.70928,
+    8.71165,
+    3.70928
+],
+  "geometry": {"coordinates":[8.71165,3.70928],"type":"Point"}
+}

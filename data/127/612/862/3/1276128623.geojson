@@ -1,0 +1,67 @@
+{
+  "id": 1276128623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76791,1.6299,10.76791,1.6299",
+    "geom:latitude":1.6299,
+    "geom:longitude":10.76791,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manchine",
+    "gn:country_code":"GQ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308524,
+    "gn:latitude":1.6299,
+    "gn:longitude":10.76791,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Manchine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308524
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6afa6d713853d0efc9dd4f1ca7bc42a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1276128623,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1276128623,
+    "wof:lastmodified":1537050699,
+    "wof:name":"Manchine",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76791,
+    1.6299,
+    10.76791,
+    1.6299
+],
+  "geometry": {"coordinates":[10.76791,1.6299],"type":"Point"}
+}

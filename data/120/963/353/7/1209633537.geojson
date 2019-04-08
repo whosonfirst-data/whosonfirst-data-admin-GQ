@@ -1,0 +1,65 @@
+{
+  "id": 1209633537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62837,1.95338,10.62837,1.95338",
+    "geom:latitude":1.95338,
+    "geom:longitude":10.62837,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mvongo",
+    "gn:country_code":"GQ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307669,
+    "gn:latitude":1.95338,
+    "gn:longitude":10.62837,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mvongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nvongo",
+        "Mvongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307669
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"477924e98db0229fa3442c1290b17401",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209633537
+        }
+    ],
+    "wof:id":1209633537,
+    "wof:lastmodified":1537624088,
+    "wof:name":"Mvongo",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62837,
+    1.95338,
+    10.62837,
+    1.95338
+],
+  "geometry": {"coordinates":[10.62837,1.95338],"type":"Point"}
+}

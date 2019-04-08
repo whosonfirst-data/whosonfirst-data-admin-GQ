@@ -1,0 +1,67 @@
+{
+  "id": 1310711639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84446,1.67923,10.84446,1.67923",
+    "geom:latitude":1.67923,
+    "geom:longitude":10.84446,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ecoguong",
+    "gn:country_code":"GQ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309261,
+    "gn:latitude":1.67923,
+    "gn:longitude":10.84446,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ecoguong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309261
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9583f02ab2c0273f0f5bd0c201a5fec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1310711639,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1310711639,
+    "wof:lastmodified":1536617211,
+    "wof:name":"Ecoguong",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84446,
+    1.67923,
+    10.84446,
+    1.67923
+],
+  "geometry": {"coordinates":[10.84446,1.67923],"type":"Point"}
+}

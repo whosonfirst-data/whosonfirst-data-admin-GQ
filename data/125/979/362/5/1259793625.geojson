@@ -1,0 +1,67 @@
+{
+  "id": 1259793625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8408,1.16659,9.8408,1.16659",
+    "geom:latitude":1.16659,
+    "geom:longitude":9.8408,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Macoraete",
+    "gn:country_code":"GQ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308585,
+    "gn:latitude":1.16659,
+    "gn:longitude":9.8408,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Macoraet\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308585
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"32393d2621a0408d282f0cf5bc63b6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1259793625,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1259793625,
+    "wof:lastmodified":1536908763,
+    "wof:name":"Macoraete",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8408,
+    1.16659,
+    9.8408,
+    1.16659
+],
+  "geometry": {"coordinates":[9.8408,1.16659],"type":"Point"}
+}

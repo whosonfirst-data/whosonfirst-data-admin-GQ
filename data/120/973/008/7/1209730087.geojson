@@ -1,0 +1,67 @@
+{
+  "id": 1209730087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75775,1.82059,10.75775,1.82059",
+    "geom:latitude":1.82059,
+    "geom:longitude":10.75775,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mesomoboc",
+    "gn:country_code":"GQ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308115,
+    "gn:latitude":1.82059,
+    "gn:longitude":10.75775,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mesomoboc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308115
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"bea32274f95a4a1e58c6324521c238ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1209730087,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1209730087,
+    "wof:lastmodified":1536379584,
+    "wof:name":"Mesomoboc",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75775,
+    1.82059,
+    10.75775,
+    1.82059
+],
+  "geometry": {"coordinates":[10.75775,1.82059],"type":"Point"}
+}

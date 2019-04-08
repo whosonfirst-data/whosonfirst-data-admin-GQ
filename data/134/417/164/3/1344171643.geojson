@@ -1,0 +1,71 @@
+{
+  "id": 1344171643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02541,2.11324,11.02541,2.11324",
+    "geom:latitude":2.11324,
+    "geom:longitude":11.02541,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mindyimitom",
+    "gn:country_code":"GQ",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307937,
+    "gn:latitude":2.11324,
+    "gn:longitude":11.02541,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mindyimitom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michimiton",
+        "Mindyimitom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307937
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"61934cf509738c982b16fc154cab059d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1344171643,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1344171643,
+    "wof:lastmodified":1537624091,
+    "wof:name":"Mindyimitom",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02541,
+    2.11324,
+    11.02541,
+    2.11324
+],
+  "geometry": {"coordinates":[11.02541,2.11324],"type":"Point"}
+}

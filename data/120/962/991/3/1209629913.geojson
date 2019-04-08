@@ -1,0 +1,65 @@
+{
+  "id": 1209629913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93635,1.91762,9.93635,1.91762",
+    "geom:latitude":1.91762,
+    "geom:longitude":9.93635,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncomococ",
+    "gn:country_code":"GQ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307516,
+    "gn:latitude":1.91762,
+    "gn:longitude":9.93635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncomococ",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nko Makak",
+        "Ncomococ"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307516
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a41afea04acc35853aed7194b4a41ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209629913
+        }
+    ],
+    "wof:id":1209629913,
+    "wof:lastmodified":1537624084,
+    "wof:name":"Ncomococ",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93635,
+    1.91762,
+    9.93635,
+    1.91762
+],
+  "geometry": {"coordinates":[9.93635,1.91762],"type":"Point"}
+}

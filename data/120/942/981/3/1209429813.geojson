@@ -1,0 +1,65 @@
+{
+  "id": 1209429813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26884,1.14888,11.26884,1.14888",
+    "geom:latitude":1.14888,
+    "geom:longitude":11.26884,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mandoc",
+    "gn:country_code":"GQ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308517,
+    "gn:latitude":1.14888,
+    "gn:longitude":11.26884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mandoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandok",
+        "Mandoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308517
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"e9d209856f167ab146df23a6da9039fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209429813
+        }
+    ],
+    "wof:id":1209429813,
+    "wof:lastmodified":1537624100,
+    "wof:name":"Mandoc",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26884,
+    1.14888,
+    11.26884,
+    1.14888
+],
+  "geometry": {"coordinates":[11.26884,1.14888],"type":"Point"}
+}

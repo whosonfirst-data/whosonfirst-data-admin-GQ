@@ -1,0 +1,61 @@
+{
+  "id": 1209625321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10788,1.75179,10.10788,1.75179",
+    "geom:latitude":1.75179,
+    "geom:longitude":10.10788,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncoaeben",
+    "gn:country_code":"GQ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307589,
+    "gn:latitude":1.75179,
+    "gn:longitude":10.10788,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ncoaebe\u00f1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307589
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"107257b43fbb7f0d2c0c09927ba828fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209625321
+        }
+    ],
+    "wof:id":1209625321,
+    "wof:lastmodified":1536281374,
+    "wof:name":"Ncoaeben",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10788,
+    1.7517900000000002,
+    10.10788,
+    1.7517900000000002
+],
+  "geometry": {"coordinates":[10.10788,1.75179],"type":"Point"}
+}

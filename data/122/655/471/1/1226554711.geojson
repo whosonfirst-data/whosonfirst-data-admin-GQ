@@ -1,0 +1,67 @@
+{
+  "id": 1226554711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9305,1.78281,9.9305,1.78281",
+    "geom:latitude":1.78281,
+    "geom:longitude":9.9305,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bindola",
+    "gn:country_code":"GQ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309825,
+    "gn:latitude":1.78281,
+    "gn:longitude":9.9305,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bindola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309825
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"db3690135012c9c575c7577329fe105b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1226554711,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1226554711,
+    "wof:lastmodified":1536984245,
+    "wof:name":"Bindola",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9305,
+    1.78281,
+    9.9305,
+    1.78281
+],
+  "geometry": {"coordinates":[9.9305,1.78281],"type":"Point"}
+}

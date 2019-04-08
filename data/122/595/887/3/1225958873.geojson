@@ -1,0 +1,67 @@
+{
+  "id": 1225958873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.307,1.03901,10.307,1.03901",
+    "geom:latitude":1.03901,
+    "geom:longitude":10.307,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alenasi",
+    "gn:country_code":"GQ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310412,
+    "gn:latitude":1.03901,
+    "gn:longitude":10.307,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Alenasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310412
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"2c0fbdf3dfa34c1bc91e5393abf69289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1225958873,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1225958873,
+    "wof:lastmodified":1536849196,
+    "wof:name":"Alenasi",
+    "wof:parent_id":1108785227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.307,
+    1.03901,
+    10.307,
+    1.03901
+],
+  "geometry": {"coordinates":[10.307,1.03901],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310619137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15876,1.10608,10.15876,1.10608",
+    "geom:latitude":1.10608,
+    "geom:longitude":10.15876,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ansem",
+    "gn:country_code":"GQ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310301,
+    "gn:latitude":1.10608,
+    "gn:longitude":10.15876,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ansem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amsen",
+        "Ansem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310301
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c73f8ead2eaf94cd0b00f7ebd02ffd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1310619137,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1310619137,
+    "wof:lastmodified":1537624120,
+    "wof:name":"Ansem",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15876,
+    1.10608,
+    10.15876,
+    1.10608
+],
+  "geometry": {"coordinates":[10.15876,1.10608],"type":"Point"}
+}

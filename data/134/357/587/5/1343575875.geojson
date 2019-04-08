@@ -1,0 +1,67 @@
+{
+  "id": 1343575875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.89694,1.28719,10.89694,1.28719",
+    "geom:latitude":1.28719,
+    "geom:longitude":10.89694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Angon",
+    "gn:country_code":"GQ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310322,
+    "gn:latitude":1.28719,
+    "gn:longitude":10.89694,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Angon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310322
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"90095f33e8337f02719d9536aa63d2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785225,
+            "locality_id":1343575875,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1343575875,
+    "wof:lastmodified":1537074071,
+    "wof:name":"Angon",
+    "wof:parent_id":1108785225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.89694,
+    1.28719,
+    10.89694,
+    1.28719
+],
+  "geometry": {"coordinates":[10.89694,1.28719],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326644447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29097,1.40078,11.29097,1.40078",
+    "geom:latitude":1.40078,
+    "geom:longitude":11.29097,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ntoayop",
+    "gn:country_code":"GQ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307121,
+    "gn:latitude":1.40078,
+    "gn:longitude":11.29097,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ntoayop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307121
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"07f1930b2f1fcc05c7d73c6b9e9ffd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1326644447,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1326644447,
+    "wof:lastmodified":1536821296,
+    "wof:name":"Ntoayop",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29097,
+    1.40078,
+    11.29097,
+    1.40078
+],
+  "geometry": {"coordinates":[11.29097,1.40078],"type":"Point"}
+}

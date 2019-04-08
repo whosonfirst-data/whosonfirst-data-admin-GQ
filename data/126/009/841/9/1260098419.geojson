@@ -1,0 +1,67 @@
+{
+  "id": 1260098419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01983,2.00185,11.01983,2.00185",
+    "geom:latitude":2.00185,
+    "geom:longitude":11.01983,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ebe",
+    "gn:country_code":"GQ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309338,
+    "gn:latitude":2.00185,
+    "gn:longitude":11.01983,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Eb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309338
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"11051c020d7af127e54c3980440aee7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1260098419,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1260098419,
+    "wof:lastmodified":1536966351,
+    "wof:name":"Ebe",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01983,
+    2.00185,
+    11.01983,
+    2.00185
+],
+  "geometry": {"coordinates":[11.01983,2.00185],"type":"Point"}
+}

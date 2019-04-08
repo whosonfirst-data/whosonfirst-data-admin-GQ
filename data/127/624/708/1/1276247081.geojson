@@ -1,0 +1,67 @@
+{
+  "id": 1276247081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11244,1.63467,11.11244,1.63467",
+    "geom:latitude":1.63467,
+    "geom:longitude":11.11244,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncooveng",
+    "gn:country_code":"GQ",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307513,
+    "gn:latitude":1.63467,
+    "gn:longitude":11.11244,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ncooveng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307513
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"0248e3b2568f856cadda8824c8ee610b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785269,
+            "locality_id":1276247081,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1276247081,
+    "wof:lastmodified":1536893956,
+    "wof:name":"Ncooveng",
+    "wof:parent_id":1108785269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11244,
+    1.63467,
+    11.11244,
+    1.63467
+],
+  "geometry": {"coordinates":[11.11244,1.63467],"type":"Point"}
+}

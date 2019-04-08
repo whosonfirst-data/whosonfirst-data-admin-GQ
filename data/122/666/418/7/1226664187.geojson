@@ -1,0 +1,71 @@
+{
+  "id": 1226664187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.70897,1.60777,10.70897,1.60777",
+    "geom:latitude":1.60777,
+    "geom:longitude":10.70897,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngondum",
+    "gn:country_code":"GQ",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307333,
+    "gn:latitude":1.60777,
+    "gn:longitude":10.70897,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngondum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngomgom",
+        "Ngondum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307333
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"fcf24e38e660ae959cda687f262eaba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785237,
+            "locality_id":1226664187,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1226664187,
+    "wof:lastmodified":1537624081,
+    "wof:name":"Ngondum",
+    "wof:parent_id":1108785237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.70897,
+    1.60777,
+    10.70897,
+    1.60777
+],
+  "geometry": {"coordinates":[10.70897,1.60777],"type":"Point"}
+}

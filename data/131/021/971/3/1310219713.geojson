@@ -1,0 +1,67 @@
+{
+  "id": 1310219713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08122,1.48969,11.08122,1.48969",
+    "geom:latitude":1.48969,
+    "geom:longitude":11.08122,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eson",
+    "gn:country_code":"GQ",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309069,
+    "gn:latitude":1.48969,
+    "gn:longitude":11.08122,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Eson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309069
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7c1109cf41ca3f40f62214efc8317290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785225,
+            "locality_id":1310219713,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1310219713,
+    "wof:lastmodified":1536830707,
+    "wof:name":"Eson",
+    "wof:parent_id":1108785225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08122,
+    1.48969,
+    11.08122,
+    1.48969
+],
+  "geometry": {"coordinates":[11.08122,1.48969],"type":"Point"}
+}

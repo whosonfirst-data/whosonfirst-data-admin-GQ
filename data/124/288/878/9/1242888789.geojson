@@ -1,0 +1,71 @@
+{
+  "id": 1242888789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.43379,1.26507,9.43379,1.26507",
+    "geom:latitude":1.26507,
+    "geom:longitude":9.43379,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asen",
+    "gn:country_code":"GQ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310264,
+    "gn:latitude":1.26507,
+    "gn:longitude":9.43379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aseng",
+        "Asen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310264
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"fbd633a8b2470d7d650cf3c3af22cdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785241,
+            "locality_id":1242888789,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1242888789,
+    "wof:lastmodified":1537624120,
+    "wof:name":"Asen",
+    "wof:parent_id":1108785241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.43379,
+    1.26507,
+    9.43379,
+    1.26507
+],
+  "geometry": {"coordinates":[9.43379,1.26507],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343276501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82498,1.93896,10.82498,1.93896",
+    "geom:latitude":1.93896,
+    "geom:longitude":10.82498,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ayaaman",
+    "gn:country_code":"GQ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310171,
+    "gn:latitude":1.93896,
+    "gn:longitude":10.82498,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ayaaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310171
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"a58a48f2d52246ced3f6ff453c8ca66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1343276501,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1343276501,
+    "wof:lastmodified":1537010977,
+    "wof:name":"Ayaaman",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82498,
+    1.93896,
+    10.82498,
+    1.93896
+],
+  "geometry": {"coordinates":[10.82498,1.93896],"type":"Point"}
+}

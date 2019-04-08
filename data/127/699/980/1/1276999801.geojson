@@ -1,0 +1,71 @@
+{
+  "id": 1276999801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81691,1.89899,10.81691,1.89899",
+    "geom:latitude":1.89899,
+    "geom:longitude":10.81691,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncan",
+    "gn:country_code":"GQ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307621,
+    "gn:latitude":1.89899,
+    "gn:longitude":10.81691,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkan",
+        "Ncan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307621
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dff4fe3fb07f16657ba7504f6f1d2ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785229,
+            "locality_id":1276999801,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1276999801,
+    "wof:lastmodified":1537624087,
+    "wof:name":"Ncan",
+    "wof:parent_id":1108785229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81691,
+    1.89899,
+    10.81691,
+    1.89899
+],
+  "geometry": {"coordinates":[10.81691,1.89899],"type":"Point"}
+}

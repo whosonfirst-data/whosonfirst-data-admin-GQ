@@ -1,0 +1,71 @@
+{
+  "id": 1310223431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12291,1.72344,11.12291,1.72344",
+    "geom:latitude":1.72344,
+    "geom:longitude":11.12291,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nguiebe",
+    "gn:country_code":"GQ",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307293,
+    "gn:latitude":1.72344,
+    "gn:longitude":11.12291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nguiebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nguiep",
+        "Nguiebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307293
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"1a427689d6be3c5624317338edb63b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785269,
+            "locality_id":1310223431,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1310223431,
+    "wof:lastmodified":1537624080,
+    "wof:name":"Nguiebe",
+    "wof:parent_id":1108785269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12291,
+    1.72344,
+    11.12291,
+    1.72344
+],
+  "geometry": {"coordinates":[11.12291,1.72344],"type":"Point"}
+}

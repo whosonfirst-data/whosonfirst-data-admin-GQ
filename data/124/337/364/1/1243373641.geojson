@@ -1,0 +1,67 @@
+{
+  "id": 1243373641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3114,1.33993,11.3114,1.33993",
+    "geom:latitude":1.33993,
+    "geom:longitude":11.3114,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ecoco",
+    "gn:country_code":"GQ",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309268,
+    "gn:latitude":1.33993,
+    "gn:longitude":11.3114,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ecoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309268
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7897b20d53345fb41b89741364e241a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785279,
+            "locality_id":1243373641,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1243373641,
+    "wof:lastmodified":1536910833,
+    "wof:name":"Ecoco",
+    "wof:parent_id":1108785279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3114,
+    1.33993,
+    11.3114,
+    1.33993
+],
+  "geometry": {"coordinates":[11.3114,1.33993],"type":"Point"}
+}

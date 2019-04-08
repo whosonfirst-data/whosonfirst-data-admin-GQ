@@ -1,0 +1,61 @@
+{
+  "id": 1209633249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19784,1.31949,10.19784,1.31949",
+    "geom:latitude":1.31949,
+    "geom:longitude":10.19784,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mebametan",
+    "gn:country_code":"GQ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308218,
+    "gn:latitude":1.31949,
+    "gn:longitude":10.19784,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mebametan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308218
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"37486d9c6da33a1bd4a2fe076cd4c732",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209633249
+        }
+    ],
+    "wof:id":1209633249,
+    "wof:lastmodified":1536281124,
+    "wof:name":"Mebametan",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19784,
+    1.31949,
+    10.19784,
+    1.31949
+],
+  "geometry": {"coordinates":[10.19784,1.31949],"type":"Point"}
+}

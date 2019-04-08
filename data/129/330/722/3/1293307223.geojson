@@ -1,0 +1,71 @@
+{
+  "id": 1293307223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.13446,1.74264,11.13446,1.74264",
+    "geom:latitude":1.74264,
+    "geom:longitude":11.13446,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alun",
+    "gn:country_code":"GQ",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310384,
+    "gn:latitude":1.74264,
+    "gn:longitude":11.13446,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alen",
+        "Alun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310384
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"09bdb19b431c2c30e3a122de646e700f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785269,
+            "locality_id":1293307223,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1293307223,
+    "wof:lastmodified":1537624121,
+    "wof:name":"Alun",
+    "wof:parent_id":1108785269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.13446,
+    1.74264,
+    11.13446,
+    1.74264
+],
+  "geometry": {"coordinates":[11.13446,1.74264],"type":"Point"}
+}

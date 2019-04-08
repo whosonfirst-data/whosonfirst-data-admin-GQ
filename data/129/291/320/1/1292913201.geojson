@@ -1,0 +1,71 @@
+{
+  "id": 1292913201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04749,1.02801,10.04749,1.02801",
+    "geom:latitude":1.02801,
+    "geom:longitude":10.04749,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndyengmiang",
+    "gn:country_code":"GQ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307415,
+    "gn:latitude":1.02801,
+    "gn:longitude":10.04749,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndyengmiang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsenguemiang",
+        "Ndyengmiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307415
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b931eb8ad2657a700f8bbdc4a4fee3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1292913201,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1292913201,
+    "wof:lastmodified":1537624082,
+    "wof:name":"Ndyengmiang",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04749,
+    1.02801,
+    10.04749,
+    1.02801
+],
+  "geometry": {"coordinates":[10.04749,1.02801],"type":"Point"}
+}

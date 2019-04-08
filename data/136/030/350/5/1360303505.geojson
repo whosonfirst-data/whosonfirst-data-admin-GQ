@@ -1,0 +1,71 @@
+{
+  "id": 1360303505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.74376,1.10982,9.74376,1.10982",
+    "geom:latitude":1.10982,
+    "geom:longitude":9.74376,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alongntang",
+    "gn:country_code":"GQ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310401,
+    "gn:latitude":1.10982,
+    "gn:longitude":9.74376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alongntang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alogontang",
+        "Alongntang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310401
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"7e6e500d0f5a3159cc0ef4de34890c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1360303505,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1360303505,
+    "wof:lastmodified":1537624121,
+    "wof:name":"Alongntang",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.74376,
+    1.10982,
+    9.74376,
+    1.10982
+],
+  "geometry": {"coordinates":[9.74376,1.10982],"type":"Point"}
+}

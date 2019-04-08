@@ -1,0 +1,67 @@
+{
+  "id": 1310511309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26619,1.68541,11.26619,1.68541",
+    "geom:latitude":1.68541,
+    "geom:longitude":11.26619,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bileosi",
+    "gn:country_code":"GQ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309850,
+    "gn:latitude":1.68541,
+    "gn:longitude":11.26619,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bileosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309850
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"e0817d00c7544532be429b2aa7b3624c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785265,
+            "locality_id":1310511309,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1310511309,
+    "wof:lastmodified":1536908732,
+    "wof:name":"Bileosi",
+    "wof:parent_id":1108785265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26619,
+    1.68541,
+    11.26619,
+    1.68541
+],
+  "geometry": {"coordinates":[11.26619,1.68541],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293696947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03965,2.06077,11.03965,2.06077",
+    "geom:latitude":2.06077,
+    "geom:longitude":11.03965,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbangosi",
+    "gn:country_code":"GQ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308317,
+    "gn:latitude":2.06077,
+    "gn:longitude":11.03965,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbangosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbangsi",
+        "Mbangosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308317
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3c043419f16ebe9cf6d39b91543bf386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1293696947,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1293696947,
+    "wof:lastmodified":1537624098,
+    "wof:name":"Mbangosi",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03965,
+    2.06077,
+    11.03965,
+    2.06077
+],
+  "geometry": {"coordinates":[11.03965,2.06077],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242985465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63035,2.14504,10.63035,2.14504",
+    "geom:latitude":2.14504,
+    "geom:longitude":10.63035,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yomosomo",
+    "gn:country_code":"GQ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306479,
+    "gn:latitude":2.14504,
+    "gn:longitude":10.63035,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Yomosomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306479
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"88811cad3430510b8350a0d4effa50a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785263,
+            "locality_id":1242985465,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1242985465,
+    "wof:lastmodified":1536972681,
+    "wof:name":"Yomosomo",
+    "wof:parent_id":1108785263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63035,
+    2.14504,
+    10.63035,
+    2.14504
+],
+  "geometry": {"coordinates":[10.63035,2.14504],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1259887649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65194,-1.43056,5.65194,-1.43056",
+    "geom:latitude":-1.43056,
+    "geom:longitude":5.65194,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Anganchi",
+    "gn:country_code":"GQ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566027,
+    "gn:latitude":-1.43056,
+    "gn:longitude":5.65194,
+    "gn:modification_date":"1995-04-13",
+    "gn:name":"Anganchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566027
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"fcf25270be06eb71dd9f812b117089a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259887649,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259887649,
+    "wof:lastmodified":1536773707,
+    "wof:name":"Anganchi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65194,
+    -1.43056,
+    5.65194,
+    -1.43056
+],
+  "geometry": {"coordinates":[5.65194,-1.43056],"type":"Point"}
+}

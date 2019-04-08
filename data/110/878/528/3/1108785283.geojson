@@ -1,0 +1,212 @@
+{
+  "id": 1108785283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001261,
+    "geom:area_square_m":15588799.527321,
+    "geom:bbox":"5.60211134,-1.461277723,5.63708353,-1.402111053",
+    "geom:latitude":-1.432286,
+    "geom:longitude":5.621013,
+    "iso:country":"GQ",
+    "lbl:latitude":-1.43035,
+    "lbl:longitude":5.622429,
+    "meso:adm1_en":"Annobon",
+    "meso:gadm_adm2":"San Antonio de Pal\u00e9",
+    "meso:gadm_alt":"St Antony and San Antonio de Praia",
+    "meso:hasc_id":"GQ.AN.AN",
+    "meso:mps_x":5.622429,
+    "meso:mps_y":-1.43035,
+    "meso:name_loc":"Annobon",
+    "meso:source":"AOTM",
+    "mps:latitude":-1.43035,
+    "mps:longitude":5.622429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0646\u0648\u0628\u0648\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "Annobongo probintzia"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09a8\u09cb\u09ac\u09cb\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u043e\u0431\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'Annob\u00f3n"
+    ],
+    "name:dan_x_preferred":[
+        "Annob\u00f3n Province"
+    ],
+    "name:dut_x_preferred":[
+        "Annob\u00f3n Province"
+    ],
+    "name:eng_x_preferred":[
+        "Annob\u00f3n"
+    ],
+    "name:est_x_preferred":[
+        "Annob\u00f3ni provints"
+    ],
+    "name:fin_x_preferred":[
+        "Annob\u00f3nin provinssi"
+    ],
+    "name:fre_x_preferred":[
+        "province d'Annob\u00f3n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10dd\u10d1\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Provinz Annob\u00f3n"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03bf\u03bc\u03c0\u03cc\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0acb\u0aac\u0acb\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0928\u094b\u092c\u094b\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Annobon"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Annob\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Annob\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ce\u30dc\u30f3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0ca8\u0ccd\u0ca8\u0cca\u0cac\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ub178\ubcf8 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Annobonas province"
+    ],
+    "name:lit_x_preferred":[
+        "Anobono provincija"
+    ],
+    "name:mar_x_preferred":[
+        "\u090d\u0928\u094b\u092c\u094b\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Annobon Province"
+    ],
+    "name:nob_x_preferred":[
+        "Annob\u00f3n"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0646\u0648\u0628\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Annob\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia de Annob\u00f3n"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Annob\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0410\u043d\u043d\u043e\u0431\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Annob\u00f3n Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0db1\u0ddc\u0db6\u0ddd\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Annob\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Annob\u00f3n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba8\u0bcd\u0ba8\u0bcb\u0baa\u0bcb\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c28\u0c4b\u0c2c\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e2d\u0e19\u0e42\u0e19\u0e1a\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Annob\u00f3n Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0410\u043d\u043e\u0431\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0646\u0648\u0628\u0648\u0646 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Annob\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-01-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2001-01-01",
+    "statoids:capital":"",
+    "statoids:country":"GQ",
+    "statoids:hasc":"GQ.AN",
+    "statoids:name":"Annob\u00f3n",
+    "statoids:population":"5008",
+    "statoids:statoid":"GQ.AN.AN",
+    "statoids:timezone":"+1",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GQ.AN.AN",
+        "wd:id":"Q3736616"
+    },
+    "wof:country":"GQ",
+    "wof:created":1481835990,
+    "wof:geomhash":"5a01086467825844b1009d79d57a37f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785283,
+            "region_id":85671563
+        }
+    ],
+    "wof:id":1108785283,
+    "wof:lastmodified":1553816511,
+    "wof:name":"Annobon",
+    "wof:parent_id":85671563,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":5008,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:shortcode":"AN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60211134000002,
+    -1.46127772299997,
+    5.63708353000004,
+    -1.40211105299994
+],
+  "geometry": {"coordinates":[[[5.60288906100004,-1.41502773799993],[5.60288906100004,-1.41250002399994],[5.60705566400003,-1.41083335899998],[5.60624980900008,-1.40836107699994],[5.60830545400006,-1.40797221699995],[5.609972,-1.40630555199994],[5.61080551100002,-1.40630555199994],[5.61208343500005,-1.40502774699996],[5.61205577900006,-1.40416669799993],[5.61411094700003,-1.40211105299994],[5.61497211500006,-1.40211105299994],[5.61833334000005,-1.40541660799994],[5.62163877500006,-1.40708339199995],[5.62330532100003,-1.40708339199995],[5.62369442000005,-1.40836107699994],[5.62541675600005,-1.40922224499997],[5.62541675600005,-1.40999996699998],[5.62747240100003,-1.41294443599997],[5.62833356900006,-1.41294443599997],[5.63124990500006,-1.41586112999994],[5.63038873700003,-1.41672217799993],[5.63038873700003,-1.41833329199994],[5.63124990500006,-1.41919445999997],[5.63124990500006,-1.42172217399997],[5.63291645100003,-1.42338883899993],[5.63291645100003,-1.42502772799998],[5.63455534000008,-1.42669439299993],[5.63377761800007,-1.42916667499998],[5.63455534000008,-1.43083333999994],[5.63708353000004,-1.43255555599995],[5.63622236300006,-1.43336105299994],[5.63536119500003,-1.43669450299996],[5.63622236300006,-1.43755555199994],[5.63536119500003,-1.43836116799997],[5.63622236300006,-1.44166672199998],[5.63458347300002,-1.44500005199996],[5.63538885100007,-1.44586110099993],[5.63538885100007,-1.44833338299998],[5.63625001900004,-1.45000004799994],[5.63452768300004,-1.45252776099994],[5.63538885100007,-1.45500004299993],[5.63208341600006,-1.45666670799994],[5.63288879400005,-1.45838892499995],[5.63077783600005,-1.46044444999995],[5.62919426000008,-1.46044444999995],[5.62833356900006,-1.45958328199993],[5.62666654600002,-1.46044444999995],[5.62627792400002,-1.45919442199994],[5.62416648900006,-1.45794439299993],[5.62249994300004,-1.45961105799995],[5.62166643100005,-1.45961105799995],[5.62080574000004,-1.45794439299993],[5.61913871800004,-1.45708334399996],[5.61708354900003,-1.45833337299996],[5.61625003800003,-1.46086108699995],[5.61497211500006,-1.46127772299997],[5.61372232400004,-1.46000003799998],[5.61372232400004,-1.45755553199996],[5.61538887000006,-1.45588886699994],[5.61538887000006,-1.45502781899995],[5.61161088900008,-1.45375001399998],[5.61122226700007,-1.45255553699997],[5.60869455300002,-1.44916665599993],[5.60869455300002,-1.44755554199998],[5.61166667900005,-1.44377779999996],[5.61330556900003,-1.44377779999996],[5.61455535900007,-1.44249999499994],[5.61536121400007,-1.44083332999997],[5.61455535900007,-1.43916666499996],[5.60872221000005,-1.42919444999995],[5.60872221000005,-1.42586111999998],[5.60747242000002,-1.42461109199996],[5.60661125200005,-1.42541670799994],[5.60541677500004,-1.42499995199995],[5.60541677500004,-1.42336106299996],[5.60622215300003,-1.42250001399998],[5.60541677500004,-1.42088890099996],[5.60622215300003,-1.42002773299993],[5.60622215300003,-1.41836106799997],[5.60500001900004,-1.41708338299998],[5.60330534000008,-1.41794443099997],[5.60211134000002,-1.41588890599996],[5.60288906100004,-1.41502773799993]]],"type":"Polygon"}
+}

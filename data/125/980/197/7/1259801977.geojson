@@ -1,0 +1,67 @@
+{
+  "id": 1259801977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.67741,1.89876,10.67741,1.89876",
+    "geom:latitude":1.89876,
+    "geom:longitude":10.67741,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bisobinam",
+    "gn:country_code":"GQ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309761,
+    "gn:latitude":1.89876,
+    "gn:longitude":10.67741,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bisobinam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309761
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3a6af76d96fbc69734a476a057157d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785237,
+            "locality_id":1259801977,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1259801977,
+    "wof:lastmodified":1536896430,
+    "wof:name":"Bisobinam",
+    "wof:parent_id":1108785237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.67741,
+    1.89876,
+    10.67741,
+    1.89876
+],
+  "geometry": {"coordinates":[10.67741,1.89876],"type":"Point"}
+}

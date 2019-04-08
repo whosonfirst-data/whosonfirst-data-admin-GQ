@@ -1,0 +1,67 @@
+{
+  "id": 1293497679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37357,1.69737,11.37357,1.69737",
+    "geom:latitude":1.69737,
+    "geom:longitude":11.37357,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ebain",
+    "gn:country_code":"GQ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309367,
+    "gn:latitude":1.69737,
+    "gn:longitude":11.37357,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ebai\u00f1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309367
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"45d2e31d380510292c438ad1ecf49033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1293497679,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293497679,
+    "wof:lastmodified":1536772898,
+    "wof:name":"Ebain",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37357,
+    1.69737,
+    11.37357,
+    1.69737
+],
+  "geometry": {"coordinates":[11.37357,1.69737],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243469203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6518,-1.43443,5.6518,-1.43443",
+    "geom:latitude":-1.43443,
+    "geom:longitude":5.6518,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"GQ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306741,
+    "gn:latitude":-1.43443,
+    "gn:longitude":5.6518,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ensenada",
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306741
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"31dc750e7308d326ba61c65e86d4f05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243469203,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243469203,
+    "wof:lastmodified":1537624074,
+    "wof:name":"San Pedro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6518,
+    -1.43443,
+    5.6518,
+    -1.43443
+],
+  "geometry": {"coordinates":[5.6518,-1.43443],"type":"Point"}
+}

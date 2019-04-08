@@ -1,0 +1,67 @@
+{
+  "id": 1309822103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36312,1.09368,10.36312,1.09368",
+    "geom:latitude":1.09368,
+    "geom:longitude":10.36312,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aneng",
+    "gn:country_code":"GQ",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310332,
+    "gn:latitude":1.09368,
+    "gn:longitude":10.36312,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"A\u00f1eng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310332
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"0367eb7f0164561f4a46cc3a0554576a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1309822103,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1309822103,
+    "wof:lastmodified":1536907874,
+    "wof:name":"Aneng",
+    "wof:parent_id":1108785227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36312,
+    1.09368,
+    10.36312,
+    1.09368
+],
+  "geometry": {"coordinates":[10.36312,1.09368],"type":"Point"}
+}

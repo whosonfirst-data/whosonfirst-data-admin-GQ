@@ -1,0 +1,67 @@
+{
+  "id": 1293399935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53234,1.10084,10.53234,1.10084",
+    "geom:latitude":1.10084,
+    "geom:longitude":10.53234,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndong",
+    "gn:country_code":"GQ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2307448,
+    "gn:latitude":1.10084,
+    "gn:longitude":10.53234,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ndong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307448
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"2e6b9f21e700d66f02db628242f9dba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1293399935,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293399935,
+    "wof:lastmodified":1536913570,
+    "wof:name":"Ndong",
+    "wof:parent_id":1108785227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53234,
+    1.10084,
+    10.53234,
+    1.10084
+],
+  "geometry": {"coordinates":[10.53234,1.10084],"type":"Point"}
+}

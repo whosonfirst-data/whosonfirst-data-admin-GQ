@@ -1,0 +1,67 @@
+{
+  "id": 1293015295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31887,0.89501,9.31887,0.89501",
+    "geom:latitude":0.89501,
+    "geom:longitude":9.31887,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Metolo",
+    "gn:country_code":"GQ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308106,
+    "gn:latitude":0.89501,
+    "gn:longitude":9.31887,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Metolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308106
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d9e1194286423e95f27e0c51922cca94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785245,
+            "locality_id":1293015295,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1293015295,
+    "wof:lastmodified":1536970355,
+    "wof:name":"Metolo",
+    "wof:parent_id":1108785245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31887,
+    0.89501,
+    9.31887,
+    0.89501
+],
+  "geometry": {"coordinates":[9.31887,0.89501],"type":"Point"}
+}

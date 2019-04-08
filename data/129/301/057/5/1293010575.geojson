@@ -1,0 +1,67 @@
+{
+  "id": 1293010575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82072,1.63739,9.82072,1.63739",
+    "geom:latitude":1.63739,
+    "geom:longitude":9.82072,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mitang",
+    "gn:country_code":"GQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307900,
+    "gn:latitude":1.63739,
+    "gn:longitude":9.82072,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mitang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307900
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"70382746df5cfe69256c0c2a62e86865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785259,
+            "locality_id":1293010575,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1293010575,
+    "wof:lastmodified":1536976882,
+    "wof:name":"Mitang",
+    "wof:parent_id":1108785259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82072,
+    1.63739,
+    9.82072,
+    1.63739
+],
+  "geometry": {"coordinates":[9.82072,1.63739],"type":"Point"}
+}

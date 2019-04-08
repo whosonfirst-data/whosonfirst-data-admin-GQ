@@ -1,0 +1,67 @@
+{
+  "id": 1242587435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36313,1.82883,11.36313,1.82883",
+    "geom:latitude":1.82883,
+    "geom:longitude":11.36313,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndangueng",
+    "gn:country_code":"GQ",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307468,
+    "gn:latitude":1.82883,
+    "gn:longitude":11.36313,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ndangueng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307468
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"9cdb31ac0efe9d1a5bf1babc8eee175c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1242587435,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1242587435,
+    "wof:lastmodified":1537047372,
+    "wof:name":"Ndangueng",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36313,
+    1.82883,
+    11.36313,
+    1.82883
+],
+  "geometry": {"coordinates":[11.36313,1.82883],"type":"Point"}
+}

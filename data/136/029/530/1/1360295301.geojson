@@ -1,0 +1,71 @@
+{
+  "id": 1360295301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37365,1.72082,11.37365,1.72082",
+    "geom:latitude":1.72082,
+    "geom:longitude":11.37365,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Miban",
+    "gn:country_code":"GQ",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308038,
+    "gn:latitude":1.72082,
+    "gn:longitude":11.37365,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Miban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mibang",
+        "Miban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308038
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"58a8aaab7352dc2dee8de2df60ca9441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1360295301,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1360295301,
+    "wof:lastmodified":1537624093,
+    "wof:name":"Miban",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37365,
+    1.72082,
+    11.37365,
+    1.72082
+],
+  "geometry": {"coordinates":[11.37365,1.72082],"type":"Point"}
+}

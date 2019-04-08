@@ -1,0 +1,65 @@
+{
+  "id": 1209019173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.39717,1.82036,11.39717,1.82036",
+    "geom:latitude":1.82036,
+    "geom:longitude":11.39717,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anungom",
+    "gn:country_code":"GQ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310293,
+    "gn:latitude":1.82036,
+    "gn:longitude":11.39717,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anungom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anungon",
+        "Anungom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310293
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"858579f618b1dab92fee557ca3d634fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209019173
+        }
+    ],
+    "wof:id":1209019173,
+    "wof:lastmodified":1537624120,
+    "wof:name":"Anungom",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.39717,
+    1.82036,
+    11.39717,
+    1.82036
+],
+  "geometry": {"coordinates":[11.39717,1.82036],"type":"Point"}
+}

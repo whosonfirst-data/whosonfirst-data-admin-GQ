@@ -1,0 +1,72 @@
+{
+  "id": 1226558173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5382,1.45856,9.5382,1.45856",
+    "geom:latitude":1.45856,
+    "geom:longitude":9.5382,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cumangul",
+    "gn:country_code":"GQ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309450,
+    "gn:latitude":1.45856,
+    "gn:longitude":9.5382,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cumangul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coumenye",
+        "Cumenye",
+        "Cumangul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309450
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"af72f78983977c49367919023cf86851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785241,
+            "locality_id":1226558173,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1226558173,
+    "wof:lastmodified":1537624110,
+    "wof:name":"Cumangul",
+    "wof:parent_id":1108785241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5382,
+    1.45856,
+    9.5382,
+    1.45856
+],
+  "geometry": {"coordinates":[9.5382,1.45856],"type":"Point"}
+}

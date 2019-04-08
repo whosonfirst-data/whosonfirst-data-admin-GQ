@@ -1,0 +1,71 @@
+{
+  "id": 1343271935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02461,1.90995,11.02461,1.90995",
+    "geom:latitude":1.90995,
+    "geom:longitude":11.02461,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mico",
+    "gn:country_code":"GQ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308021,
+    "gn:latitude":1.90995,
+    "gn:longitude":11.02461,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikoo",
+        "Mico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308021
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"e005914e5ddc6ae7050ae731911564ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1343271935,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1343271935,
+    "wof:lastmodified":1537624093,
+    "wof:name":"Mico",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02461,
+    1.90995,
+    11.02461,
+    1.90995
+],
+  "geometry": {"coordinates":[11.02461,1.90995],"type":"Point"}
+}

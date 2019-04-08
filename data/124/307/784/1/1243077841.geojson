@@ -1,0 +1,67 @@
+{
+  "id": 1243077841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.57838,1.38683,10.57838,1.38683",
+    "geom:latitude":1.38683,
+    "geom:longitude":10.57838,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fula",
+    "gn:country_code":"GQ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308913,
+    "gn:latitude":1.38683,
+    "gn:longitude":10.57838,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Fula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308913
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"58c64440dff2b5a4357354bd5ab191b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1243077841,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1243077841,
+    "wof:lastmodified":1536838760,
+    "wof:name":"Fula",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.57838,
+    1.38683,
+    10.57838,
+    1.38683
+],
+  "geometry": {"coordinates":[10.57838,1.38683],"type":"Point"}
+}

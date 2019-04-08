@@ -1,0 +1,67 @@
+{
+  "id": 1310214903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62003,1.78889,10.62003,1.78889",
+    "geom:latitude":1.78889,
+    "geom:longitude":10.62003,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Too",
+    "gn:country_code":"GQ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306604,
+    "gn:latitude":1.78889,
+    "gn:longitude":10.62003,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Too",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306604
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"3397174656a600ef2a7b6609ee142867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785237,
+            "locality_id":1310214903,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1310214903,
+    "wof:lastmodified":1536837571,
+    "wof:name":"Too",
+    "wof:parent_id":1108785237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62003,
+    1.78889,
+    10.62003,
+    1.78889
+],
+  "geometry": {"coordinates":[10.62003,1.78889],"type":"Point"}
+}

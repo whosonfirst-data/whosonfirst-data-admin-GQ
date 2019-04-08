@@ -1,0 +1,74 @@
+{
+  "id": 1276137563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81018,3.72792,8.81018,3.72792",
+    "geom:latitude":3.72792,
+    "geom:longitude":8.81018,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Basupu",
+    "gn:country_code":"GQ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310049,
+    "gn:latitude":3.72792,
+    "gn:longitude":8.81018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Basup\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basup\u00ed Fiston",
+        "Bacip\u00fa",
+        "Basipu",
+        "Fishtown",
+        "Basup\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671595,
+        1108785257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310049
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"84bb6dfe0ce96dbdcc7b55992faef25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785257,
+            "locality_id":1276137563,
+            "region_id":85671595
+        }
+    ],
+    "wof:id":1276137563,
+    "wof:lastmodified":1537624116,
+    "wof:name":"Basupu",
+    "wof:parent_id":1108785257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81018,
+    3.72792,
+    8.81018,
+    3.72792
+],
+  "geometry": {"coordinates":[8.81018,3.72792],"type":"Point"}
+}

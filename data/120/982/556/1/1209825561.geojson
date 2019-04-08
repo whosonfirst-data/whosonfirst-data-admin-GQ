@@ -1,0 +1,67 @@
+{
+  "id": 1209825561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.86938,2.21526,9.86938,2.21526",
+    "geom:latitude":2.21526,
+    "geom:longitude":9.86938,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bolando",
+    "gn:country_code":"GQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309692,
+    "gn:latitude":2.21526,
+    "gn:longitude":9.86938,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bolando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309692
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"54109a4d9c1278f53d1f37bf780b76b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785235,
+            "locality_id":1209825561,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1209825561,
+    "wof:lastmodified":1536374065,
+    "wof:name":"Bolando",
+    "wof:parent_id":1108785235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.86938,
+    2.21526,
+    9.86938,
+    2.21526
+],
+  "geometry": {"coordinates":[9.86938,2.21526],"type":"Point"}
+}

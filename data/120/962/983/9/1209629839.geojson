@@ -1,0 +1,61 @@
+{
+  "id": 1209629839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03954,1.85817,10.03954,1.85817",
+    "geom:latitude":1.85817,
+    "geom:longitude":10.03954,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fua",
+    "gn:country_code":"GQ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308916,
+    "gn:latitude":1.85817,
+    "gn:longitude":10.03954,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Fua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308916
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"1e76250e0ad3266e3baa3e3daf111f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209629839
+        }
+    ],
+    "wof:id":1209629839,
+    "wof:lastmodified":1536281227,
+    "wof:name":"Fua",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03954,
+    1.85817,
+    10.03954,
+    1.85817
+],
+  "geometry": {"coordinates":[10.03954,1.85817],"type":"Point"}
+}

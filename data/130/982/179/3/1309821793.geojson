@@ -1,0 +1,67 @@
+{
+  "id": 1309821793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0303,1.82042,11.0303,1.82042",
+    "geom:latitude":1.82042,
+    "geom:longitude":11.0303,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mvomo",
+    "gn:country_code":"GQ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307673,
+    "gn:latitude":1.82042,
+    "gn:longitude":11.0303,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mvomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307673
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b4aa0d135ef8e9a7be98dec6aa6e1f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785277,
+            "locality_id":1309821793,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1309821793,
+    "wof:lastmodified":1536908330,
+    "wof:name":"Mvomo",
+    "wof:parent_id":1108785277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0303,
+    1.82042,
+    11.0303,
+    1.82042
+],
+  "geometry": {"coordinates":[11.0303,1.82042],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209224721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84892,1.19863,9.84892,1.19863",
+    "geom:latitude":1.19863,
+    "geom:longitude":9.84892,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zaragoza",
+    "gn:country_code":"GQ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306470,
+    "gn:latitude":1.19863,
+    "gn:longitude":9.84892,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Zaragoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306470
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"5cf8f3dec4ea3a882d91be5bf83c4f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209224721
+        }
+    ],
+    "wof:id":1209224721,
+    "wof:lastmodified":1536293837,
+    "wof:name":"Zaragoza",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84892,
+    1.19863,
+    9.84892,
+    1.19863
+],
+  "geometry": {"coordinates":[9.84892,1.19863],"type":"Point"}
+}

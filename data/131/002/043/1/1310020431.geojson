@@ -1,0 +1,67 @@
+{
+  "id": 1310020431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30991,2.16122,11.30991,2.16122",
+    "geom:latitude":2.16122,
+    "geom:longitude":11.30991,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alum",
+    "gn:country_code":"GQ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310385,
+    "gn:latitude":2.16122,
+    "gn:longitude":11.30991,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Alum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310385
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"88778d975527dfde04d0537bd5219c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1310020431,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1310020431,
+    "wof:lastmodified":1536619597,
+    "wof:name":"Alum",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30991,
+    2.16122,
+    11.30991,
+    2.16122
+],
+  "geometry": {"coordinates":[11.30991,2.16122],"type":"Point"}
+}

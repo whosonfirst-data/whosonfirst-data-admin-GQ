@@ -1,0 +1,67 @@
+{
+  "id": 1226260993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01005,1.85808,10.01005,1.85808",
+    "geom:latitude":1.85808,
+    "geom:longitude":10.01005,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mindyiminve",
+    "gn:country_code":"GQ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307939,
+    "gn:latitude":1.85808,
+    "gn:longitude":10.01005,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mindyiminv\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307939
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"07d959b0280dc3a24e68f0b1ae72640f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1226260993,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1226260993,
+    "wof:lastmodified":1536912039,
+    "wof:name":"Mindyiminve",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01005,
+    1.85808,
+    10.01005,
+    1.85808
+],
+  "geometry": {"coordinates":[10.01005,1.85808],"type":"Point"}
+}

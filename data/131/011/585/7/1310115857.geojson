@@ -1,0 +1,67 @@
+{
+  "id": 1310115857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.59814,1.44269,10.59814,1.44269",
+    "geom:latitude":1.44269,
+    "geom:longitude":10.59814,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mabono",
+    "gn:country_code":"GQ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308639,
+    "gn:latitude":1.44269,
+    "gn:longitude":10.59814,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mabono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308639
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6db084595fa66cadeb57771802490e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785253,
+            "locality_id":1310115857,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1310115857,
+    "wof:lastmodified":1536980776,
+    "wof:name":"Mabono",
+    "wof:parent_id":1108785253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.59814,
+    1.44269,
+    10.59814,
+    1.44269
+],
+  "geometry": {"coordinates":[10.59814,1.44269],"type":"Point"}
+}

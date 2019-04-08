@@ -1,0 +1,71 @@
+{
+  "id": 1293505707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53768,1.80177,10.53768,1.80177",
+    "geom:latitude":1.80177,
+    "geom:longitude":10.53768,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acurenam",
+    "gn:country_code":"GQ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310530,
+    "gn:latitude":1.80177,
+    "gn:longitude":10.53768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Acurenam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akurenan",
+        "Acurenam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671565,
+        1108785273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310530
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d7a366d398576842f0df3d7fe406d201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785273,
+            "locality_id":1293505707,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1293505707,
+    "wof:lastmodified":1537624123,
+    "wof:name":"Acurenam",
+    "wof:parent_id":1108785273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53768,
+    1.80177,
+    10.53768,
+    1.80177
+],
+  "geometry": {"coordinates":[10.53768,1.80177],"type":"Point"}
+}

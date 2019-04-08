@@ -1,0 +1,77 @@
+{
+  "id": 1243082389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82481,1.023,10.82481,1.023",
+    "geom:latitude":1.023,
+    "geom:longitude":10.82481,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsogmitang",
+    "gn:country_code":"GQ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307153,
+    "gn:latitude":1.023,
+    "gn:longitude":10.82481,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nsogmitang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307153
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b9fd1bd31a64096283ef146dcf4e025e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1243082389,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1243082389,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1243082389,
+    "wof:lastmodified":1536832212,
+    "wof:name":"Nsogmitang",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82481,
+    1.023,
+    10.82481,
+    1.023
+],
+  "geometry": {"coordinates":[10.82481,1.023],"type":"Point"}
+}

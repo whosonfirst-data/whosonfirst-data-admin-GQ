@@ -1,0 +1,61 @@
+{
+  "id": 1209332815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92018,1.95465,9.92018,1.95465",
+    "geom:latitude":1.95465,
+    "geom:longitude":9.92018,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Asem",
+    "gn:country_code":"GQ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310267,
+    "gn:latitude":1.95465,
+    "gn:longitude":9.92018,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Asem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310267
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b348c9caede55991beeb388909e5d7ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209332815
+        }
+    ],
+    "wof:id":1209332815,
+    "wof:lastmodified":1536290320,
+    "wof:name":"Asem",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92018,
+    1.95465,
+    9.92018,
+    1.95465
+],
+  "geometry": {"coordinates":[9.92018,1.95465],"type":"Point"}
+}

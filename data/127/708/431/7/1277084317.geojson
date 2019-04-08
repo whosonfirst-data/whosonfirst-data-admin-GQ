@@ -1,0 +1,71 @@
+{
+  "id": 1277084317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.245,1.9903,11.245,1.9903",
+    "geom:latitude":1.9903,
+    "geom:longitude":11.245,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbun",
+    "gn:country_code":"GQ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308231,
+    "gn:latitude":1.9903,
+    "gn:longitude":11.245,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbum",
+        "Mbun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308231
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"93e2b7a0a6aeadcf5c7b9edcb9e1ccc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785247,
+            "locality_id":1277084317,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1277084317,
+    "wof:lastmodified":1537624096,
+    "wof:name":"Mbun",
+    "wof:parent_id":1108785247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.245,
+    1.9903,
+    11.245,
+    1.9903
+],
+  "geometry": {"coordinates":[11.245,1.9903],"type":"Point"}
+}

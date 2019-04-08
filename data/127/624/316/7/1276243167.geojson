@@ -1,0 +1,67 @@
+{
+  "id": 1276243167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95289,1.77807,9.95289,1.77807",
+    "geom:latitude":1.77807,
+    "geom:longitude":9.95289,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bisabinya",
+    "gn:country_code":"GQ",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309785,
+    "gn:latitude":1.77807,
+    "gn:longitude":9.95289,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bisabinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309785
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"dca5d993284c0b1e078164b36f0f0719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785261,
+            "locality_id":1276243167,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1276243167,
+    "wof:lastmodified":1536899449,
+    "wof:name":"Bisabinya",
+    "wof:parent_id":1108785261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95289,
+    1.77807,
+    9.95289,
+    1.77807
+],
+  "geometry": {"coordinates":[9.95289,1.77807],"type":"Point"}
+}

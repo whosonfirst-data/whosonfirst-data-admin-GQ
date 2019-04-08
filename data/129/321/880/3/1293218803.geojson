@@ -1,0 +1,76 @@
+{
+  "id": 1293218803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32475,0.93245,9.32475,0.93245",
+    "geom:latitude":0.93245,
+    "geom:longitude":9.32475,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Elonguambane",
+    "gn:country_code":"GQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2309160,
+    "gn:latitude":0.93245,
+    "gn:longitude":9.32475,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Elonguambane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longoambani",
+        "Anonguambane",
+        "Longambanay",
+        "Anonguabani",
+        "El\u00f3nguamb\u00e1ni",
+        "Anonguanbani",
+        "Elonguambane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309160
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"429e21b1867af1b97f6c3dd1d13b692d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785245,
+            "locality_id":1293218803,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1293218803,
+    "wof:lastmodified":1537624106,
+    "wof:name":"Elonguambane",
+    "wof:parent_id":1108785245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32475,
+    0.93245,
+    9.32475,
+    0.93245
+],
+  "geometry": {"coordinates":[9.32475,0.93245],"type":"Point"}
+}

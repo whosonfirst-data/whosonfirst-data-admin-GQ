@@ -1,0 +1,72 @@
+{
+  "id": 1293108905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58209,2.04545,10.58209,2.04545",
+    "geom:latitude":2.04545,
+    "geom:longitude":10.58209,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bebulu",
+    "gn:country_code":"GQ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310026,
+    "gn:latitude":2.04545,
+    "gn:longitude":10.58209,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bebulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bubulu",
+        "Bibulu",
+        "Bebulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310026
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"c9f541f8fb4743a987303e9beae12c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785275,
+            "locality_id":1293108905,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1293108905,
+    "wof:lastmodified":1537624116,
+    "wof:name":"Bebulu",
+    "wof:parent_id":1108785275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58209,
+    2.04545,
+    10.58209,
+    2.04545
+],
+  "geometry": {"coordinates":[10.58209,2.04545],"type":"Point"}
+}

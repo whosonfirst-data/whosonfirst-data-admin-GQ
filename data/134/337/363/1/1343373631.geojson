@@ -1,0 +1,67 @@
+{
+  "id": 1343373631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.70175,1.08272,9.70175,1.08272",
+    "geom:latitude":1.08272,
+    "geom:longitude":9.70175,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Toledo",
+    "gn:country_code":"GQ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306615,
+    "gn:latitude":1.08272,
+    "gn:longitude":9.70175,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Toledo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306615
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"98d6ea3103eeec8f994520866c80a7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1343373631,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1343373631,
+    "wof:lastmodified":1536870311,
+    "wof:name":"Toledo",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.70175,
+    1.08272,
+    9.70175,
+    1.08272
+],
+  "geometry": {"coordinates":[9.70175,1.08272],"type":"Point"}
+}

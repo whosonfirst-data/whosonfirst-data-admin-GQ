@@ -1,0 +1,94 @@
+{
+  "id": 890416409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62316,1.4261,9.62316,1.4261",
+    "geom:latitude":1.4261,
+    "geom:longitude":9.62316,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
+    "gn:pop":1464,
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bitika"
+    ],
+    "name:dut_x_preferred":[
+        "Bitica"
+    ],
+    "name:eng_x_preferred":[
+        "Bitica"
+    ],
+    "name:fre_x_preferred":[
+        "Bitica"
+    ],
+    "name:ita_x_preferred":[
+        "Bitica"
+    ],
+    "name:spa_x_preferred":[
+        "Bitica"
+    ],
+    "name:swe_x_preferred":[
+        "Bitica"
+    ],
+    "name:tur_x_preferred":[
+        "Bitica"
+    ],
+    "name:unk_x_variant":[
+        "Bitika"
+    ],
+    "qs:name":"Bitica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2309744,
+        "gp:id":1311135,
+        "qs:id":139456,
+        "wd:id":"Q3640495",
+        "wk:page":"Bitica"
+    },
+    "wof:country":"GQ",
+    "wof:created":1469051133,
+    "wof:geomhash":"c227e6ecb3158903bf91b89a79bdac3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "locality_id":890416409,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":890416409,
+    "wof:lastmodified":1527792801,
+    "wof:name":"Bitica",
+    "wof:parent_id":85671589,
+    "wof:placetype":"locality",
+    "wof:population":1464,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62316,
+    1.4261,
+    9.62316,
+    1.4261
+],
+  "geometry": {"coordinates":[9.62316,1.4261],"type":"Point"}
+}

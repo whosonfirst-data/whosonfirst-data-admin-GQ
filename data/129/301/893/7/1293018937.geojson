@@ -1,0 +1,71 @@
+{
+  "id": 1293018937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53177,2.1023,10.53177,2.1023",
+    "geom:latitude":2.1023,
+    "geom:longitude":10.53177,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncumecoc",
+    "gn:country_code":"GQ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307493,
+    "gn:latitude":2.1023,
+    "gn:longitude":10.53177,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ncumecoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkoensok",
+        "Ncumecoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307493
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"008a24e30324679eb6a72b5ae3acd2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785275,
+            "locality_id":1293018937,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1293018937,
+    "wof:lastmodified":1537624084,
+    "wof:name":"Ncumecoc",
+    "wof:parent_id":1108785275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53177,
+    2.1023,
+    10.53177,
+    2.1023
+],
+  "geometry": {"coordinates":[10.53177,2.1023],"type":"Point"}
+}

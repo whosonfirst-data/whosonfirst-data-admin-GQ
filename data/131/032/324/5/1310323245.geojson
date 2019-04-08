@@ -1,0 +1,67 @@
+{
+  "id": 1310323245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95144,1.06385,9.95144,1.06385",
+    "geom:latitude":1.06385,
+    "geom:longitude":9.95144,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nsangnam",
+    "gn:country_code":"GQ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307195,
+    "gn:latitude":1.06385,
+    "gn:longitude":9.95144,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nsangnam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589,
+        1108785243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307195
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ba5baf2ae61d2cdec3c3e68fca07c5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785243,
+            "locality_id":1310323245,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":1310323245,
+    "wof:lastmodified":1536682319,
+    "wof:name":"Nsangnam",
+    "wof:parent_id":1108785243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95144,
+    1.06385,
+    9.95144,
+    1.06385
+],
+  "geometry": {"coordinates":[9.95144,1.06385],"type":"Point"}
+}

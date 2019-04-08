@@ -1,0 +1,61 @@
+{
+  "id": 1209124397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34498,0.99696,10.34498,0.99696",
+    "geom:latitude":0.99696,
+    "geom:longitude":10.34498,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nkienayu",
+    "gn:country_code":"GQ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2307248,
+    "gn:latitude":0.99696,
+    "gn:longitude":10.34498,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nkie\u00f1ayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307248
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"ecd33baed5d91cfbdf49c56276665da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209124397
+        }
+    ],
+    "wof:id":1209124397,
+    "wof:lastmodified":1536297000,
+    "wof:name":"Nkienayu",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34498,
+    0.99696,
+    10.34498,
+    0.99696
+],
+  "geometry": {"coordinates":[10.34498,0.99696],"type":"Point"}
+}

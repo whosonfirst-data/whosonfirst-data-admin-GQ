@@ -1,0 +1,65 @@
+{
+  "id": 1209530461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10566,1.47858,11.10566,1.47858",
+    "geom:latitude":1.47858,
+    "geom:longitude":11.10566,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anisoc",
+    "gn:country_code":"GQ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310312,
+    "gn:latitude":1.47858,
+    "gn:longitude":11.10566,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00f1isoc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00f1isok",
+        "A\u00f1isoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310312
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"b6dc3d8c8cf4edd91bad59b38d9c3044",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209530461
+        }
+    ],
+    "wof:id":1209530461,
+    "wof:lastmodified":1537624120,
+    "wof:name":"Anisoc",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10566,
+    1.47858,
+    11.10566,
+    1.47858
+],
+  "geometry": {"coordinates":[11.10566,1.47858],"type":"Point"}
+}

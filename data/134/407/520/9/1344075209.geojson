@@ -1,0 +1,67 @@
+{
+  "id": 1344075209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.52823,2.09773,10.52823,2.09773",
+    "geom:latitude":2.09773,
+    "geom:longitude":10.52823,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ncoenco",
+    "gn:country_code":"GQ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2307560,
+    "gn:latitude":2.09773,
+    "gn:longitude":10.52823,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ncoenco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671583,
+        1108785275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2307560
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"0d8ed4f9a2ed0d193741695cd7643fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785275,
+            "locality_id":1344075209,
+            "region_id":85671583
+        }
+    ],
+    "wof:id":1344075209,
+    "wof:lastmodified":1536853190,
+    "wof:name":"Ncoenco",
+    "wof:parent_id":1108785275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.52823,
+    2.09773,
+    10.52823,
+    2.09773
+],
+  "geometry": {"coordinates":[10.52823,2.09773],"type":"Point"}
+}

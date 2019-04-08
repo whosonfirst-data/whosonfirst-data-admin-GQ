@@ -1,0 +1,67 @@
+{
+  "id": 1209633301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94698,1.57109,9.94698,1.57109",
+    "geom:latitude":1.57109,
+    "geom:longitude":9.94698,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Midumo",
+    "gn:country_code":"GQ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308001,
+    "gn:latitude":1.57109,
+    "gn:longitude":9.94698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Midumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miduma",
+        "Mendouma",
+        "Menduma",
+        "Midumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308001
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"d46637c76a91db0a868eb59f959007e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209633301
+        }
+    ],
+    "wof:id":1209633301,
+    "wof:lastmodified":1537624092,
+    "wof:name":"Midumo",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94698,
+    1.57109,
+    9.94698,
+    1.57109
+],
+  "geometry": {"coordinates":[9.94698,1.57109],"type":"Point"}
+}

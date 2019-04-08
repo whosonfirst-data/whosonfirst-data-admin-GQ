@@ -1,0 +1,67 @@
+{
+  "id": 1327343583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94335,1.41168,10.94335,1.41168",
+    "geom:latitude":1.41168,
+    "geom:longitude":10.94335,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yem",
+    "gn:country_code":"GQ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2306500,
+    "gn:latitude":1.41168,
+    "gn:longitude":10.94335,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Yem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671591,
+        1108785225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2306500
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"30c311a8e498cf6450647e19d2c11f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785225,
+            "locality_id":1327343583,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":1327343583,
+    "wof:lastmodified":1536808613,
+    "wof:name":"Yem",
+    "wof:parent_id":1108785225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94335,
+    1.41168,
+    10.94335,
+    1.41168
+],
+  "geometry": {"coordinates":[10.94335,1.41168],"type":"Point"}
+}

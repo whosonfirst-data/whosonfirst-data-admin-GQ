@@ -1,0 +1,67 @@
+{
+  "id": 1209124425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,1.11667,10.36667,1.11667",
+    "geom:latitude":1.11667,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Evinayong",
+    "gn:cc2":"GQ",
+    "gn:country_code":"GQ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308995,
+    "gn:latitude":1.11667,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Evinayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Evinayon",
+        "Ewinajon",
+        "Evinayong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308995
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"f8a7f63d2e08c9f27898be8545a94bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209124425
+        }
+    ],
+    "wof:id":1209124425,
+    "wof:lastmodified":1537624104,
+    "wof:name":"Evinayong",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    1.11667,
+    10.36667,
+    1.11667
+],
+  "geometry": {"coordinates":[10.36667,1.11667],"type":"Point"}
+}

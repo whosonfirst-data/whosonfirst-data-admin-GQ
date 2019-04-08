@@ -1,0 +1,61 @@
+{
+  "id": 1209124499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73517,1.55143,10.73517,1.55143",
+    "geom:latitude":1.55143,
+    "geom:longitude":10.73517,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mecac",
+    "gn:country_code":"GQ",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2308201,
+    "gn:latitude":1.55143,
+    "gn:longitude":10.73517,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mecac",
+    "gn:population":0,
+    "gn:timezone":"Africa/Malabo",
+    "iso:country":"GQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2308201
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"84103c007c5f3be09b3c33fdfe2e387f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632287,
+            "locality_id":1209124499
+        }
+    ],
+    "wof:id":1209124499,
+    "wof:lastmodified":1536296997,
+    "wof:name":"Mecac",
+    "wof:parent_id":85632287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73517,
+    1.55143,
+    10.73517,
+    1.55143
+],
+  "geometry": {"coordinates":[10.73517,1.55143],"type":"Point"}
+}
