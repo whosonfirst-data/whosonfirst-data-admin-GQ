@@ -10,6 +10,12 @@
     "geom:latitude":0.910125,
     "geom:longitude":9.322483,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Corisco District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.910645,
     "lbl:longitude":9.322078,
     "meso:adm1_en":"Litoral",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785245,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718785,
     "wof:name":"Corisco",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

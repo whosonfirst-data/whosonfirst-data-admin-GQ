@@ -10,6 +10,12 @@
     "geom:latitude":3.421991,
     "geom:longitude":8.748029,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Riaba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.446134,
     "lbl:longitude":8.754815,
     "meso:adm1_en":"Bioko Sur",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785281,
-    "wof:lastmodified":1536615793,
+    "wof:lastmodified":1553718786,
     "wof:name":"Riaba",
     "wof:parent_id":85671599,
     "wof:placetype":"county",

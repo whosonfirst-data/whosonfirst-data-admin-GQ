@@ -10,6 +10,12 @@
     "geom:latitude":1.206683,
     "geom:longitude":11.206574,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Nsork District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.140883,
     "lbl:longitude":11.224841,
     "meso:adm1_en":"Wele Nzas",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785279,
-    "wof:lastmodified":1536615793,
+    "wof:lastmodified":1553718786,
     "wof:name":"Nsork",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

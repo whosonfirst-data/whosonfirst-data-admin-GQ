@@ -10,6 +10,12 @@
     "geom:latitude":1.649894,
     "geom:longitude":11.066688,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Mongomoyen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.651488,
     "lbl:longitude":11.06922,
     "meso:adm1_en":"Wele Nzas",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785269,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718786,
     "wof:name":"Mongomoyen",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

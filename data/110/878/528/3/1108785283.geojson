@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":15588799.527321,
+    "geom:area_square_m":15588799.52732,
     "geom:bbox":"5.60211134,-1.461277723,5.63708353,-1.402111053",
     "geom:latitude":-1.432286,
     "geom:longitude":5.621013,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Annobon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.43035,
     "lbl:longitude":5.622429,
     "meso:adm1_en":"Annobon",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1108785283,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555037225,
     "wof:name":"Annobon",
     "wof:parent_id":85671563,
     "wof:placetype":"county",

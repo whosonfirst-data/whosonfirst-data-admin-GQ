@@ -10,6 +10,12 @@
     "geom:latitude":1.943861,
     "geom:longitude":9.976911,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Machinda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.943903,
     "lbl:longitude":9.978235,
     "meso:adm1_en":"Litoral",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785261,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718785,
     "wof:name":"Machinda",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

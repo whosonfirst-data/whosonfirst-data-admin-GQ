@@ -10,6 +10,12 @@
     "geom:latitude":2.082745,
     "geom:longitude":10.793336,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Micomiseng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.06988,
     "lbl:longitude":10.868276,
     "meso:adm1_en":"Kie Ntem",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785263,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718785,
     "wof:name":"Micomiseng",
     "wof:parent_id":85671583,
     "wof:placetype":"county",

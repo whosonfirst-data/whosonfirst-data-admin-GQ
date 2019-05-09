@@ -10,6 +10,12 @@
     "geom:latitude":2.012025,
     "geom:longitude":10.52211,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Nkue District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.020989,
     "lbl:longitude":10.543185,
     "meso:adm1_en":"Kie Ntem",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785275,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718786,
     "wof:name":"Nkue",
     "wof:parent_id":85671583,
     "wof:placetype":"county",

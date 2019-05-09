@@ -10,6 +10,12 @@
     "geom:latitude":3.396325,
     "geom:longitude":8.584261,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Luba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.353385,
     "lbl:longitude":8.570391,
     "meso:adm1_en":"Bioko Sur",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785255,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718785,
     "wof:name":"Luba",
     "wof:parent_id":85671599,
     "wof:placetype":"county",

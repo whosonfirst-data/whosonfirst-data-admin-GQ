@@ -10,6 +10,12 @@
     "geom:latitude":1.091989,
     "geom:longitude":10.618826,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Acurenam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.109468,
     "lbl:longitude":10.649533,
     "meso:adm1_en":"Centro Sur",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785227,
-    "wof:lastmodified":1536615791,
+    "wof:lastmodified":1553718784,
     "wof:name":"Acurenam",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.922287,
     "geom:longitude":11.078639,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Nsoc Nsomo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.922884,
     "lbl:longitude":11.075529,
     "meso:adm1_en":"Kie Ntem",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785277,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718786,
     "wof:name":"Nsoc Nsomo",
     "wof:parent_id":85671583,
     "wof:placetype":"county",

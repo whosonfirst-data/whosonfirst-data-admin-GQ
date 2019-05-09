@@ -10,6 +10,12 @@
     "geom:latitude":1.792928,
     "geom:longitude":10.656644,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Ayene District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.710298,
     "lbl:longitude":10.654502,
     "meso:adm1_en":"Wele Nzas",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785237,
-    "wof:lastmodified":1536615791,
+    "wof:lastmodified":1553718785,
     "wof:name":"Ayene",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

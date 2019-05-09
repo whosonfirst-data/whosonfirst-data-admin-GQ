@@ -10,6 +10,12 @@
     "geom:latitude":1.622921,
     "geom:longitude":11.239887,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Mongomo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.585355,
     "lbl:longitude":11.241958,
     "meso:adm1_en":"Wele Nzas",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785265,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718786,
     "wof:name":"Mongomo",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

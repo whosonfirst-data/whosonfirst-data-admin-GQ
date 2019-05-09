@@ -10,6 +10,12 @@
     "geom:latitude":1.933392,
     "geom:longitude":9.83393,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Bata District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.750754,
     "lbl:longitude":9.813388,
     "meso:adm1_en":"Litoral",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785235,
-    "wof:lastmodified":1536615791,
+    "wof:lastmodified":1553718785,
     "wof:name":"Bata",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

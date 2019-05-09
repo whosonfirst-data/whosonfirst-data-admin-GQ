@@ -10,6 +10,12 @@
     "geom:latitude":1.52606,
     "geom:longitude":10.329016,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Bicurga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.506935,
     "lbl:longitude":10.302699,
     "meso:adm1_en":"Centro Sur",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785239,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718785,
     "wof:name":"Bicurga",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

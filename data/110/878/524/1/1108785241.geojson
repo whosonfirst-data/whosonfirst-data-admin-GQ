@@ -10,6 +10,12 @@
     "geom:latitude":1.380627,
     "geom:longitude":9.689994,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Bitica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.373355,
     "lbl:longitude":9.665346,
     "meso:adm1_en":"Litoral",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108785241,
-    "wof:lastmodified":1536615792,
+    "wof:lastmodified":1553718785,
     "wof:name":"Bitica",
     "wof:parent_id":85671589,
     "wof:placetype":"county",
