@@ -18,16 +18,16 @@
     "name:cat_x_preferred":[
         "Nsang"
     ],
-    "name:dut_x_preferred":[
-        "Nsang"
-    ],
     "name:eng_x_preferred":[
         "Nsang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nsang"
     ],
     "name:ita_x_preferred":[
+        "Nsang"
+    ],
+    "name:nld_x_preferred":[
         "Nsang"
     ],
     "name:pol_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890416399,
-    "wof:lastmodified":1527792798,
+    "wof:lastmodified":1561843702,
     "wof:name":"Nsang",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",

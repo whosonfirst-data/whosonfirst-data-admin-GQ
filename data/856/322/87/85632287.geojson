@@ -143,9 +143,6 @@
     "name:cym_x_preferred":[
         "Gini Gyhydeddol"
     ],
-    "name:cze_x_preferred":[
-        "Rovn\u00edkov\u00e1 Guinea"
-    ],
     "name:dan_x_colloquial":[
         "AEkvatorial Guinea"
     ],
@@ -238,8 +235,7 @@
     ],
     "name:fra_x_variant":[
         "Guin\u00e9e \u00c9quatoriale",
-        "Guin\u00e9e-\u00c9quatoriale",
-        "Guin\u00e9e \u00e9quatoriale"
+        "Guin\u00e9e-\u00c9quatoriale"
     ],
     "name:frp_x_preferred":[
         "Guin\u00ea \u00e8quatori\u00e2la"
@@ -574,9 +570,6 @@
     "name:ron_x_preferred":[
         "Guineea Ecuatorial\u0103"
     ],
-    "name:rum_x_preferred":[
-        "Guineea Ecuatorial\u0103"
-    ],
     "name:run_x_preferred":[
         "Gineya Ekwatoriyali"
     ],
@@ -788,8 +781,7 @@
         "\u8d64\u9053\u51e0\u5185\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u8d64\u9053\u5e7e\u5167\u4e9e",
-        "\u8d64\u9053\u51e0\u5185\u4e9a"
+        "\u8d64\u9053\u5e7e\u5167\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u8d64\u9053\u757f\u5167\u4e9e"
@@ -949,7 +941,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1544059103,
+    "wof:lastmodified":1561843698,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -17,17 +17,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u0648\u0645\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Mongomo"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u0999\u09cd\u0997\u09cb\u09ae\u09cb"
     ],
     "name:cat_x_preferred":[
         "Mongomo"
-    ],
-    "name:chi_x_preferred":[
-        "\u8499\u6208\u83ab"
     ],
     "name:dan_x_preferred":[
         "Mongomo"
@@ -35,8 +29,8 @@
     "name:deu_x_preferred":[
         "Mongomo"
     ],
-    "name:dut_x_preferred":[
-        "Mongomo"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b3\u03ba\u03cc\u03bc\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mongomo"
@@ -50,17 +44,8 @@
     "name:fra_x_preferred":[
         "Mongomo"
     ],
-    "name:fre_x_preferred":[
-        "Mongomo"
-    ],
     "name:frr_x_preferred":[
         "Mongomo"
-    ],
-    "name:ger_x_preferred":[
-        "Mongomo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03b3\u03ba\u03cc\u03bc\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a82\u0a97\u0acb\u0aae\u0acb"
@@ -95,7 +80,7 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0902\u0917\u094b\u092e\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mongomo"
     ],
     "name:nld_x_preferred":[
@@ -111,9 +96,6 @@
         "Mongomo"
     ],
     "name:ron_x_preferred":[
-        "Mongomo"
-    ],
-    "name:rum_x_preferred":[
         "Mongomo"
     ],
     "name:rus_x_preferred":[
@@ -301,7 +283,7 @@
         }
     ],
     "wof:id":421168967,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561843702,
     "wof:name":"Mongomo",
     "wof:parent_id":85671591,
     "wof:placetype":"locality",

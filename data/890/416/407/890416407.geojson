@@ -18,19 +18,16 @@
     "name:cat_x_preferred":[
         "Machinda"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u6b3d\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "Machinda"
-    ],
     "name:eng_x_preferred":[
         "Machinda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Machinda"
     ],
     "name:ita_x_preferred":[
+        "Machinda"
+    ],
+    "name:nld_x_preferred":[
         "Machinda"
     ],
     "name:pol_x_preferred":[
@@ -50,6 +47,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0686\u06cc\u0646\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6b3d\u9054"
     ],
     "qs:name":"Machinda",
     "qs:photos_9r":0,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890416407,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561843702,
     "wof:name":"Machinda",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

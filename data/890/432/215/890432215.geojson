@@ -15,32 +15,29 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Aconibe"
-    ],
     "name:cat_x_preferred":[
         "Aconibe"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u79d1\u5c3c\u8c9d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aconibe"
     ],
     "name:eng_x_preferred":[
         "Aconibe"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Aconibe"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0646\u06cc\u0628"
+    ],
+    "name:fra_x_preferred":[
         "Aconibe"
     ],
     "name:ita_x_preferred":[
         "Aconibe"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0648\u0646\u06cc\u0628"
+    "name:nld_x_preferred":[
+        "Aconibe"
     ],
     "name:pol_x_preferred":[
         "Aconibe"
@@ -62,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Akonebe"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u79d1\u5c3c\u8c9d"
     ],
     "qs:name":"Aconibe",
     "qs:photos_9r":0,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":890432215,
-    "wof:lastmodified":1527793040,
+    "wof:lastmodified":1561843703,
     "wof:name":"Aconibe",
     "wof:parent_id":85671591,
     "wof:placetype":"locality",

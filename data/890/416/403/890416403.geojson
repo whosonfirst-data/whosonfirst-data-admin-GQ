@@ -21,22 +21,19 @@
     "name:cat_x_preferred":[
         "Micomeseng"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u79d1\u6885\u68ee"
-    ],
-    "name:dut_x_preferred":[
-        "Micomeseng"
-    ],
     "name:eng_x_preferred":[
         "Micomeseng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mikomeseng"
     ],
     "name:ind_x_preferred":[
         "Mikomeseng"
     ],
     "name:ita_x_preferred":[
+        "Micomeseng"
+    ],
+    "name:nld_x_preferred":[
         "Micomeseng"
     ],
     "name:pol_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "Micomeseng"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u79d1\u6885\u68ee"
     ],
     "qs:name":"Mikomeseng",
     "qs:photos_9r":0,
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":890416403,
-    "wof:lastmodified":1514443905,
+    "wof:lastmodified":1561843702,
     "wof:name":"Mikomeseng",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",
