@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Nsang"
     ],
+    "name:ceb_x_preferred":[
+        "Nsang"
+    ],
     "name:eng_x_preferred":[
         "Nsang"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890416399,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264371,
     "wof:name":"Nsang",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",

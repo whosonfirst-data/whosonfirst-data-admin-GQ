@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Micomeseng"
     ],
+    "name:ceb_x_preferred":[
+        "Mikomeseng"
+    ],
     "name:eng_x_preferred":[
         "Micomeseng"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890416403,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264374,
     "wof:name":"Mikomeseng",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",

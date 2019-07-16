@@ -19,10 +19,16 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0627\u060c \u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0648\u0628\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0431\u0430"
     ],
     "name:cat_x_preferred":[
+        "Luba"
+    ],
+    "name:ceb_x_preferred":[
         "Luba"
     ],
     "name:dan_x_preferred":[
@@ -90,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "Luba"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e39\u0e1a\u0e32"
     ],
     "name:tur_x_preferred":[
         "Luba"
@@ -223,7 +232,7 @@
         }
     ],
     "wof:id":890451635,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264374,
     "wof:name":"Luba",
     "wof:parent_id":85671599,
     "wof:placetype":"locality",

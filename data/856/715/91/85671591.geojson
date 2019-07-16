@@ -25,17 +25,131 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u064a\u0644\u064a-\u0646\u0632\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09c7\u09b2\u09c7-\u099c\u09be\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0435\u043b\u0435-\u041d\u0437\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:dan_x_preferred":[
+        "Wele-Nzas Province"
+    ],
+    "name:deu_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03bb\u03b5-\u039d\u03b6\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Wele-Nzas Province"
     ],
     "name:eng_x_variant":[
         "Wele-Nzas"
     ],
+    "name:eus_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:fin_x_preferred":[
+        "Wele-Nzasin provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:frr_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0ab2\u0ac7-\u0aa8\u0a9d\u0abe\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0932\u0947-\u0928\u091c\u093c\u093e\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Wele-Nzas"
+    ],
+    "name:ita_x_preferred":[
+        "provincia Wele-Nzas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30ec\u30f3\u30b6\u30b9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cc8\u0cb2\u0ccd-\u0c8e\u0ca8\u0ccd\u0c9d\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d4-\u10dc\u10d6\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6f0\ub808\uc740\uc0ac\uc2a4 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Veles-Nzasas province"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0947\u0932\u0947-\u0928\u091d\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:msa_x_preferred":[
+        "Wele-Nzas Province"
+    ],
+    "name:nld_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:nob_x_preferred":[
+        "Wele-Nz\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:por_x_preferred":[
+        "Wele-Nzas"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Wele-Nzas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435-\u041d\u0437\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Wele-Nzas Province"
+    ],
     "name:spa_x_preferred":[
         "Wele-Nzas"
     ],
+    "name:spa_x_variant":[
+        "Provincia Wele-Nzas"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c46\u0c32\u0c46-\u0c0e\u0c28\u0c4d\u0c1c\u0c3e\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e27\u0e40\u0e25-\u0e2d\u0e36\u0e19\u0e0b\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Wele-Nzas Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0435-\u041d\u0437\u0430\u0441"
+    ],
     "name:unk_x_variant":[
         "Wele-Nzas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u06cc-\u0646\u0632\u0627\u0633 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Wele-Nzas"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u83b1\u6069\u8428\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GNQ",
@@ -162,7 +276,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1553550340,
+    "wof:lastmodified":1563264148,
     "wof:name":"Wele-Nz\u00e1s",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

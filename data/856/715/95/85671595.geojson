@@ -25,6 +25,33 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0648\u0643\u0648 \u0646\u0648\u0631\u062a"
+    ],
+    "name:bar_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0993\u0995\u09cb\u0981 \u09a8\u09b0\u09cd\u099f\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "Bioko-Norte"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0411\u0438\u043e\u043a\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Bioko Nord"
+    ],
+    "name:dan_x_preferred":[
+        "Bioko Norte Province"
+    ],
+    "name:deu_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03cc\u03ba\u03bf \u039d\u03cc\u03c1\u03c4\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Bioko Norte"
     ],
@@ -32,11 +59,110 @@
         "Bioko Norte Province",
         "Bioko Sur"
     ],
+    "name:eus_x_preferred":[
+        "Iparraldeko Bioko"
+    ],
+    "name:fin_x_preferred":[
+        "Bioko Norten provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Bioko-Norte"
+    ],
+    "name:frr_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0aaf\u0acb\u0a95\u0acb \u0aa8\u0acb\u0ab0\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u092f\u094b\u0915\u094b \u0928\u0949\u0930\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hrv_x_preferred":[
+        "Sjeverni Bioko"
+    ],
+    "name:hun_x_preferred":[
+        "Bioko Norte tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Bioko Norte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u30d3\u30aa\u30b3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0caf\u0ccb\u0c95\u0cca \u0ca8\u0cbe\u0cb0\u0ccd\u0c9f\u0cc6 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7 \u10d1\u10d8\u10dd\u10d9\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd81\ube44\uc624\ucf54 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Zieme\u013cbioko province"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s Bioko provincija"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0948\u0915\u094b \u0928\u0949\u0930\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:msa_x_preferred":[
+        "Bioko Norte Province"
+    ],
+    "name:nld_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:nob_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:pol_x_preferred":[
+        "Bioko P\u00f3\u0142nocne"
+    ],
+    "name:por_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Bioko Norte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0438\u043e\u043a\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Bioko Norte Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dba\u0ddc\u0d9a\u0ddc \u0db1\u0ddc\u0dbb\u0dca\u0da7\u0dda \u0db4\u0dc5\u0dcf\u0dad"
+    ],
     "name:spa_x_preferred":[
         "Bioko Norte"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0baf\u0bcb\u0b95\u0bcb \u0ba8\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3f\u0c2f\u0c4b\u0c15\u0c4b \u0c28\u0c3e\u0c30\u0c4d\u0c1f\u0c46 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e34\u0e42\u0e2d\u0e42\u0e01\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Bioko Norte Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0439\u043e\u043a\u043e \u041d\u043e\u0440\u0442\u0435"
+    ],
     "name:unk_x_variant":[
         "Provincia de Bioko Norte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u06a9\u0648 \u0646\u0648\u0631\u062a\u06cc \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Bioko Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6bd4\u5965\u79d1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GNQ",
@@ -163,7 +289,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1553550341,
+    "wof:lastmodified":1563264147,
     "wof:name":"Bioko Norte",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

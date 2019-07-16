@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ebebiy\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Ebebiyin"
+    ],
     "name:dan_x_preferred":[
         "Ebebiy\u00edn"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Ebebiyin"
+    ],
+    "name:eng_x_variant":[
+        "Ebebiy\u00edn"
     ],
     "name:eus_x_preferred":[
         "Ebebiyin"
@@ -113,6 +119,9 @@
     "name:rus_x_preferred":[
         "\u042d\u0431\u0435\u0431\u044c\u0438\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u0431\u0435\u0431\u0438\u0439\u0438\u043d"
+    ],
     "name:sin_x_preferred":[
         "\u0d91\u0db6\u0dd9\u0db6\u0dba\u0dd2\u0db1\u0dca"
     ],
@@ -133,6 +142,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e35\u0e40\u0e1a\u0e1a\u0e34\u0e22\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e40\u0e1a\u0e1a\u0e34\u0e22\u0e34\u0e19"
     ],
     "name:tur_x_preferred":[
         "Ebebiy\u00edn"
@@ -292,7 +304,7 @@
         }
     ],
     "wof:id":421199097,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264366,
     "wof:name":"Ebebiy\u00edn",
     "wof:parent_id":85671241,
     "wof:placetype":"locality",

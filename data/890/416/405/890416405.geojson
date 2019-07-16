@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Mbini"
     ],
+    "name:ceb_x_preferred":[
+        "Mbini"
+    ],
     "name:eng_x_preferred":[
         "Mbini"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890416405,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264373,
     "wof:name":"Mbini",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

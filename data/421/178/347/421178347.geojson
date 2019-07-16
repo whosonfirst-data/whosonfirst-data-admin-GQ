@@ -63,6 +63,9 @@
     "name:cdo_x_preferred":[
         "Malabo"
     ],
+    "name:ceb_x_preferred":[
+        "Malabo"
+    ],
     "name:ces_x_preferred":[
         "Malabo"
     ],
@@ -123,6 +126,9 @@
     "name:glg_x_preferred":[
         "Malabo"
     ],
+    "name:grn_x_preferred":[
+        "Malabo"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0abe\u0aac\u0acb"
     ],
@@ -145,6 +151,9 @@
         "\u092e\u0932\u093e\u092c\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Malabo"
+    ],
+    "name:hsb_x_preferred":[
         "Malabo"
     ],
     "name:hun_x_preferred":[
@@ -201,6 +210,9 @@
     "name:lav_x_preferred":[
         "Malabo"
     ],
+    "name:lfn_x_preferred":[
+        "Malabo"
+    ],
     "name:lin_x_preferred":[
         "Malabo"
     ],
@@ -240,6 +252,9 @@
     "name:msa_x_preferred":[
         "Malabo"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u101c\u102c\u1018\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nah_x_preferred":[
         "Malabo"
     ],
@@ -278,6 +293,9 @@
     ],
     "name:por_x_preferred":[
         "Malabo"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u0628\u0648"
     ],
     "name:roh_x_preferred":[
         "Malabo"
@@ -326,6 +344,9 @@
         "Malabo"
     ],
     "name:swe_x_preferred":[
+        "Malabo"
+    ],
+    "name:szl_x_preferred":[
         "Malabo"
     ],
     "name:tam_x_preferred":[
@@ -550,7 +571,7 @@
         }
     ],
     "wof:id":421178347,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264369,
     "wof:name":"Malabo",
     "wof:parent_id":85671595,
     "wof:placetype":"locality",

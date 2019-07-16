@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Bitika"
     ],
+    "name:ceb_x_preferred":[
+        "Bitica"
+    ],
     "name:eng_x_preferred":[
         "Bitica"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890416409,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264373,
     "wof:name":"Bitica",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

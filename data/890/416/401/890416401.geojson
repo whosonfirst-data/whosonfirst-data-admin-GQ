@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Ncue"
     ],
+    "name:ceb_x_preferred":[
+        "Ncue"
+    ],
     "name:eng_x_preferred":[
         "Ncue"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890416401,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264372,
     "wof:name":"Ncue",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",
