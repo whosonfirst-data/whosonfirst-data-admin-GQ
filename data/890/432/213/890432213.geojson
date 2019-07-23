@@ -15,8 +15,50 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Akurenam"
+    ],
+    "name:ceb_x_preferred":[
+        "Acurenam"
+    ],
+    "name:eng_x_preferred":[
+        "Acurenam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0631\u0646\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Akurenam"
+    ],
+    "name:ita_x_preferred":[
+        "Acurenam"
+    ],
+    "name:nld_x_preferred":[
+        "Acurenam"
+    ],
+    "name:pol_x_preferred":[
+        "Akurenam"
+    ],
+    "name:por_x_preferred":[
+        "Acurenam"
+    ],
+    "name:spa_x_preferred":[
+        "Acurenam"
+    ],
+    "name:swe_x_preferred":[
+        "Acurenam"
+    ],
+    "name:tur_x_preferred":[
+        "Acurenam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0443\u0440\u0435\u043d\u0430\u043c"
+    ],
     "name:unk_x_variant":[
         "Akurnam"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5eab\u52d2\u5357"
     ],
     "qs:name":"Acurenam",
     "qs:photos_9r":0,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":890432213,
-    "wof:lastmodified":1527793041,
+    "wof:lastmodified":1563264376,
     "wof:name":"Acurenam",
     "wof:parent_id":85671565,
     "wof:placetype":"locality",

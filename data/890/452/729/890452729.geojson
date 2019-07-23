@@ -18,7 +18,13 @@
     "name:cat_x_preferred":[
         "R\u00edo Campo"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Campo"
+    ],
     "name:eng_x_preferred":[
+        "R\u00edo Campo"
+    ],
+    "name:ita_x_preferred":[
         "R\u00edo Campo"
     ],
     "name:jpn_x_preferred":[
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890452729,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264370,
     "wof:name":"R\u00edo Campo",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

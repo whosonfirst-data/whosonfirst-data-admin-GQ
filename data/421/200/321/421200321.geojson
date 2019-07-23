@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Evinayong"
     ],
+    "name:ceb_x_preferred":[
+        "Evinayong"
+    ],
     "name:dan_x_preferred":[
         "Evinayong"
     ],
@@ -121,6 +124,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e35\u0e27\u0e34\u0e19\u0e32\u0e22\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e1a\u0e34\u0e19\u0e32\u0e22\u0e2d\u0e07"
     ],
     "name:tur_x_preferred":[
         "Evinayong"
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":421200321,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264367,
     "wof:name":"Evinayong",
     "wof:parent_id":85671565,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09a8\u09cd\u099f\u09c7\u09ae \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bre_x_preferred":[
         "Ki\u00e9-Ntem"
     ],
@@ -34,8 +37,14 @@
     "name:cat_x_preferred":[
         "Ki\u00e9-Ntem"
     ],
+    "name:dan_x_preferred":[
+        "Ki\u00e9-Ntem Province"
+    ],
     "name:deu_x_preferred":[
         "Ki\u00e9-Ntem"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b5-\u039d\u03c4\u03b5\u03bc"
     ],
     "name:eng_x_preferred":[
         "Ki\u00e9-Ntem Province"
@@ -53,18 +62,99 @@
     "name:fra_x_preferred":[
         "Ki\u00e9-Ntem"
     ],
+    "name:frr_x_preferred":[
+        "Ki\u00e9-Ntem"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0a8f-\u0a8f\u0aa8\u0acd\u0a9f\u0ac7\u0aae \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0908-\u091f\u0947\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Ki\u00e9-Ntem tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Ki\u00e9-Ntem"
+    ],
     "name:ita_x_preferred":[
         "Provincia Ki\u00e9-Ntem"
     ],
+    "name:ita_x_variant":[
+        "provincia Ki\u00e9-Ntem"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30a8\u30f3\u30c6\u30e0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc0-\u0c8e\u0ca8\u0ccd\u0c9f\u0cc6\u0cae\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4-\u10dc\u10e2\u10d4\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\uc5d0\uc740\ud15c \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "K\u0113-Ntemas province"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0947\u090f-\u0928\u094d\u091f\u0947\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:msa_x_preferred":[
+        "Kie-Ntem Province"
+    ],
+    "name:nld_x_preferred":[
+        "Ki\u00e9-Ntem"
+    ],
+    "name:nob_x_preferred":[
+        "Ki\u00e9-Ntem"
+    ],
+    "name:pol_x_preferred":[
+        "Ki\u00e9-Ntem"
+    ],
+    "name:por_x_preferred":[
+        "Ki\u00e9-Ntem"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Ki\u00e9-Ntem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435-\u041d\u0442\u0435\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Ki\u00e9-Ntem Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dba\u0dd2-\u0d91\u0db1\u0dca\u0da7\u0dd9\u0db8\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
         "Kie-Ntem",
         "Provincia Ki\u00e9-Ntem"
     ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c48-\u0c0e\u0c02\u0c1f\u0c46\u0c2e\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e34\u0e40\u0e2d-\u0e2d\u0e36\u0e19\u0e40\u0e15\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Ki\u00e9-Ntem Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435-\u041d\u0442\u0435\u043c"
+    ],
     "name:unk_x_variant":[
         "Provincia de Ki\u00e9-Ntem"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u06cc-\u0646\u062a\u06cc\u0645 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Ki\u00e9-Ntem"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u57c3\u6069\u7279\u59c6\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GNQ",
@@ -191,7 +281,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1553550339,
+    "wof:lastmodified":1563264150,
     "wof:name":"Ki\u00e9-Ntem",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

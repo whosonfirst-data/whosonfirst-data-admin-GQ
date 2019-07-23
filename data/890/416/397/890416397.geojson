@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Nsok"
     ],
+    "name:ceb_x_preferred":[
+        "Nsok"
+    ],
     "name:eng_x_preferred":[
         "Nsok"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416397,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264372,
     "wof:name":"Nsok",
     "wof:parent_id":85671591,
     "wof:placetype":"locality",

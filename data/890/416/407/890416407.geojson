@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Machinda"
     ],
+    "name:ceb_x_preferred":[
+        "Machinda"
+    ],
     "name:eng_x_preferred":[
         "Machinda"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890416407,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264373,
     "wof:name":"Machinda",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

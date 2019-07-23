@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Antonio de Pal\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Pal\u00e9"
+    ],
     "name:deu_x_preferred":[
         "San Antonio de Pal\u00e9"
     ],
@@ -93,6 +96,9 @@
     "name:swe_x_preferred":[
         "Pal\u00e9"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e2d\u0e31\u0e19\u0e42\u0e15\u0e19\u0e34\u0e42\u0e2d\u0e40\u0e14\u0e1b\u0e32\u0e40\u0e25"
+    ],
     "name:tur_x_preferred":[
         "San Antonio de Pal\u00e9"
     ],
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421168079,
-    "wof:lastmodified":1561843702,
+    "wof:lastmodified":1563264364,
     "wof:name":"Pal\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
