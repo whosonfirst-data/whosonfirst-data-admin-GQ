@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Acan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30f3"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0430\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Acan"
+    ],
     "name:und_x_variant":[
         "Akam",
         "Acan"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209229113,
-    "wof:lastmodified":1537624126,
+    "wof:lastmodified":1564222609,
     "wof:name":"Acan",
     "wof:parent_id":85632287,
     "wof:placetype":"locality",

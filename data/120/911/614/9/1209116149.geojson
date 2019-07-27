@@ -25,6 +25,24 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Abang"
+    ],
+    "name:fra_x_preferred":[
+        "Abang"
+    ],
+    "name:msa_x_preferred":[
+        "Abang"
+    ],
+    "name:swe_x_preferred":[
+        "Abang"
+    ],
+    "name:tgl_x_preferred":[
+        "Abang"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u0431\u0430\u043d\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632287
@@ -34,7 +52,7 @@
         "gn:id":2310730
     },
     "wof:country":"GQ",
-    "wof:geomhash":"acf5dc27d277468983406759cc05271f",
+    "wof:geomhash":"1cec679c0a3a26326e4d7b0b117779da",
     "wof:hierarchy":[
         {
             "country_id":85632287,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209116149,
-    "wof:lastmodified":1536297247,
+    "wof:lastmodified":1564222619,
     "wof:name":"Abang",
     "wof:parent_id":85632287,
     "wof:placetype":"locality",
@@ -53,9 +71,9 @@
 },
   "bbox": [
     10.50828,
-    1.7651400000000002,
+    1.76514,
     10.50828,
-    1.7651400000000002
+    1.76514
 ],
   "geometry": {"coordinates":[10.50828,1.76514],"type":"Point"}
 }

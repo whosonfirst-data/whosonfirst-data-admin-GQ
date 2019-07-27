@@ -25,6 +25,24 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Efon"
+    ],
+    "name:fra_x_preferred":[
+        "Efon"
+    ],
+    "name:hau_x_preferred":[
+        "Efon"
+    ],
+    "name:ita_x_preferred":[
+        "Efon"
+    ],
+    "name:por_x_preferred":[
+        "Efon"
+    ],
+    "name:spa_x_preferred":[
+        "Efon"
+    ],
     "name:und_x_variant":[
         "Efong",
         "Efon"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276883385,
-    "wof:lastmodified":1537624107,
+    "wof:lastmodified":1564222552,
     "wof:name":"Efon",
     "wof:parent_id":1108785227,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Egon"
+    ],
+    "name:deu_x_preferred":[
+        "Egon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b4\u30f3"
+    ],
+    "name:nor_x_preferred":[
+        "Egon"
+    ],
+    "name:slk_x_preferred":[
+        "Egon"
+    ],
+    "name:spa_x_preferred":[
+        "Egon"
+    ],
     "name:und_x_variant":[
         "Eguong-Niemayong",
         "Egon"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259392755,
-    "wof:lastmodified":1537624106,
+    "wof:lastmodified":1564222791,
     "wof:name":"Egon",
     "wof:parent_id":1108785263,
     "wof:placetype":"locality",

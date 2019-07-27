@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Escola d'escribes"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9dubba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c9\u30a5\u30d6\u30d0"
+    ],
+    "name:spa_x_preferred":[
+        "Eduba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309821713,
-    "wof:lastmodified":1536908448,
+    "wof:lastmodified":1564222728,
     "wof:name":"Eduba",
     "wof:parent_id":1108785241,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ayene"
+    ],
+    "name:ceb_x_preferred":[
+        "Ayene"
+    ],
+    "name:ita_x_preferred":[
+        "Ayene"
+    ],
+    "name:pol_x_preferred":[
+        "Ayene"
+    ],
+    "name:spa_x_preferred":[
+        "Ayene"
+    ],
+    "name:swe_x_preferred":[
+        "Ayene"
+    ],
+    "name:tur_x_preferred":[
+        "Ayene"
+    ],
     "name:und_x_variant":[
         "Ajene",
         "Ayene"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276991323,
-    "wof:lastmodified":1537624117,
+    "wof:lastmodified":1564222582,
     "wof:name":"Ayene",
     "wof:parent_id":1108785237,
     "wof:placetype":"locality",

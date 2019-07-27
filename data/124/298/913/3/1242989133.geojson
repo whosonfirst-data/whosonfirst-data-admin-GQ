@@ -25,6 +25,27 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dogo"
+    ],
+    "name:deu_x_preferred":[
+        "Dogo"
+    ],
+    "name:ita_x_preferred":[
+        "Dogo"
+    ],
+    "name:msa_x_preferred":[
+        "Dogo"
+    ],
+    "name:ron_x_preferred":[
+        "Dogo"
+    ],
+    "name:spa_x_preferred":[
+        "Dogo"
+    ],
+    "name:swe_x_preferred":[
+        "Dogo"
+    ],
     "name:und_x_variant":[
         "Ndogo",
         "Dogo"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1242989133,
-    "wof:lastmodified":1537624110,
+    "wof:lastmodified":1564222776,
     "wof:name":"Dogo",
     "wof:parent_id":1108785235,
     "wof:placetype":"locality",

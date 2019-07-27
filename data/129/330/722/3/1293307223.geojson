@@ -25,6 +25,30 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Alun"
+    ],
+    "name:ceb_x_preferred":[
+        "Alun"
+    ],
+    "name:ces_x_preferred":[
+        "Alun"
+    ],
+    "name:cym_x_preferred":[
+        "Alun"
+    ],
+    "name:deu_x_preferred":[
+        "Alun"
+    ],
+    "name:ron_x_preferred":[
+        "Alun"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Alun"
+    ],
     "name:und_x_variant":[
         "Alen",
         "Alun"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1293307223,
-    "wof:lastmodified":1537624121,
+    "wof:lastmodified":1564222505,
     "wof:name":"Alun",
     "wof:parent_id":1108785269,
     "wof:placetype":"locality",

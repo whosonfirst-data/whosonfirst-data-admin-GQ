@@ -25,6 +25,27 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alon"
+    ],
+    "name:ces_x_preferred":[
+        "Alon"
+    ],
+    "name:deu_x_preferred":[
+        "Alon"
+    ],
+    "name:fra_x_preferred":[
+        "Alon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d5\u05df"
+    ],
+    "name:slv_x_preferred":[
+        "Alon"
+    ],
+    "name:swe_x_preferred":[
+        "Alon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1259898047,
-    "wof:lastmodified":1536758268,
+    "wof:lastmodified":1564222816,
     "wof:name":"Alon",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",

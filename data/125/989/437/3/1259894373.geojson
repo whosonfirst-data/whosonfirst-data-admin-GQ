@@ -25,6 +25,24 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Andon"
+    ],
+    "name:fra_x_preferred":[
+        "Andon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Andon"
+    ],
+    "name:spa_x_preferred":[
+        "Andon"
+    ],
+    "name:swe_x_preferred":[
+        "Andon"
+    ],
     "name:und_x_variant":[
         "Andom",
         "Andon"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259894373,
-    "wof:lastmodified":1537624121,
+    "wof:lastmodified":1564222815,
     "wof:name":"Andon",
     "wof:parent_id":1108785277,
     "wof:placetype":"locality",

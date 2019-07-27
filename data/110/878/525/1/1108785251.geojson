@@ -24,6 +24,51 @@
     "mps:longitude":9.506853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:eus_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Elobey"
+    ],
+    "name:ita_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u30a8\u30ed\u30d9\u30a4\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10d4\u10da\u10dd\u10d1\u10d4\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub85c\ubca0\uc774\uadf8\ub780\ub370\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Didysis Elob\u0117jus"
+    ],
+    "name:pol_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:por_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u042d\u043b\u043e\u0431\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u57c3\u6d1b\u8d1d\u5c9b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +88,7 @@
         }
     ],
     "wof:id":1108785251,
-    "wof:lastmodified":1512517072,
+    "wof:lastmodified":1564222667,
     "wof:name":"Elobey Grande",
     "wof:parent_id":-1,
     "wof:placetype":"county",

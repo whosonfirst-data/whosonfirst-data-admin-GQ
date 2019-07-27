@@ -25,6 +25,33 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u062c\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Mican"
+    ],
+    "name:ceb_x_preferred":[
+        "Mican"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c4\u03c3\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062c\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Mican"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10ef\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mican"
+    ],
+    "name:swe_x_preferred":[
+        "Mican"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1226052699,
-    "wof:lastmodified":1536715370,
+    "wof:lastmodified":1564222827,
     "wof:name":"Mican",
     "wof:parent_id":1108785261,
     "wof:placetype":"locality",

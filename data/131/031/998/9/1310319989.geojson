@@ -25,6 +25,9 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310319989,
-    "wof:lastmodified":1536686975,
+    "wof:lastmodified":1564222682,
     "wof:name":"Acas",
     "wof:parent_id":1108785253,
     "wof:placetype":"locality",

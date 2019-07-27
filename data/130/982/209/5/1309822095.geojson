@@ -25,6 +25,21 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moyo"
+    ],
+    "name:deu_x_preferred":[
+        "Moyo"
+    ],
+    "name:fra_x_preferred":[
+        "Moyo"
+    ],
+    "name:ita_x_preferred":[
+        "Moyo"
+    ],
+    "name:swe_x_preferred":[
+        "Moyo"
+    ],
     "name:und_x_variant":[
         "Mony\u00f3",
         "Moy\u00f3"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309822095,
-    "wof:lastmodified":1537624088,
+    "wof:lastmodified":1564222727,
     "wof:name":"Moyo",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",

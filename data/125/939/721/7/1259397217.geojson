@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ebe"
+    ],
+    "name:fra_x_preferred":[
+        "EBE"
+    ],
+    "name:swe_x_preferred":[
+        "Ebe"
+    ],
+    "name:tur_x_preferred":[
+        "Ebe"
+    ],
     "name:und_x_variant":[
         "Ebay",
         "Ebe"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259397217,
-    "wof:lastmodified":1537624109,
+    "wof:lastmodified":1564222795,
     "wof:name":"Ebe",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",

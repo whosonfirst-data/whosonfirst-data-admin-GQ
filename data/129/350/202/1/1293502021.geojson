@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Eori"
+    ],
+    "name:hif_x_preferred":[
+        "Eori"
+    ],
+    "name:nld_x_preferred":[
+        "Eori"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0baf\u0bcb\u0bb0\u0bbf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293502021,
-    "wof:lastmodified":1536766412,
+    "wof:lastmodified":1564222528,
     "wof:name":"Eori",
     "wof:parent_id":1108785281,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cogo"
+    ],
+    "name:ceb_x_preferred":[
+        "Cogo"
+    ],
+    "name:deu_x_preferred":[
+        "Cogo"
+    ],
+    "name:fra_x_preferred":[
+        "Cogo"
+    ],
+    "name:ita_x_preferred":[
+        "Cogo"
+    ],
+    "name:pol_x_preferred":[
+        "Cogo"
+    ],
+    "name:por_x_preferred":[
+        "Cogo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Cogo"
+    ],
+    "name:swe_x_preferred":[
+        "Cogo"
+    ],
+    "name:tur_x_preferred":[
+        "Cogo"
+    ],
     "name:und_x_variant":[
         "Puerto Iradier",
         "Koga",
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1310315361,
-    "wof:lastmodified":1537624111,
+    "wof:lastmodified":1564222685,
     "wof:name":"Cogo",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

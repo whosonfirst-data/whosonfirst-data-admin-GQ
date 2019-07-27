@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bilene"
+    ],
+    "name:ron_x_preferred":[
+        "Bilene"
+    ],
+    "name:swe_x_preferred":[
+        "Bilene"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u840a\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327048395,
-    "wof:lastmodified":1536737334,
+    "wof:lastmodified":1564222433,
     "wof:name":"Bilene",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

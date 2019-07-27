@@ -25,10 +25,37 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Acalayong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0627\u0644\u0627\u06cc\u0627\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Acalayong"
+    ],
+    "name:fra_x_preferred":[
+        "Akalayong"
+    ],
+    "name:hun_x_preferred":[
+        "Acalayong"
+    ],
+    "name:ita_x_preferred":[
+        "Acalayong"
+    ],
+    "name:spa_x_preferred":[
+        "Asalayeng"
+    ],
+    "name:swe_x_preferred":[
+        "Acalayong"
+    ],
     "name:und_x_variant":[
         "Acalayon",
         "Akalayong",
         "Acalayong"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5361\u62c9\u6c38"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1344167161,
-    "wof:lastmodified":1537624127,
+    "wof:lastmodified":1564222493,
     "wof:name":"Acalayong",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Too"
+    ],
+    "name:fra_x_preferred":[
+        "Too"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310214903,
-    "wof:lastmodified":1536837571,
+    "wof:lastmodified":1564222692,
     "wof:name":"Too",
     "wof:parent_id":1108785237,
     "wof:placetype":"locality",

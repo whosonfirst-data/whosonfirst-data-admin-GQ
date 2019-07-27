@@ -25,13 +25,28 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
     "name:eng_x_preferred":[
         "Mengomey\u00e9n"
     ],
     "name:fra_x_preferred":[
         "Mengomey\u00e9n"
     ],
+    "name:ita_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
+    "name:pol_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
+    "name:por_x_preferred":[
+        "Mongomeyen"
+    ],
     "name:spa_x_preferred":[
+        "Mengomey\u00e9n"
+    ],
+    "name:tur_x_preferred":[
         "Mengomey\u00e9n"
     ],
     "name:und_x_variant":[
@@ -67,7 +82,7 @@
         }
     ],
     "wof:id":1293479521,
-    "wof:lastmodified":1537624115,
+    "wof:lastmodified":1564222526,
     "wof:name":"Mengomeyen",
     "wof:parent_id":1108785269,
     "wof:placetype":"locality",
