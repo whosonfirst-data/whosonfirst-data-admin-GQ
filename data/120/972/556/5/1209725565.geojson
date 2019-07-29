@@ -25,6 +25,30 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Niefang"
+    ],
+    "name:fin_x_preferred":[
+        "Niefang"
+    ],
+    "name:fra_x_preferred":[
+        "Niefang"
+    ],
+    "name:ita_x_preferred":[
+        "Niefang"
+    ],
+    "name:pol_x_preferred":[
+        "Niefang"
+    ],
+    "name:por_x_preferred":[
+        "Niefang"
+    ],
+    "name:spa_x_preferred":[
+        "Niefang"
+    ],
+    "name:tur_x_preferred":[
+        "Niefang"
+    ],
     "name:und_x_variant":[
         "Niefang",
         "Sevilla de Niefang"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209725565,
-    "wof:lastmodified":1537624074,
+    "wof:lastmodified":1564222630,
     "wof:name":"Sevilla de Niefang",
     "wof:parent_id":1108785271,
     "wof:placetype":"locality",

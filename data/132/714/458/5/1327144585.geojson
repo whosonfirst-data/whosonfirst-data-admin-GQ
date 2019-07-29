@@ -25,6 +25,9 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Oveng"
+    ],
     "name:und_x_variant":[
         "Ovong",
         "Oveng"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327144585,
-    "wof:lastmodified":1537624075,
+    "wof:lastmodified":1564222422,
     "wof:name":"Oveng",
     "wof:parent_id":1108785263,
     "wof:placetype":"locality",

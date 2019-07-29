@@ -25,6 +25,9 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Beleb\u00fa Balach\u00e1"
+    ],
     "name:und_x_variant":[
         "Beleb\u00fa Balach\u00e1"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276892077,
-    "wof:lastmodified":1537624115,
+    "wof:lastmodified":1564222558,
     "wof:name":"Belebu Balacha",
     "wof:parent_id":1108785255,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b3\u30e0"
+    ],
     "name:und_x_variant":[
         "Akom",
         "Acom"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259798163,
-    "wof:lastmodified":1537624124,
+    "wof:lastmodified":1564222798,
     "wof:name":"Acom",
     "wof:parent_id":1108785235,
     "wof:placetype":"locality",

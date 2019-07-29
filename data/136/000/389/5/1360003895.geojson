@@ -25,6 +25,12 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbe"
+    ],
+    "name:swe_x_preferred":[
+        "Mbe"
+    ],
     "name:und_x_variant":[
         "Mba",
         "Mbe"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360003895,
-    "wof:lastmodified":1537624098,
+    "wof:lastmodified":1564222708,
     "wof:name":"Mbe",
     "wof:parent_id":1108785273,
     "wof:placetype":"locality",

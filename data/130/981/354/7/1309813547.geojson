@@ -25,6 +25,21 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mae"
+    ],
+    "name:fra_x_preferred":[
+        "Mae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4"
+    ],
+    "name:nor_x_preferred":[
+        "Mae"
+    ],
+    "name:por_x_preferred":[
+        "Mae"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1309813547,
-    "wof:lastmodified":1536920442,
+    "wof:lastmodified":1564222730,
     "wof:name":"Mae",
     "wof:parent_id":1108785237,
     "wof:placetype":"locality",

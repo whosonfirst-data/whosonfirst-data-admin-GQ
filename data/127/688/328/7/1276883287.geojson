@@ -25,6 +25,30 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Elon"
+    ],
+    "name:deu_x_preferred":[
+        "Elon"
+    ],
+    "name:fra_x_preferred":[
+        "Elon"
+    ],
+    "name:ita_x_preferred":[
+        "Elon"
+    ],
+    "name:pol_x_preferred":[
+        "Elon"
+    ],
+    "name:por_x_preferred":[
+        "Elom"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Elon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +68,7 @@
         }
     ],
     "wof:id":1276883287,
-    "wof:lastmodified":1537034932,
+    "wof:lastmodified":1564222554,
     "wof:name":"Elon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

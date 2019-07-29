@@ -25,6 +25,33 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nono"
+    ],
+    "name:deu_x_preferred":[
+        "Nono"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Nono"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e0\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Nono"
+    ],
+    "name:por_x_preferred":[
+        "Nono"
+    ],
+    "name:spa_x_preferred":[
+        "Nono"
+    ],
+    "name:swe_x_preferred":[
+        "Nono"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1260197781,
-    "wof:lastmodified":1536827247,
+    "wof:lastmodified":1564222656,
     "wof:name":"Nono",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

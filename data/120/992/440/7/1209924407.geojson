@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cuma"
+    ],
+    "name:ita_x_preferred":[
+        "Cuma"
+    ],
+    "name:srp_x_preferred":[
+        "Cuma"
+    ],
+    "name:swe_x_preferred":[
+        "Cuma"
+    ],
     "name:und_x_variant":[
         "Kuma",
         "Cuma"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209924407,
-    "wof:lastmodified":1537624110,
+    "wof:lastmodified":1564222610,
     "wof:name":"Cuma",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

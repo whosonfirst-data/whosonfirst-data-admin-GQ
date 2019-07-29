@@ -25,6 +25,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alen"
+    ],
+    "name:deu_x_preferred":[
+        "Alen"
+    ],
+    "name:eus_x_preferred":[
+        "Alen"
+    ],
+    "name:nld_x_preferred":[
+        "Alen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327441523,
-    "wof:lastmodified":1536667581,
+    "wof:lastmodified":1564222449,
     "wof:name":"Alen",
     "wof:parent_id":1108785271,
     "wof:placetype":"locality",

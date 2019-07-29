@@ -25,6 +25,15 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sene"
+    ],
+    "name:nds_x_preferred":[
+        "Sene"
+    ],
+    "name:swe_x_preferred":[
+        "Sene"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293310855,
-    "wof:lastmodified":1537039999,
+    "wof:lastmodified":1564222504,
     "wof:name":"Sene",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",

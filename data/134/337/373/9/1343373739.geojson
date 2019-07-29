@@ -25,6 +25,36 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nkimi"
+    ],
+    "name:ceb_x_preferred":[
+        "Nkimi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06a9\u06cc\u0645\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Nkimi"
+    ],
+    "name:pol_x_preferred":[
+        "Nkimi"
+    ],
+    "name:por_x_preferred":[
+        "Nkimi"
+    ],
+    "name:spa_x_preferred":[
+        "Nkimi"
+    ],
+    "name:swe_x_preferred":[
+        "Nkimi"
+    ],
+    "name:tur_x_preferred":[
+        "Nkimi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u57fa\u7c73"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1343373739,
-    "wof:lastmodified":1537563095,
+    "wof:lastmodified":1564222456,
     "wof:name":"Nkimi",
     "wof:parent_id":1108785273,
     "wof:placetype":"locality",

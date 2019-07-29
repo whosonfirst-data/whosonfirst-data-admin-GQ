@@ -25,6 +25,21 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0627\u06a9\u0627\u0646"
+    ],
+    "name:lit_x_preferred":[
+        "Akoakanas"
+    ],
+    "name:por_x_preferred":[
+        "Acoac\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Acoac\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Acoac\u00e1n"
+    ],
     "name:und_x_variant":[
         "Acoacam",
         "Akokam",
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209224821,
-    "wof:lastmodified":1537624126,
+    "wof:lastmodified":1564222606,
     "wof:name":"Acoacan",
     "wof:parent_id":85632287,
     "wof:placetype":"locality",

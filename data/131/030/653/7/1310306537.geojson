@@ -26,6 +26,18 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mabana"
+    ],
+    "name:pol_x_preferred":[
+        "Mabana"
+    ],
+    "name:por_x_preferred":[
+        "Mabana"
+    ],
+    "name:spa_x_preferred":[
+        "Mabana"
+    ],
     "name:und_x_variant":[
         "San Pedro",
         "San Antonio",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310306537,
-    "wof:lastmodified":1537624075,
+    "wof:lastmodified":1564222685,
     "wof:name":"Mabana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

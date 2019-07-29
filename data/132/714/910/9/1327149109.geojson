@@ -25,6 +25,15 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ebo"
+    ],
+    "name:por_x_preferred":[
+        "Ebo"
+    ],
+    "name:swe_x_preferred":[
+        "Ebo"
+    ],
     "name:und_x_variant":[
         "Ebom",
         "Ebo"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327149109,
-    "wof:lastmodified":1537624109,
+    "wof:lastmodified":1564222423,
     "wof:name":"Ebo",
     "wof:parent_id":1108785277,
     "wof:placetype":"locality",

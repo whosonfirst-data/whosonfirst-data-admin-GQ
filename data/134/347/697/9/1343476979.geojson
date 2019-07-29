@@ -26,6 +26,12 @@
     "iso:country":"GQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbola"
+    ],
+    "name:swe_x_preferred":[
+        "Mbola"
+    ],
     "name:und_x_variant":[
         "Bola",
         "Mbola"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343476979,
-    "wof:lastmodified":1537624097,
+    "wof:lastmodified":1564222473,
     "wof:name":"Mbola",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",
