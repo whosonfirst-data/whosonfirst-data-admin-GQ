@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BS"
+    ],
     "lbl:latitude":3.671759,
     "lbl:longitude":8.780854,
     "mps:latitude":3.664898,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85671595,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -289,7 +289,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264147,
+    "wof:lastmodified":1565712991,
     "wof:name":"Bioko Norte",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

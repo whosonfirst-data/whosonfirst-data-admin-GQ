@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":1.355204,
     "lbl:longitude":9.80915,
     "mps:latitude":1.363212,
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85671589,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -288,7 +288,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264147,
+    "wof:lastmodified":1565712991,
     "wof:name":"Litoral",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":1.478043,
     "lbl:longitude":11.037422,
     "mps:latitude":1.351132,
@@ -265,9 +268,6 @@
         }
     ],
     "wof:id":85671591,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -276,7 +276,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264148,
+    "wof:lastmodified":1565712992,
     "wof:name":"Wele-Nz\u00e1s",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

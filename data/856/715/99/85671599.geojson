@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":3.358271,
     "lbl:longitude":8.635268,
     "mps:latitude":3.378896,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85671599,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -289,7 +289,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264149,
+    "wof:lastmodified":1565712993,
     "wof:name":"Bioko Sur",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

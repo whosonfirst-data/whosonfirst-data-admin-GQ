@@ -15,6 +15,9 @@
     "itu:country_code":[
         "240"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GQ"
+    ],
     "lbl:latitude":1.586111,
     "lbl:longitude":10.464682,
     "mps:latitude":1.586111,
@@ -1029,9 +1032,6 @@
         }
     ],
     "wof:id":85632287,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -1040,7 +1040,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264153,
+    "wof:lastmodified":1565712993,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

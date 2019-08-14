@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":1.996305,
     "lbl:longitude":11.06834,
     "mps:latitude":2.00524,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85671583,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -281,7 +281,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264150,
+    "wof:lastmodified":1565712993,
     "wof:name":"Ki\u00e9-Ntem",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":-1.43035,
     "lbl:longitude":5.622429,
     "mps:latitude":-1.440944,
@@ -288,9 +291,6 @@
         }
     ],
     "wof:id":85671563,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "fra"
@@ -299,7 +299,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1563264149,
+    "wof:lastmodified":1565712993,
     "wof:name":"Annob\u00f3n",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
