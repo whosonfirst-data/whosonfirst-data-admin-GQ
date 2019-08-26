@@ -11,10 +11,14 @@
     "geom:longitude":8.9084,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":2365,
+    "gn:population":2365,
     "iso:country":"GQ",
+    "lbl:bbox":"8.8884,3.6792,8.9284,3.7192",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Baney"
     ],
@@ -45,9 +49,6 @@
     "name:tur_x_preferred":[
         "Baney"
     ],
-    "name:unk_x_variant":[
-        "Baney"
-    ],
     "qs:name":"Santiago de Baney",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +63,7 @@
     "wof:concordances":{
         "gn:id":2306722,
         "gp:id":1480564,
-        "qs:id":1034794,
+        "qs_pg:id":1034794,
         "wd:id":"Q962164"
     },
     "wof:country":"GQ",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":890438705,
-    "wof:lastmodified":1563264371,
+    "wof:lastmodified":1566640372,
     "wof:name":"Santiago de Baney",
     "wof:parent_id":85671595,
     "wof:placetype":"locality",

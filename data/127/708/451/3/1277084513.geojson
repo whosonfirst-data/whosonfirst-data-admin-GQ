@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.66614,1.51751,9.70614,1.55751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nondo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277084513,
-    "wof:lastmodified":1564222550,
+    "wof:lastmodified":1566640261,
     "wof:name":"Nondo",
     "wof:parent_id":1108785259,
     "wof:placetype":"locality",

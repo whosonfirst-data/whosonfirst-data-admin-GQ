@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.73,1.83,9.77,1.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bondya\u2019amba",
         "Bompami",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293704961,
-    "wof:lastmodified":1537624112,
+    "wof:lastmodified":1566640240,
     "wof:name":"Bonyaambe",
     "wof:parent_id":1108785235,
     "wof:placetype":"locality",

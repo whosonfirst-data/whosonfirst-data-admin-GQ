@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.75643,1.13486,10.79643,1.17486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ebana"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242989143,
-    "wof:lastmodified":1564222776,
+    "wof:lastmodified":1566640399,
     "wof:name":"Ebana",
     "wof:parent_id":1108785227,
     "wof:placetype":"locality",

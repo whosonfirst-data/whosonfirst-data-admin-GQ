@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"11.23398,2.0276,11.27398,2.0676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makomo",
         "Macomo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310519567,
-    "wof:lastmodified":1537624101,
+    "wof:lastmodified":1566640352,
     "wof:name":"Macomo",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",

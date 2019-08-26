@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"8.78358,3.6743,8.82358,3.7143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u0438\u0439"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1326740441,
-    "wof:lastmodified":1564222415,
+    "wof:lastmodified":1566640173,
     "wof:name":"Basile",
     "wof:parent_id":1108785257,
     "wof:placetype":"locality",

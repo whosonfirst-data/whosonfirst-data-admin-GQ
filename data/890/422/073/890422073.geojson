@@ -11,10 +11,14 @@
     "geom:longitude":8.83333,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":5450,
+    "gn:population":5450,
     "iso:country":"GQ",
+    "lbl:bbox":"8.81333,3.69667,8.85333,3.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0435\u0431\u043e\u043b\u0430"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2306824,
         "gp:id":1480564,
-        "qs:id":139448,
+        "qs_pg:id":139448,
         "wd:id":"Q2720928",
         "wk:page":"Rebola"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890422073,
-    "wof:lastmodified":1563264369,
+    "wof:lastmodified":1566640371,
     "wof:name":"Rebola",
     "wof:parent_id":85671595,
     "wof:placetype":"locality",

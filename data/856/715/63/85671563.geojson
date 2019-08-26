@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.43035,
     "lbl:longitude":5.622429,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-1.440944,
     "mps:longitude":5.632754,
     "mz:hierarchy_label":1,
@@ -165,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0410\u043d\u043e\u0431\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Administraci\u00f3n Territorial de Annob\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -249,9 +250,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2015-07-19",
+    "src:population_date":"2015-07-19",
     "statoids:area_km":"17",
     "statoids:area_mi":"7",
     "statoids:as_of_date":"2015-07-19",
@@ -276,7 +277,7 @@
         "gp:id":20069854,
         "hasc:id":"GQ.AN",
         "iso:id":"GQ-AN",
-        "qs:id":1149769,
+        "qs_pg:id":1149769,
         "unlc:id":"GQ-AN",
         "wd:id":"Q3736616",
         "wk:page":"Annob\u00f3n Province"
@@ -299,11 +300,10 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1565712993,
+    "wof:lastmodified":1566640229,
     "wof:name":"Annob\u00f3n",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":5232,
     "wof:population_rank":5,

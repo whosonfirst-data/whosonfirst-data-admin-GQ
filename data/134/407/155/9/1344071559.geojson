@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.59758,1.15224,9.63758,1.19224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ncol\u00e1mvam",
         "Ncolamvan"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344071559,
-    "wof:lastmodified":1537624085,
+    "wof:lastmodified":1566640204,
     "wof:name":"Ncolamvan",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

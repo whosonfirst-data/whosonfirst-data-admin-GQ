@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.43833,2.05807,10.47833,2.09807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326948627,
-    "wof:lastmodified":1536880483,
+    "wof:lastmodified":1566640175,
     "wof:name":"Ncoabang",
     "wof:parent_id":1108785273,
     "wof:placetype":"locality",

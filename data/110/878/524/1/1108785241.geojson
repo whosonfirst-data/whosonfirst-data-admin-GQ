@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.373355,
     "lbl:longitude":9.665346,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Litoral",
     "meso:gadm_adm2":"Mbini",
     "meso:gadm_alt":"",
@@ -30,6 +32,7 @@
     "mps:longitude":9.665346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Bitika"
     ],
@@ -52,9 +55,9 @@
         "Bitica"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108785241,
-    "wof:lastmodified":1564222671,
+    "wof:lastmodified":1566640332,
     "wof:name":"Bitica",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

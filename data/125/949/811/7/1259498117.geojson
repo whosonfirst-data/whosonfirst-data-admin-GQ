@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.21367,1.37598,10.25367,1.41598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259498117,
-    "wof:lastmodified":1536836665,
+    "wof:lastmodified":1566640415,
     "wof:name":"Aconekien",
     "wof:parent_id":1108785239,
     "wof:placetype":"locality",

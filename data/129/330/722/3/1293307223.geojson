@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"11.11446,1.72264,11.15446,1.76264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Alun"
     ],
@@ -50,8 +54,7 @@
         "Alun"
     ],
     "name:und_x_variant":[
-        "Alen",
-        "Alun"
+        "Alen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1293307223,
-    "wof:lastmodified":1564222505,
+    "wof:lastmodified":1566640231,
     "wof:name":"Alun",
     "wof:parent_id":1108785269,
     "wof:placetype":"locality",

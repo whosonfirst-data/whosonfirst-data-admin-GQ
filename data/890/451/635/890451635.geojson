@@ -11,8 +11,11 @@
     "geom:longitude":8.55465,
     "gn:country":"GQ",
     "gn:fcode":"PPLA",
-    "gn:pop":8655,
+    "gn:population":8655,
     "iso:country":"GQ",
+    "lbl:bbox":"8.53465,3.43683,8.57465,3.47683",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -103,7 +106,7 @@
     "name:tur_x_preferred":[
         "Luba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Carlos"
     ],
     "name:zho_x_preferred":[
@@ -216,7 +219,7 @@
     "wof:concordances":{
         "gn:id":2309528,
         "gp:id":1311424,
-        "qs:id":139429,
+        "qs_pg:id":139429,
         "wd:id":"Q985548",
         "wk:page":"Luba"
     },
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":890451635,
-    "wof:lastmodified":1563264374,
+    "wof:lastmodified":1566640373,
     "wof:name":"Luba",
     "wof:parent_id":85671599,
     "wof:placetype":"locality",

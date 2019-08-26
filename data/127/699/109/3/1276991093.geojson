@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.74416,1.09477,9.78416,1.13477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nsengamvonga",
         "Nsenganvenga",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276991093,
-    "wof:lastmodified":1537624078,
+    "wof:lastmodified":1566640285,
     "wof:name":"Nsengamvoa",
     "wof:parent_id":1108785243,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.5475,1.13906,10.5875,1.17906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngolensok",
         "Ng\u00fcelensoc",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293599127,
-    "wof:lastmodified":1537624080,
+    "wof:lastmodified":1566640244,
     "wof:name":"Nguolensoc",
     "wof:parent_id":1108785227,
     "wof:placetype":"locality",

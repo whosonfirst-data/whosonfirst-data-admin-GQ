@@ -11,10 +11,14 @@
     "geom:longitude":10.61322,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":5813,
+    "gn:population":5813,
     "iso:country":"GQ",
+    "lbl:bbox":"10.59322,2.11609,10.63322,2.15609",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043a\u043e\u043c\u0435\u0441\u0435\u043d\u0433"
     ],
@@ -57,9 +61,6 @@
     "name:tur_x_preferred":[
         "Micomeseng"
     ],
-    "name:unk_x_variant":[
-        "Micomeseng"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u79d1\u6885\u68ee"
     ],
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2307970,
         "gp:id":1311566,
-        "qs:id":139452,
+        "qs_pg:id":139452,
         "wd:id":"Q2720623"
     },
     "wof:country":"GQ",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":890416403,
-    "wof:lastmodified":1563264374,
+    "wof:lastmodified":1566640373,
     "wof:name":"Mikomeseng",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",

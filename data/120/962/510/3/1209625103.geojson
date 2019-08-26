@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"11.29702,2.1188,11.33702,2.1588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nkombe",
         "Ncoambe"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209625103,
-    "wof:lastmodified":1537624086,
+    "wof:lastmodified":1566640289,
     "wof:name":"Ncoambe",
     "wof:parent_id":85632287,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.373547,
     "lbl:longitude":10.583407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Centro Sur",
     "meso:gadm_adm2":"Evinayong",
     "meso:gadm_alt":"",
@@ -30,6 +32,7 @@
     "mps:longitude":10.583407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Evinayong"
     ],
@@ -100,9 +103,9 @@
         "\u57c3\u7dad\u7d0d\u6c38"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1108785253,
-    "wof:lastmodified":1564222668,
+    "wof:lastmodified":1566640330,
     "wof:name":"Evinayong",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

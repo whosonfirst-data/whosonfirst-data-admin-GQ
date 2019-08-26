@@ -11,10 +11,14 @@
     "geom:longitude":9.62316,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":1464,
+    "gn:population":1464,
     "iso:country":"GQ",
+    "lbl:bbox":"9.60316,1.4061,9.64316,1.4461",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bitika"
     ],
@@ -42,9 +46,6 @@
     "name:tur_x_preferred":[
         "Bitica"
     ],
-    "name:unk_x_variant":[
-        "Bitika"
-    ],
     "qs:name":"Bitica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2309744,
         "gp:id":1311135,
-        "qs:id":139456,
+        "qs_pg:id":139456,
         "wd:id":"Q3640495",
         "wk:page":"Bitica"
     },
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":890416409,
-    "wof:lastmodified":1563264373,
+    "wof:lastmodified":1566640373,
     "wof:name":"Bitica",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

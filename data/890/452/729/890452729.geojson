@@ -11,10 +11,14 @@
     "geom:longitude":9.82212,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":1105,
+    "gn:population":1105,
     "iso:country":"GQ",
+    "lbl:bbox":"9.80212,2.31812,9.84212,2.35812",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "R\u00edo Campo"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":2306819,
         "gp:id":1300477,
-        "qs:id":139443,
+        "qs_pg:id":139443,
         "wd:id":"Q15273982",
         "wk:page":"R\u00edo Campo"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890452729,
-    "wof:lastmodified":1563264370,
+    "wof:lastmodified":1566640372,
     "wof:name":"R\u00edo Campo",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

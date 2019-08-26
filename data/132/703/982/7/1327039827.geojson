@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.61502,1.3884,10.65502,1.4284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327039827,
-    "wof:lastmodified":1536749477,
+    "wof:lastmodified":1566640182,
     "wof:name":"Fegayong",
     "wof:parent_id":1108785253,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"8.76209,3.38288,8.76209,3.38288",
     "geom:latitude":3.38288,
     "geom:longitude":8.76209,
-    "gn:gn_country":"GQ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":971,
+    "gn:country":"GQ",
+    "gn:fcode":"PPL",
     "gn:population":971,
     "iso:country":"GQ",
+    "lbl:bbox":"8.74209,3.36288,8.78209,3.40288",
     "lbl:latitude":3.38288,
     "lbl:longitude":8.76209,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Riaba"
@@ -55,9 +58,6 @@
     "name:tur_x_preferred":[
         "Riaba"
     ],
-    "name:unk_x_variant":[
-        "Riaba"
-    ],
     "qs_pg:aaroncc":"GQ",
     "qs_pg:gn_country":"GQ",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:qs_id":91216,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125859989,
-    "wof:lastmodified":1563264376,
+    "wof:lastmodified":1566640374,
     "wof:name":"Ciudad de Riaba",
     "wof:parent_id":1108785281,
     "wof:placetype":"locality",

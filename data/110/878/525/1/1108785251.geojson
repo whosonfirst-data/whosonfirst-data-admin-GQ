@@ -12,6 +12,8 @@
     "iso:country":"GQ",
     "lbl:latitude":0.981028,
     "lbl:longitude":9.506853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Litoral",
     "meso:gadm_adm2":"Cogo",
     "meso:gadm_alt":"Kogo",
@@ -24,6 +26,7 @@
     "mps:longitude":9.506853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Elobey Grande"
     ],
@@ -70,7 +73,7 @@
         "\u5927\u57c3\u6d1b\u8d1d\u5c9b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632287
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108785251,
-    "wof:lastmodified":1564222667,
+    "wof:lastmodified":1566640330,
     "wof:name":"Elobey Grande",
     "wof:parent_id":-1,
     "wof:placetype":"county",
