@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.20283,1.4659,10.24283,1.5059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Manseng"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310023905,
-    "wof:lastmodified":1564222701,
+    "wof:lastmodified":1566640349,
     "wof:name":"Manseng",
     "wof:parent_id":1108785239,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"GQ",
     "lbl:latitude":1.180956,
     "lbl:longitude":9.876446,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Litoral",
     "meso:gadm_adm2":"Cogo",
     "meso:gadm_alt":"Kogo",
@@ -24,6 +26,7 @@
     "mps:longitude":9.876446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cogo"
     ],
@@ -40,7 +43,7 @@
         "Cogo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632287,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108785243,
-    "wof:lastmodified":1564222672,
+    "wof:lastmodified":1566640332,
     "wof:name":"Cogo",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

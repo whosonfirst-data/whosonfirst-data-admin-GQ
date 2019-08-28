@@ -11,10 +11,14 @@
     "geom:longitude":9.95133,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":2897,
+    "gn:population":2897,
     "iso:country":"GQ",
+    "lbl:bbox":"9.93133,1.86262,9.97133,1.90262",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Machinda"
     ],
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2308626,
         "gp:id":1311582,
-        "qs:id":139455,
+        "qs_pg:id":139455,
         "wd:id":"Q924793",
         "wk:page":"Machinda"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890416407,
-    "wof:lastmodified":1563264373,
+    "wof:lastmodified":1566640373,
     "wof:name":"Machinda",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

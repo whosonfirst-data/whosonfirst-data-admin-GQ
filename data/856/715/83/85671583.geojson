@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":1.996305,
     "lbl:longitude":11.06834,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.00524,
     "mps:longitude":11.099446,
     "mz:hierarchy_label":1,
@@ -147,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435-\u041d\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Ki\u00e9-Ntem"
     ],
     "name:urd_x_preferred":[
@@ -231,9 +232,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2015-07-19",
+    "src:population_date":"2015-07-19",
     "statoids:area_km":"3,943",
     "statoids:area_mi":"1,522",
     "statoids:as_of_date":"2015-07-19",
@@ -258,7 +259,7 @@
         "gp:id":20069851,
         "hasc:id":"GQ.KN",
         "iso:id":"GQ-KN",
-        "qs:id":955192,
+        "qs_pg:id":955192,
         "unlc:id":"GQ-KN",
         "wd:id":"Q853393",
         "wk:page":"Ki\u00e9-Ntem Province"
@@ -281,11 +282,10 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1565712993,
+    "wof:lastmodified":1566640229,
     "wof:name":"Ki\u00e9-Ntem",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":183331,
     "wof:population_rank":9,

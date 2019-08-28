@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.657573,
     "lbl:longitude":8.880642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Bioko Norte",
     "meso:gadm_adm2":"Baney",
     "meso:gadm_alt":"",
@@ -30,6 +32,7 @@
     "mps:longitude":8.880642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Baney"
     ],
@@ -52,9 +55,9 @@
         "Baney"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-01-01",
+    "src:population_date":"2001-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2001-01-01",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108785233,
-    "wof:lastmodified":1564222670,
+    "wof:lastmodified":1566640331,
     "wof:name":"Baney",
     "wof:parent_id":85671595,
     "wof:placetype":"county",

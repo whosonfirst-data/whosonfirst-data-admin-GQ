@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.08788,1.73179,10.12788,1.77179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632287
@@ -34,7 +38,7 @@
         "gn:id":2307589
     },
     "wof:country":"GQ",
-    "wof:geomhash":"107257b43fbb7f0d2c0c09927ba828fb",
+    "wof:geomhash":"2be5293c67c42d17fa5181c078734f0b",
     "wof:hierarchy":[
         {
             "country_id":85632287,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209625321,
-    "wof:lastmodified":1536281374,
+    "wof:lastmodified":1566640289,
     "wof:name":"Ncoaeben",
     "wof:parent_id":85632287,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     10.10788,
-    1.7517900000000002,
+    1.75179,
     10.10788,
-    1.7517900000000002
+    1.75179
 ],
   "geometry": {"coordinates":[10.10788,1.75179],"type":"Point"}
 }

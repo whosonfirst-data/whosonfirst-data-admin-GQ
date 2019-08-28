@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.35174,1.16678,9.39174,1.20678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Darul Baidha'"
     ],
@@ -354,7 +358,7 @@
         }
     ],
     "wof:id":1209525285,
-    "wof:lastmodified":1564222598,
+    "wof:lastmodified":1566640294,
     "wof:name":"Casablanca",
     "wof:parent_id":85632287,
     "wof:placetype":"locality",

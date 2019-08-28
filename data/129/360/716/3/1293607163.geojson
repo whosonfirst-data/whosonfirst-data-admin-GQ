@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.48696,0.96603,9.52696,1.00603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bevova",
         "Boboba"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293607163,
-    "wof:lastmodified":1537624113,
+    "wof:lastmodified":1566640251,
     "wof:name":"Boboba",
     "wof:parent_id":1108785251,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.98302,1.87972,10.02302,1.91972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nlonsok",
         "Nlosoc"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344271705,
-    "wof:lastmodified":1537624079,
+    "wof:lastmodified":1566640222,
     "wof:name":"Nlosoc",
     "wof:parent_id":1108785261,
     "wof:placetype":"locality",

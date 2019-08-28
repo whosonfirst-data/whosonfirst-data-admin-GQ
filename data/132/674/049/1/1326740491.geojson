@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.28504,0.89795,9.32504,0.93795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bebudu",
         "Beduba",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1326740491,
-    "wof:lastmodified":1537624116,
+    "wof:lastmodified":1566640171,
     "wof:name":"Bedubu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

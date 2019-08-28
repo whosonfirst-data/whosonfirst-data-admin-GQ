@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"11.27195,2.01081,11.31195,2.05081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Wesend"
     ],
@@ -273,7 +277,7 @@
         }
     ],
     "wof:id":1343868107,
-    "wof:lastmodified":1564222503,
+    "wof:lastmodified":1566640227,
     "wof:name":"Bison",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",

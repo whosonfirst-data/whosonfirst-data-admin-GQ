@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"9.28546,0.89376,9.32546,0.93376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mangane",
         "Magane"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242888675,
-    "wof:lastmodified":1537624100,
+    "wof:lastmodified":1566640383,
     "wof:name":"Magane",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

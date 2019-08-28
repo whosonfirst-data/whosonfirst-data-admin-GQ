@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"5.6318,-1.45443,5.6718,-1.41443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -122,8 +126,7 @@
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Ensenada",
-        "San Pedro"
+        "Ensenada"
     ],
     "name:war_x_preferred":[
         "San Pedro"
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1243469203,
-    "wof:lastmodified":1564222764,
+    "wof:lastmodified":1566640390,
     "wof:name":"San Pedro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

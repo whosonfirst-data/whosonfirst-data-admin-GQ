@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Malabo",
     "iso:country":"GQ",
+    "lbl:bbox":"10.59488,1.71891,10.63488,1.75891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Evinayong"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1260303887,
-    "wof:lastmodified":1564222650,
+    "wof:lastmodified":1566640323,
     "wof:name":"Evinayong",
     "wof:parent_id":1108785237,
     "wof:placetype":"locality",

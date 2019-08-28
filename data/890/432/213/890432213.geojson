@@ -11,10 +11,14 @@
     "geom:longitude":10.64882,
     "gn:country":"GQ",
     "gn:fcode":"PPL",
-    "gn:pop":2736,
+    "gn:population":2736,
     "iso:country":"GQ",
+    "lbl:bbox":"10.62882,1.01225,10.66882,1.05225",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Akurenam"
     ],
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0443\u0440\u0435\u043d\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akurnam"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2310533,
         "gp:id":1480073,
-        "qs:id":278396,
+        "qs_pg:id":278396,
         "wd:id":"Q2249718",
         "wk:page":"Acurenam"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890432213,
-    "wof:lastmodified":1563264376,
+    "wof:lastmodified":1566640373,
     "wof:name":"Acurenam",
     "wof:parent_id":85671565,
     "wof:placetype":"locality",

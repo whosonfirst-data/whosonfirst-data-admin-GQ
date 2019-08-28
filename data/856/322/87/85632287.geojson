@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":1.586111,
     "lbl:longitude":10.464682,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":1.586111,
     "mps:longitude":10.464682,
     "mz:hierarchy_label":1,
@@ -799,17 +801,8 @@
         "Paeivaentasaajan Guinea",
         "Paivantasaajan Guinea"
     ],
-    "name:und_x_preferred":[
-        "Ekvatorialna Gvineja",
-        "Mi\u00f0baugs-G\u00ednea"
-    ],
     "name:und_x_variant":[
-        "Ekvatorial-Guinea",
-        "P\u00e4iv\u00e4ntasaajan Guinea",
         "Republika Ekvatorialna Gvineja",
-        "\u00c6kvatorialguinea"
-    ],
-    "name:unk_x_variant":[
         "Guinee Espagnol"
     ],
     "name:urd_x_preferred":[
@@ -971,7 +964,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"240",
     "statoids:ds":"EQ",
@@ -1016,7 +1009,7 @@
         "mzb:id":"equatorial-guinea",
         "ne:adm0_a3":"GNQ",
         "nyt:id":"N68363408440019571561",
-        "qs:id":91214,
+        "qs_pg:id":91214,
         "uncrt:id":"EQ",
         "wd:id":"Q983",
         "wk:page":"Equatorial Guinea",
@@ -1040,7 +1033,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1565712993,
+    "wof:lastmodified":1566640230,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
