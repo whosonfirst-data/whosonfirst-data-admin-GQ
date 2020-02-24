@@ -563,6 +563,9 @@
     },
     "wof:country":"GQ",
     "wof:created":1459009178,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"090e79d8d99d6f3b490df7b0c3af456d",
     "wof:hierarchy":[
         {
@@ -573,7 +576,7 @@
         }
     ],
     "wof:id":421178347,
-    "wof:lastmodified":1566640371,
+    "wof:lastmodified":1582359966,
     "wof:name":"Malabo",
     "wof:parent_id":85671595,
     "wof:placetype":"locality",

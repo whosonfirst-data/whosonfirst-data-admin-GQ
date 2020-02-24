@@ -257,6 +257,9 @@
         "wk:page":"Wele-Nzas Province"
     },
     "wof:country":"GQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cba9ab5e22e164d7b926575c579266c",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640228,
+    "wof:lastmodified":1582359963,
     "wof:name":"Wele-Nz\u00e1s",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

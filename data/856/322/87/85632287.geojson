@@ -1017,6 +1017,11 @@
     },
     "wof:country":"GQ",
     "wof:country_alpha3":"GNQ",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"38a3c81d53a41ca31bc1d6f3aaa60c04",
     "wof:hierarchy":[
         {
@@ -1033,7 +1038,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640230,
+    "wof:lastmodified":1582359963,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

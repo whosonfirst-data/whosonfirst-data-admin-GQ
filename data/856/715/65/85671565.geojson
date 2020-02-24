@@ -274,6 +274,9 @@
         "wk:page":"Centro Sur Province"
     },
     "wof:country":"GQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7ed071cac5d9048d54976c4077135553",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640229,
+    "wof:lastmodified":1582359963,
     "wof:name":"Centro Sur",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

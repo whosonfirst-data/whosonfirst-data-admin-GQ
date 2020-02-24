@@ -272,6 +272,9 @@
         "wk:page":"Litoral Province (Equatorial Guinea)"
     },
     "wof:country":"GQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5a8ce6de82aae656e93a48c6a44b138",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640228,
+    "wof:lastmodified":1582359963,
     "wof:name":"Litoral",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
