@@ -273,6 +273,9 @@
         "wk:page":"Bioko Norte Province"
     },
     "wof:country":"GQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f6d26b45f8f5aae1a4eb96155585ae3",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640228,
+    "wof:lastmodified":1582359963,
     "wof:name":"Bioko Norte",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

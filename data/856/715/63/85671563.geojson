@@ -283,6 +283,9 @@
         "wk:page":"Annob\u00f3n Province"
     },
     "wof:country":"GQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a01086467825844b1009d79d57a37f6",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640229,
+    "wof:lastmodified":1582359963,
     "wof:name":"Annob\u00f3n",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

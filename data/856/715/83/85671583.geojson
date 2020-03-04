@@ -265,6 +265,9 @@
         "wk:page":"Ki\u00e9-Ntem Province"
     },
     "wof:country":"GQ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cc5189a7a2c701a89b78ce0631c7873",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1566640229,
+    "wof:lastmodified":1582359963,
     "wof:name":"Ki\u00e9-Ntem",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
