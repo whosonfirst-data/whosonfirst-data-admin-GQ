@@ -993,9 +993,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Equatorial_Guinea",
-        "digitalenvoy:country_code":[
-            226
-        ],
+        "digitalenvoy:country_code":226,
         "fb:id":"en.equatorial_guinea",
         "fifa:id":"EQG",
         "fips:code":"EK",
@@ -1041,7 +1039,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1583529137,
+    "wof:lastmodified":1583797342,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
