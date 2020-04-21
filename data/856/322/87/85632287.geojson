@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.189215,
-    "geom:area_square_m":27056599863.692177,
+    "geom:area_square_m":27056599686.126701,
     "geom:bbox":"5.602111,-1.461278,11.3333,3.787055",
     "geom:latitude":1.704284,
     "geom:longitude":10.332114,
@@ -49,6 +49,9 @@
     "name:arg_x_preferred":[
         "Guinea Equatorial"
     ],
+    "name:ary_x_preferred":[
+        "\u063a\u064a\u0646\u064a\u0627 \u0633\u062a\u064a\u0648\u0627\u0626\u064a\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0647"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:bam_x_variant":[
         "Gine ekwat\u0254ri"
+    ],
+    "name:ban_x_preferred":[
+        "Guinea Ekuatorial"
     ],
     "name:bar_x_preferred":[
         "Equatorialguinea"
@@ -196,6 +202,12 @@
     "name:ell_x_preferred":[
         "\u0399\u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1"
     ],
+    "name:eng_ca_x_preferred":[
+        "Equatorial Guinea"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Equatorial Guinea"
+    ],
     "name:eng_x_preferred":[
         "Equatorial Guinea"
     ],
@@ -274,6 +286,9 @@
     ],
     "name:gag_x_preferred":[
         "Ekvatorial Gvineya"
+    ],
+    "name:gcr_x_preferred":[
+        "Gin\u00e9 \u00e9kwatoryal"
     ],
     "name:gla_x_preferred":[
         "Gini Mheadhan-Chriosach"
@@ -524,6 +539,9 @@
     "name:mlt_x_variant":[
         "Gwinea Ekwatorjali"
     ],
+    "name:mon_x_preferred":[
+        "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u044b\u043d \u0413\u0432\u0438\u043d\u0435\u0439"
+    ],
     "name:mri_x_preferred":[
         "Kini Ekuatoria"
     ],
@@ -629,6 +647,9 @@
     "name:pol_x_preferred":[
         "Gwinea R\u00f3wnikowa"
     ],
+    "name:por_br_x_preferred":[
+        "Guin\u00e9 Equatorial"
+    ],
     "name:por_x_colloquial":[
         "Guine Equatorial"
     ],
@@ -720,6 +741,12 @@
     "name:srd_x_preferred":[
         "Guinea Ecuadoriale"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430\u043b\u043d\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Ekvatorijalna Gvineja"
+    ],
     "name:srp_x_preferred":[
         "\u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430\u043b\u043d\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430"
     ],
@@ -740,6 +767,9 @@
     ],
     "name:szl_x_preferred":[
         "R\u016fw\u0144ikowo Gwinyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Equatorial guinea"
     ],
     "name:tam_x_preferred":[
         "\u0b8e\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bbf\u0ba9\u0bbf"
@@ -869,8 +899,23 @@
     "name:zha_x_preferred":[
         "Cwdau Guinea"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8d64\u9053\u51e0\u5185\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8d64\u9053\u5e7e\u5167\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Chhiah-t\u014d Guinea"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u8d64\u9053\u5e7e\u5167\u4e9e"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u8d64\u9053\u51e0\u5185\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8d64\u9053\u5e7e\u5167\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u8d64\u9053\u51e0\u5185\u4e9a"
@@ -1039,7 +1084,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1583797342,
+    "wof:lastmodified":1587427343,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
