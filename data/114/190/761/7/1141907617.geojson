@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.41858760442,1.11640342092,9.41858760442,1.11640342092",
+    "geom:bbox":"9.418588,1.116403,9.418588,1.116403",
     "geom:latitude":1.116403,
     "geom:longitude":9.418588,
     "iso:country":"GQ",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u0627\u062a\u0631\u0627\u0641\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b2\u09be\u09a4\u09cd\u09b0\u09be\u09ad\u09be"
+    ],
     "name:cat_x_preferred":[
         "Calatrava"
     ],
@@ -30,10 +33,31 @@
     "name:deu_x_preferred":[
         "Calatrava"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03c4\u03c1\u03ac\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Calatrava"
+    ],
     "name:epo_x_preferred":[
         "Calatrava"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u0627\u062a\u0631\u0627\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Calatrava"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d8\u05e8\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0932\u093e\u0924\u094d\u0930\u093e\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Calatrava"
+    ],
+    "name:ind_x_preferred":[
         "Calatrava"
     ],
     "name:ita_x_preferred":[
@@ -45,7 +69,16 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0442\u0440\u0430\u0432\u0430"
     ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub77c\ud2b8\ub77c\ubc14"
+    ],
     "name:nld_x_preferred":[
+        "Calatrava"
+    ],
+    "name:pol_x_preferred":[
+        "Calatrava"
+    ],
+    "name:por_x_preferred":[
         "Calatrava"
     ],
     "name:rus_x_preferred":[
@@ -54,11 +87,30 @@
     "name:spa_x_preferred":[
         "Calatrava"
     ],
+    "name:spa_x_variant":[],
+    "name:swe_x_preferred":[
+        "Calatrava"
+    ],
+    "name:tur_x_preferred":[
+        "Calatrava"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0442\u0440\u0430\u0432\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0644\u0627\u0679\u0631\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Calatrava"
+    ],
     "name:war_x_preferred":[
         "Calatrava"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u62c9\u7279\u62c9\u74e6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u62c9\u7279\u62c9\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Equatorial Guinea",
@@ -165,7 +217,7 @@
     "wof:concordances":{},
     "wof:country":"GQ",
     "wof:created":1499130749,
-    "wof:geomhash":"0a6bd6fe65126aa02197332957e23baa",
+    "wof:geomhash":"1a44c485e2ca6515fbb6c73939ad7a00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -175,7 +227,7 @@
         }
     ],
     "wof:id":1141907617,
-    "wof:lastmodified":1566640451,
+    "wof:lastmodified":1636503078,
     "wof:name":"Calatrava",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",
@@ -185,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.41858760441727,
-    1.11640342091937,
-    9.41858760441727,
-    1.11640342091937
+    9.418588,
+    1.116403,
+    9.418588,
+    1.116403
 ],
-  "geometry": {"coordinates":[9.41858760441727,1.11640342091937],"type":"Point"}
+  "geometry": {"coordinates":[9.418588,1.116403],"type":"Point"}
 }

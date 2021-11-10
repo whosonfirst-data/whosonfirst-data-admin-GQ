@@ -50,6 +50,9 @@
     "name:frr_x_preferred":[
         "Evinayong"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d9\u05e0\u05d9\u05d5\u05e0\u05d2"
+    ],
     "name:hun_x_preferred":[
         "Evinayong"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1260303887,
-    "wof:lastmodified":1566640323,
+    "wof:lastmodified":1636503071,
     "wof:name":"Evinayong",
     "wof:parent_id":1108785237,
     "wof:placetype":"locality",

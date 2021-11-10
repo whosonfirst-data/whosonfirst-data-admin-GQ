@@ -51,7 +51,16 @@
         "M\u00e9ta"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d4 \u05d0\u05d9\u05e0\u05e7\u05d5\u05d2\u05e0\u05d9\u05d8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d8\u05d0"
+    ],
+    "name:hun_x_preferred":[
+        "Meta"
+    ],
+    "name:ind_x_preferred":[
+        "Meta"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e2\u10d0..."
@@ -80,6 +89,12 @@
     "name:und_x_variant":[
         "Mata"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Meta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1293501889,
-    "wof:lastmodified":1566640246,
+    "wof:lastmodified":1636503069,
     "wof:name":"Meta",
     "wof:parent_id":1108785253,
     "wof:placetype":"locality",

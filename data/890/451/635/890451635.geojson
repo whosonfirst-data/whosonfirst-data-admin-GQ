@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0644\u0648\u0628\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09ac\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0431\u0430"
     ],
@@ -40,11 +43,17 @@
     "name:deu_x_preferred":[
         "Luba"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Luba"
     ],
     "name:eus_x_preferred":[
         "Luba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0627"
     ],
     "name:fin_x_preferred":[
         "Luba"
@@ -55,10 +64,19 @@
     "name:frr_x_preferred":[
         "Luba"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0942\u092c\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Luba"
     ],
     "name:hun_x_preferred":[
+        "Luba"
+    ],
+    "name:ind_x_preferred":[
         "Luba"
     ],
     "name:ita_x_preferred":[
@@ -108,6 +126,9 @@
     ],
     "name:und_x_variant":[
         "San Carlos"
+    ],
+    "name:vie_x_preferred":[
+        "Luba"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5df4"
@@ -235,7 +256,7 @@
         }
     ],
     "wof:id":890451635,
-    "wof:lastmodified":1566640373,
+    "wof:lastmodified":1636503074,
     "wof:name":"Luba",
     "wof:parent_id":85671599,
     "wof:placetype":"locality",

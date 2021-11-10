@@ -35,6 +35,9 @@
     "name:bak_x_preferred":[
         "\u041e\u0435\u043c"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09c7\u09ae"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0439\u0435\u043c"
     ],
@@ -47,14 +50,23 @@
     "name:deu_x_preferred":[
         "Oyem"
     ],
+    "name:ell_x_preferred":[
+        "\u038c\u03b3\u03b9\u03b5\u03bc"
+    ],
     "name:est_x_preferred":[
         "Oyem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u0645"
     ],
     "name:fra_x_preferred":[
         "Oyem"
     ],
     "name:frr_x_preferred":[
         "Oyem"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u092f\u0947\u092e"
     ],
     "name:hrv_x_preferred":[
         "Oyem"
@@ -104,6 +116,9 @@
     "name:ukr_x_preferred":[
         "\u041e\u0454\u043c"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06cc\u0645"
+    ],
     "name:war_x_preferred":[
         "Oyem"
     ],
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":1226057609,
-    "wof:lastmodified":1566640432,
+    "wof:lastmodified":1636503077,
     "wof:name":"Oyem",
     "wof:parent_id":1108785247,
     "wof:placetype":"locality",
