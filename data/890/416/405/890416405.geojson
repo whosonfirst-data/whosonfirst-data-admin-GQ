@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u064a\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0628\u064a\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Mbini"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09cd\u09ac\u09bf\u09a8\u09bf"
     ],
@@ -29,6 +35,12 @@
         "Mbini"
     ],
     "name:ceb_x_preferred":[
+        "Mbini"
+    ],
+    "name:cym_x_preferred":[
+        "Mbini"
+    ],
+    "name:deu_x_preferred":[
         "Mbini"
     ],
     "name:ell_x_preferred":[
@@ -100,6 +112,9 @@
     "name:zho_x_preferred":[
         "\u59c6\u6bd4\u5c3c"
     ],
+    "name:zul_x_preferred":[
+        "Mbini"
+    ],
     "qs:name":"Mbini",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":890416405,
-    "wof:lastmodified":1636503074,
+    "wof:lastmodified":1690924049,
     "wof:name":"Mbini",
     "wof:parent_id":85671589,
     "wof:placetype":"locality",

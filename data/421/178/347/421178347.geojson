@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0628\u0648"
     ],
+    "name:arg_x_preferred":[
+        "Malabo"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u0628\u0648"
+    ],
     "name:ast_x_preferred":[
         "Malabo"
     ],
+    "name:avk_x_preferred":[
+        "Malabo"
+    ],
     "name:aze_x_preferred":[
+        "Malabo"
+    ],
+    "name:ban_x_preferred":[
         "Malabo"
     ],
     "name:bcl_x_preferred":[
@@ -46,6 +58,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09be\u09ac\u09c1"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u09b2\u09be\u09ac\u09cb"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f63\u0f0b\u0f56\u0f7c\u0f0d"
@@ -140,6 +155,9 @@
     "name:hat_x_preferred":[
         "Malabo"
     ],
+    "name:hau_x_preferred":[
+        "Malabo"
+    ],
     "name:hbs_x_preferred":[
         "Malabo"
     ],
@@ -167,6 +185,12 @@
     "name:ido_x_preferred":[
         "Malabo"
     ],
+    "name:ile_x_preferred":[
+        "Malabo"
+    ],
+    "name:ina_x_preferred":[
+        "Malabo"
+    ],
     "name:ind_x_preferred":[
         "Malabo"
     ],
@@ -190,6 +214,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10da\u10d0\u10d1\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0431\u043e"
     ],
     "name:kbp_x_preferred":[
         "Malebo"
@@ -215,6 +242,9 @@
     "name:lfn_x_preferred":[
         "Malabo"
     ],
+    "name:lij_x_preferred":[
+        "Malabo"
+    ],
     "name:lin_x_preferred":[
         "Malabo"
     ],
@@ -236,6 +266,9 @@
     "name:mar_x_preferred":[
         "\u092e\u0932\u093e\u092c\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0431\u043e"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0431\u043e"
     ],
@@ -256,6 +289,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1019\u102c\u101c\u102c\u1018\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u0628\u0648"
     ],
     "name:nah_x_preferred":[
         "Malabo"
@@ -281,6 +317,12 @@
     "name:oci_x_preferred":[
         "Malabo"
     ],
+    "name:olo_x_preferred":[
+        "Malabo"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0431\u043e"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a32\u0a3e\u0a2c\u0a4b"
     ],
@@ -298,6 +340,9 @@
     ],
     "name:pus_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0628\u0648"
+    ],
+    "name:que_x_preferred":[
+        "Malabu"
     ],
     "name:roh_x_preferred":[
         "Malabo"
@@ -323,6 +368,9 @@
     "name:slv_x_preferred":[
         "Malabo"
     ],
+    "name:smn_x_preferred":[
+        "Malabo"
+    ],
     "name:sna_x_preferred":[
         "Malabo"
     ],
@@ -337,6 +385,9 @@
         "Santa Isabel"
     ],
     "name:sqi_x_preferred":[
+        "Malabo"
+    ],
+    "name:srd_x_preferred":[
         "Malabo"
     ],
     "name:srp_x_preferred":[
@@ -425,6 +476,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u62c9\u535a"
+    ],
+    "name:zul_x_preferred":[
+        "Malabo"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Equatorial Guinea",
@@ -578,7 +632,7 @@
         }
     ],
     "wof:id":421178347,
-    "wof:lastmodified":1607390880,
+    "wof:lastmodified":1690924043,
     "wof:name":"Malabo",
     "wof:parent_id":85671595,
     "wof:placetype":"locality",

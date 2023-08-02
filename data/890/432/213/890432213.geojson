@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Acurenam"
     ],
+    "name:deu_x_preferred":[
+        "Acurenam"
+    ],
     "name:eng_x_preferred":[
         "Acurenam"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ita_x_preferred":[
         "Acurenam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30ec\u30ca\u30e0"
     ],
     "name:nld_x_preferred":[
         "Acurenam"
@@ -63,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5eab\u52d2\u5357"
+    ],
+    "name:zul_x_preferred":[
+        "Acurenam"
     ],
     "qs:name":"Acurenam",
     "qs:photos_9r":0,
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890432213,
-    "wof:lastmodified":1566640373,
+    "wof:lastmodified":1690924051,
     "wof:name":"Acurenam",
     "wof:parent_id":85671565,
     "wof:placetype":"locality",

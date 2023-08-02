@@ -112,6 +112,9 @@
     "name:und_x_variant":[
         "San Antonio"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967-\u5fb7\u5e15\u840a"
+    ],
     "qs:gn_country":"GQ",
     "qs:gn_fcode":"PPLA",
     "qs:gn_id":2306774,
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421168079,
-    "wof:lastmodified":1566640370,
+    "wof:lastmodified":1690924041,
     "wof:name":"Pal\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

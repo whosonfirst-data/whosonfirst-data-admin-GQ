@@ -19,10 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Nsang"
+    ],
     "name:cat_x_preferred":[
         "Nsang"
     ],
     "name:ceb_x_preferred":[
+        "Nsang"
+    ],
+    "name:deu_x_preferred":[
         "Nsang"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +40,16 @@
     "name:ita_x_preferred":[
         "Nsang"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30b5\u30f3\u30b0"
+    ],
     "name:nld_x_preferred":[
         "Nsang"
     ],
     "name:pol_x_preferred":[
+        "Nsang"
+    ],
+    "name:por_x_preferred":[
         "Nsang"
     ],
     "name:spa_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Ensang"
+    ],
+    "name:zul_x_preferred":[
+        "Nsang"
     ],
     "qs:name":"Nsang",
     "qs:photos_9r":0,
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":890416399,
-    "wof:lastmodified":1566640372,
+    "wof:lastmodified":1690924046,
     "wof:name":"Nsang",
     "wof:parent_id":85671583,
     "wof:placetype":"locality",

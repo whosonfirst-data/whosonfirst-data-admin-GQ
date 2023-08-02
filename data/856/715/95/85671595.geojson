@@ -47,6 +47,9 @@
     "name:cat_x_preferred":[
         "Bioko Nord"
     ],
+    "name:cym_x_preferred":[
+        "Bioko Norte"
+    ],
     "name:dan_x_preferred":[
         "Bioko Norte Province"
     ],
@@ -66,6 +69,9 @@
     "name:eus_x_preferred":[
         "Iparraldeko Bioko"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u06a9\u0648 \u0646\u0648\u0631\u062a"
+    ],
     "name:fin_x_preferred":[
         "Bioko Norten provinssi"
     ],
@@ -73,6 +79,9 @@
         "Bioko-Norte"
     ],
     "name:frr_x_preferred":[
+        "Bioko Norte"
+    ],
+    "name:glg_x_preferred":[
         "Bioko Norte"
     ],
     "name:guj_x_preferred":[
@@ -104,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\ube44\uc624\ucf54 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ube44\uc624\ucf54\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cbioko province"
@@ -144,6 +156,9 @@
     "name:spa_x_preferred":[
         "Bioko Norte"
     ],
+    "name:swa_x_preferred":[
+        "Bioko Norte"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0baf\u0bcb\u0b95\u0bcb \u0ba8\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
@@ -170,6 +185,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u6bd4\u5965\u79d1\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Bioko Norte"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GNQ",
@@ -296,7 +314,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1636503067,
+    "wof:lastmodified":1690924035,
     "wof:name":"Bioko Norte",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
