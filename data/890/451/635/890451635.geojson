@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0644\u0648\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Luba"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09ac\u09be"
     ],
@@ -62,6 +68,9 @@
         "Luba"
     ],
     "name:frr_x_preferred":[
+        "Luba"
+    ],
+    "name:glg_x_preferred":[
         "Luba"
     ],
     "name:heb_x_preferred":[
@@ -124,14 +133,26 @@
     "name:tur_x_preferred":[
         "Luba"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "San Carlos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0628\u0627"
     ],
     "name:vie_x_preferred":[
         "Luba"
     ],
+    "name:war_x_preferred":[
+        "Luba"
+    ],
     "name:zho_x_preferred":[
         "\u76e7\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "Luba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Equatorial Guinea",
@@ -256,7 +277,7 @@
         }
     ],
     "wof:id":890451635,
-    "wof:lastmodified":1636503074,
+    "wof:lastmodified":1690924050,
     "wof:name":"Luba",
     "wof:parent_id":85671599,
     "wof:placetype":"locality",

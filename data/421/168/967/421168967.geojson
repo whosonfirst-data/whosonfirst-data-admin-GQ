@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u0648\u0645\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0646\u062c\u0648\u0645\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Mongomo"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u0999\u09cd\u0997\u09cb\u09ae\u09cb"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:eus_x_preferred":[
         "Mongomo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u0648\u0645\u0648"
     ],
     "name:fin_x_preferred":[
         "Mongomo"
@@ -149,11 +158,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u062c\u0648\u0645\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0646\u06af\u0648\u0645\u0648"
+    ],
     "name:vie_x_preferred":[
         "Mongomo"
     ],
     "name:zho_x_preferred":[
         "\u8499\u6208\u83ab"
+    ],
+    "name:zul_x_preferred":[
+        "Mongomo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Equatorial Guinea",
@@ -295,7 +310,7 @@
         }
     ],
     "wof:id":421168967,
-    "wof:lastmodified":1636503074,
+    "wof:lastmodified":1690924041,
     "wof:name":"Mongomo",
     "wof:parent_id":85671591,
     "wof:placetype":"locality",

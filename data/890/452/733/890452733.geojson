@@ -28,19 +28,34 @@
     "name:ceb_x_preferred":[
         "Ayene"
     ],
+    "name:deu_x_preferred":[
+        "Ayene"
+    ],
     "name:eng_x_preferred":[
         "Ayene"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u0646\u0647"
     ],
     "name:fra_x_preferred":[
         "Ayene"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05e0\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Ayene"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30a7\u30cd"
     ],
     "name:nld_x_preferred":[
         "Ayene"
     ],
     "name:pol_x_preferred":[
+        "Ayene"
+    ],
+    "name:por_x_preferred":[
         "Ayene"
     ],
     "name:spa_x_preferred":[
@@ -54,6 +69,9 @@
     ],
     "name:und_x_variant":[
         "Ayene-Enduguensan"
+    ],
+    "name:zul_x_preferred":[
+        "Ayene"
     ],
     "qs:name":"Ayene",
     "qs:photos_9r":0,
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":890452733,
-    "wof:lastmodified":1566640372,
+    "wof:lastmodified":1690924045,
     "wof:name":"Ayene",
     "wof:parent_id":85671591,
     "wof:placetype":"locality",

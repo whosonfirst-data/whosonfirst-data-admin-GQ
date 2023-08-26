@@ -19,17 +19,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "A\u00f1isok"
+    ],
+    "name:aze_x_preferred":[
+        "Anisok"
+    ],
     "name:cat_x_preferred":[
         "A\u00f1isok"
     ],
     "name:ceb_x_preferred":[
         "A\u00f1isoc"
     ],
+    "name:cym_x_preferred":[
+        "A\u00f1isok"
+    ],
+    "name:deu_x_preferred":[
+        "A\u00f1isoc"
+    ],
     "name:eng_x_preferred":[
         "A\u00f1isoc"
     ],
+    "name:eng_x_variant":[
+        "A\u00f1isok"
+    ],
     "name:eus_x_preferred":[
         "A\u00f1isoc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u06cc\u0633\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
         "A\u00f1isoc"
@@ -55,6 +73,9 @@
     "name:spa_x_preferred":[
         "A\u00f1isoc"
     ],
+    "name:spa_x_variant":[
+        "A\u00f1isok"
+    ],
     "name:swe_x_preferred":[
         "A\u00f1isoc"
     ],
@@ -63,6 +84,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c3c\u7d22\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00f1isoc"
     ],
     "qs:name":"A\u00f1isoc",
     "qs:photos_9r":0,
@@ -97,7 +121,7 @@
         }
     ],
     "wof:id":890432211,
-    "wof:lastmodified":1566640373,
+    "wof:lastmodified":1690924050,
     "wof:name":"A\u00f1isoc",
     "wof:parent_id":85671591,
     "wof:placetype":"locality",

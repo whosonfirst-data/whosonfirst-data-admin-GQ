@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Rebola"
     ],
+    "name:deu_x_preferred":[
+        "Rebola"
+    ],
     "name:eng_x_preferred":[
         "Rebola"
     ],
@@ -40,8 +43,14 @@
     "name:fra_x_preferred":[
         "Rebola"
     ],
+    "name:glg_x_preferred":[
+        "Rebola"
+    ],
     "name:ita_x_preferred":[
         "Rebola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30dc\u30e9"
     ],
     "name:nld_x_preferred":[
         "Rebola"
@@ -61,8 +70,17 @@
     "name:tur_x_preferred":[
         "Rebola"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0431\u043e\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0628\u0648\u0644\u0627"
+    ],
     "name:zho_x_preferred":[
         "\u96f7\u535a\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Rebola"
     ],
     "qs:name":"Rebola",
     "qs:photos_9r":0,
@@ -95,7 +113,7 @@
         }
     ],
     "wof:id":890422073,
-    "wof:lastmodified":1566640371,
+    "wof:lastmodified":1690924044,
     "wof:name":"Rebola",
     "wof:parent_id":85671595,
     "wof:placetype":"locality",
