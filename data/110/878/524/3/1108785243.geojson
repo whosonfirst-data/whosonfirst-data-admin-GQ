@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231325,
-    "geom:area_square_m":2859777059.58897,
+    "geom:area_square_m":2859777059.588955,
     "geom:bbox":"9.343722343,0.920536,10.2615043804,1.40852909572",
     "geom:latitude":1.169589,
     "geom:longitude":9.870182,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Cogo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.180956,
     "lbl:longitude":9.876446,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Cogo"
     ],
     "name:deu_x_preferred":[
+        "Cogo"
+    ],
+    "name:eng_x_preferred":[
         "Cogo"
     ],
     "name:fra_x_preferred":[
@@ -55,7 +64,7 @@
     },
     "wof:country":"GQ",
     "wof:created":1481835971,
-    "wof:geomhash":"555507547ac745a7dc013fca41d57b53",
+    "wof:geomhash":"cf1a6ad86daa494edbde532d8757a208",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1108785243,
-    "wof:lastmodified":1566640332,
+    "wof:lastmodified":1694497839,
     "wof:name":"Cogo",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

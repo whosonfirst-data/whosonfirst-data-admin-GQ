@@ -15,6 +15,9 @@
     "itu:country_code":[
         "240"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "GQ"
     ],
@@ -1150,7 +1153,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"240",
     "statoids:ds":"EQ",
     "statoids:fifa":"EQG",
@@ -1209,7 +1213,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"1c128818e4fb4471511e5117f3afa216",
+    "wof:geomhash":"b5d1807580e392dc228056cfc56a5125",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1225,12 +1229,12 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924039,
+    "wof:lastmodified":1694639558,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":757014,
-    "wof:population_rank":11,
+    "wof:population":1355986,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gq",
     "wof:shortcode":"GQ",
     "wof:superseded_by":[],

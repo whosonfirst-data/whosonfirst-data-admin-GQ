@@ -10,6 +10,12 @@
     "geom:latitude":0.980895,
     "geom:longitude":9.506954,
     "iso:country":"GQ",
+    "label:eng_x_preferred_longname":[
+        "Elobey Grande District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.981028,
     "lbl:longitude":9.506853,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Elobey Grande"
     ],
     "name:deu_x_preferred":[
+        "Elobey Grande"
+    ],
+    "name:eng_x_preferred":[
         "Elobey Grande"
     ],
     "name:eus_x_preferred":[
@@ -82,7 +91,7 @@
     "wof:concordances":{},
     "wof:country":"GQ",
     "wof:created":1481835974,
-    "wof:geomhash":"d6682fb37a9bde279d72fb87984027cb",
+    "wof:geomhash":"e09023a137306e682e04716e2c1ede4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108785251,
-    "wof:lastmodified":1566640330,
+    "wof:lastmodified":1694497839,
     "wof:name":"Elobey Grande",
     "wof:parent_id":-1,
     "wof:placetype":"county",
