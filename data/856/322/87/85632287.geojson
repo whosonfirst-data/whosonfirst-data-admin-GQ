@@ -1192,6 +1192,7 @@
         "hasc:id":"GQ",
         "icao:code":"3C",
         "ioc:id":"GEQ",
+        "iso:code":"GQ",
         "itu:id":"GNE",
         "loc:id":"n82047828",
         "m49:code":"226",
@@ -1206,6 +1207,7 @@
         "wk:page":"Equatorial Guinea",
         "wmo:id":"GQ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:country_alpha3":"GNQ",
     "wof:geom_alt":[
@@ -1229,7 +1231,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1694639558,
+    "wof:lastmodified":1695881217,
     "wof:name":"Equatorial Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
