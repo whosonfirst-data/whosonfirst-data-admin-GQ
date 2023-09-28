@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121564,
-    "geom:area_square_m":1502623189.852629,
+    "geom:area_square_m":1502623045.620923,
     "geom:bbox":"10.063256,1.355545,10.589648,1.740577",
     "geom:latitude":1.52606,
     "geom:longitude":10.329016,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.CS.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835969,
-    "wof:geomhash":"6bc658aab1c160115ae479ab15138da0",
+    "wof:geomhash":"f9765ff6486abab34c23ee66c3cd1107",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108785239,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886627,
     "wof:name":"Bicurga",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

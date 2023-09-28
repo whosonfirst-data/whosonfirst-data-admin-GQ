@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094791,
-    "geom:area_square_m":1171763317.675522,
+    "geom:area_square_m":1171762906.904021,
     "geom:bbox":"9.38625,1.210369,10.108944,1.510845",
     "geom:latitude":1.380627,
     "geom:longitude":9.689994,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.LI.BC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835970,
-    "wof:geomhash":"6fbc6526ff40fde471c34ad822ca4ffe",
+    "wof:geomhash":"6a20510dd63b9d58b9e28acf7730d30c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108785241,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886627,
     "wof:name":"Bitica",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

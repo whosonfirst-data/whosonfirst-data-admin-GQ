@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044251,
-    "geom:area_square_m":546950542.781027,
+    "geom:area_square_m":546950405.766417,
     "geom:bbox":"10.9423,1.506673,11.207457,1.774113",
     "geom:latitude":1.649894,
     "geom:longitude":11.066688,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.WE.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835983,
-    "wof:geomhash":"9e096bde7063154aa33d897a931f095c",
+    "wof:geomhash":"91cc754c2806423e11995862c07a7de3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108785269,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886627,
     "wof:name":"Mongomoyen",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

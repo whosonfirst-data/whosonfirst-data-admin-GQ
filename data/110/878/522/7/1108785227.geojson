@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125599,
-    "geom:area_square_m":1552771649.120675,
+    "geom:area_square_m":1552771649.120678,
     "geom:bbox":"10.2173832269,1.0,10.9761508467,1.23687536501",
     "geom:latitude":1.091989,
     "geom:longitude":10.618826,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.CS.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835964,
-    "wof:geomhash":"902a58efc8c98995f0715d9041a4aa14",
+    "wof:geomhash":"8824d53ae5c5dd6430d610705877f033",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108785227,
-    "wof:lastmodified":1566640330,
+    "wof:lastmodified":1695886319,
     "wof:name":"Acurenam",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

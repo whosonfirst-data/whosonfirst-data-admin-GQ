@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095849,
-    "geom:area_square_m":1184750692.464859,
+    "geom:area_square_m":1184750818.527976,
     "geom:bbox":"9.570389,1.467393,10.114125,1.71707",
     "geom:latitude":1.568733,
     "geom:longitude":9.838143,
@@ -134,9 +134,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.LI.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835978,
-    "wof:geomhash":"ed056405a417e3c23fd38fc9a7cc8bf2",
+    "wof:geomhash":"bd567e6748b8d567403848c853b7c060",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108785259,
-    "wof:lastmodified":1636503072,
+    "wof:lastmodified":1695886089,
     "wof:name":"Mbini",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

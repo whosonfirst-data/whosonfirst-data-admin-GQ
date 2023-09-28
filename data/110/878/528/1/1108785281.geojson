@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032271,
-    "geom:area_square_m":398329556.260146,
+    "geom:area_square_m":398329556.260139,
     "geom:bbox":"8.65985234302,3.22983514097,8.857889175,3.58823962727",
     "geom:latitude":3.421991,
     "geom:longitude":8.748029,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.BS.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835989,
-    "wof:geomhash":"0eca50b68ad53456065d1b6e8f81e5df",
+    "wof:geomhash":"9f199f6766a6e4788dea2fd0451c3645",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108785281,
-    "wof:lastmodified":1566640327,
+    "wof:lastmodified":1695886319,
     "wof:name":"Riaba",
     "wof:parent_id":85671599,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077497,
-    "geom:area_square_m":957635249.058619,
+    "geom:area_square_m":957634966.769566,
     "geom:bbox":"10.498994,1.93197,11.033429,2.172222",
     "geom:latitude":2.082745,
     "geom:longitude":10.793336,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.KN.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835980,
-    "wof:geomhash":"7ffd16404cb24b1c6438d949060c120f",
+    "wof:geomhash":"2d082313e069fbe6f27c40fb348260f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108785263,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886627,
     "wof:name":"Micomiseng",
     "wof:parent_id":85671583,
     "wof:placetype":"county",

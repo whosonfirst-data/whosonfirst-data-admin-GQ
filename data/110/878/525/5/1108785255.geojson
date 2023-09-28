@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071302,
-    "geom:area_square_m":880107334.933967,
+    "geom:area_square_m":880107537.779179,
     "geom:bbox":"8.419528,3.207917,8.74967,3.614304",
     "geom:latitude":3.396325,
     "geom:longitude":8.584261,
@@ -119,9 +119,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.BS.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835976,
-    "wof:geomhash":"89de8495ce43e503085f2103ad047171",
+    "wof:geomhash":"2ccfb0fb3b4b45ae1958c7977a54c919",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108785255,
-    "wof:lastmodified":1636503072,
+    "wof:lastmodified":1695886089,
     "wof:name":"Luba",
     "wof:parent_id":85671599,
     "wof:placetype":"county",

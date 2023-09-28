@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170572,
-    "geom:area_square_m":2108586628.026395,
+    "geom:area_square_m":2108586335.205894,
     "geom:bbox":"10.109432,1.125218,10.770053,1.594032",
     "geom:latitude":1.333636,
     "geom:longitude":10.47841,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.CS.EV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835975,
-    "wof:geomhash":"01f5a9bd5b9dd8a453004286403b38df",
+    "wof:geomhash":"37eb4024d1e73ba27563b973e9ea7def",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108785253,
-    "wof:lastmodified":1636503072,
+    "wof:lastmodified":1695886089,
     "wof:name":"Evinayong",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

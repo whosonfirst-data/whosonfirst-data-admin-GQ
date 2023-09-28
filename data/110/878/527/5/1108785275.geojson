@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030933,
-    "geom:area_square_m":382257328.538488,
+    "geom:area_square_m":382257243.102063,
     "geom:bbox":"10.380148,1.91363,10.633254,2.129727",
     "geom:latitude":2.012025,
     "geom:longitude":10.52211,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.KN.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835986,
-    "wof:geomhash":"b94633bf22dd7afdf658bb092bd3cdfc",
+    "wof:geomhash":"dbeb940b84910d4b67c83b7922e7afab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108785275,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886628,
     "wof:name":"Nkue",
     "wof:parent_id":85671583,
     "wof:placetype":"county",
