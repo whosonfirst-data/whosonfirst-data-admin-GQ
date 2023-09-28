@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251583,
-    "geom:area_square_m":3108958961.390953,
+    "geom:area_square_m":3108958873.600723,
     "geom:bbox":"10.380148,1.755108,11.3333,2.172222",
     "geom:latitude":2.009657,
     "geom:longitude":10.96241,
@@ -276,17 +276,19 @@
         "gn:id":2566981,
         "gp:id":20069851,
         "hasc:id":"GQ.KN",
+        "iso:code":"GQ-KN",
         "iso:id":"GQ-KN",
         "qs_pg:id":955192,
         "unlc:id":"GQ-KN",
         "wd:id":"Q853393",
         "wk:page":"Ki\u00e9-Ntem Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2efaa76354465085efbce6eaacde9ad7",
+    "wof:geomhash":"54dcfd3cc3025735ad122bfdd139e9b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -303,7 +305,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924038,
+    "wof:lastmodified":1695884367,
     "wof:name":"Ki\u00e9-Ntem",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

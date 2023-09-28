@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.575996,
-    "geom:area_square_m":7119834398.610514,
+    "geom:area_square_m":7119833965.318253,
     "geom:bbox":"9.30375,0.886222,10.261504,2.343722",
     "geom:latitude":1.473501,
     "geom:longitude":9.839208,
@@ -289,17 +289,19 @@
         "gn:id":2566982,
         "gp:id":20069853,
         "hasc:id":"GQ.LI",
+        "iso:code":"GQ-LI",
         "iso:id":"GQ-LI",
         "qs_pg:id":891632,
         "unlc:id":"GQ-LI",
         "wd:id":"Q203873",
         "wk:page":"Litoral Province (Equatorial Guinea)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b697e083122dae469bf4076416dc54d",
+    "wof:geomhash":"454f94d5b5940ca0b44edf6fe16a0bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -316,7 +318,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924035,
+    "wof:lastmodified":1695884947,
     "wof:name":"Litoral",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

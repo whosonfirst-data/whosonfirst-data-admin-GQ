@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.671694,
-    "geom:area_square_m":8302505341.719349,
+    "geom:area_square_m":8302504902.964447,
     "geom:bbox":"9.980085,1.0,10.976151,2.172222",
     "geom:latitude":1.534665,
     "geom:longitude":10.397572,
@@ -288,17 +288,19 @@
         "gn:id":2566980,
         "gp:id":20069850,
         "hasc:id":"GQ.CS",
+        "iso:code":"GQ-CS",
         "iso:id":"GQ-CS",
         "qs_pg:id":223305,
         "unlc:id":"GQ-CS",
         "wd:id":"Q845823",
         "wk:page":"Centro Sur Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a794a4d4a1f55cf4df36ffb530cf4ae",
+    "wof:geomhash":"f42c3da95c2919d5e8d458aef6369130",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924036,
+    "wof:lastmodified":1695884947,
     "wof:name":"Centro Sur",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

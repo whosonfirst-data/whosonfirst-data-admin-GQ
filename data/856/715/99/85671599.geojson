@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103573,
-    "geom:area_square_m":1278436891.194133,
+    "geom:area_square_m":1278437219.534002,
     "geom:bbox":"8.419528,3.207917,8.857889,3.614304",
     "geom:latitude":3.404322,
     "geom:longitude":8.635288,
@@ -287,17 +287,19 @@
         "gn:id":2566979,
         "gp:id":20069856,
         "hasc:id":"GQ.BN",
+        "iso:code":"GQ-BN",
         "iso:id":"GQ-BN",
         "qs_pg:id":1118433,
         "unlc:id":"GQ-BS",
         "wd:id":"Q845817",
         "wk:page":"Bioko Sur Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ecf8beafeadb1bba41b14a593fad716c",
+    "wof:geomhash":"ae16d754ace1d1d5027da3e4b12b35e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924037,
+    "wof:lastmodified":1695884947,
     "wof:name":"Bioko Sur",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

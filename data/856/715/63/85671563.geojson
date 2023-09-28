@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":15588799.52732,
+    "geom:area_square_m":15588752.500485,
     "geom:bbox":"5.602111,-1.461278,5.637084,-1.402111",
     "geom:latitude":-1.432286,
     "geom:longitude":5.621013,
@@ -303,17 +303,19 @@
         "gn:id":2310307,
         "gp:id":20069854,
         "hasc:id":"GQ.AN",
+        "iso:code":"GQ-AN",
         "iso:id":"GQ-AN",
         "qs_pg:id":1149769,
         "unlc:id":"GQ-AN",
         "wd:id":"Q3736616",
         "wk:page":"Annob\u00f3n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50eb4a52798ac67361f563e481da4fcb",
+    "wof:geomhash":"2c628ffbc6dce3a5149e8bbda9e7b993",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924037,
+    "wof:lastmodified":1695884367,
     "wof:name":"Annob\u00f3n",
     "wof:parent_id":85632287,
     "wof:placetype":"region",
