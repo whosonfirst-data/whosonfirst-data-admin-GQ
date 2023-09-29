@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023415,
-    "geom:area_square_m":288937409.051777,
+    "geom:area_square_m":288937585.59945,
     "geom:bbox":"8.770228,3.528311,8.940444,3.76625",
     "geom:latitude":3.653716,
     "geom:longitude":8.865186,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.BN.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835966,
-    "wof:geomhash":"ba829d4deab804a76efda871e0db7c05",
+    "wof:geomhash":"48032554f237474e83e17727e84a949d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108785233,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886627,
     "wof:name":"Baney",
     "wof:parent_id":85671595,
     "wof:placetype":"county",

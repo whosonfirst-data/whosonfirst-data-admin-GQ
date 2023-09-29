@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059964,
-    "geom:area_square_m":741103014.742555,
+    "geom:area_square_m":741103455.758593,
     "geom:bbox":"10.529065,1.559594,10.810048,2.021691",
     "geom:latitude":1.792928,
     "geom:longitude":10.656644,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.WE.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835968,
-    "wof:geomhash":"42482c1a459014396a5b6410673915d6",
+    "wof:geomhash":"1cbc0c60ed8c6791601de4f5ffc37404",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108785237,
-    "wof:lastmodified":1627522158,
+    "wof:lastmodified":1695886627,
     "wof:name":"Ayene",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

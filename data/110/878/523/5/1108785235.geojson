@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092314,
-    "geom:area_square_m":1140827351.371975,
+    "geom:area_square_m":1140827351.372006,
     "geom:bbox":"9.66164646505,1.65866817876,9.9346145266,2.343722105",
     "geom:latitude":1.933392,
     "geom:longitude":9.83393,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.LI.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835967,
-    "wof:geomhash":"f3945c2024e5dc5ea4bbe0008e528585",
+    "wof:geomhash":"e24f2b794e9884ed07f5d7a91511aea1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108785235,
-    "wof:lastmodified":1566640332,
+    "wof:lastmodified":1695886320,
     "wof:name":"Bata",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

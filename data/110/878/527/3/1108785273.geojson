@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089104,
-    "geom:area_square_m":1101158479.63203,
+    "geom:area_square_m":1101158443.061871,
     "geom:bbox":"10.305957,1.674936,10.616356,2.172222",
     "geom:latitude":1.925644,
     "geom:longitude":10.430317,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.CS.NM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835985,
-    "wof:geomhash":"49323585220c7e0e364a8676898000b0",
+    "wof:geomhash":"fcb706a6e10b22d7697506cd5f98f33d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108785273,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886628,
     "wof:name":"Nkimi",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

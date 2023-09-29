@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077143,
-    "geom:area_square_m":953350569.4885,
+    "geom:area_square_m":953350675.283953,
     "geom:bbox":"10.921855,1.755108,11.246584,2.118924",
     "geom:latitude":1.922287,
     "geom:longitude":11.078639,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.KN.NN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835987,
-    "wof:geomhash":"673c920f7d71772dae2002269f09aecc",
+    "wof:geomhash":"e93d22834b6325e86d07ca47de727b27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108785277,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886628,
     "wof:name":"Nsoc Nsomo",
     "wof:parent_id":85671583,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164855,
-    "geom:area_square_m":2037365395.087528,
+    "geom:area_square_m":2037365395.087497,
     "geom:bbox":"9.98008530164,1.57687581754,10.3946876993,2.172222",
     "geom:latitude":1.874952,
     "geom:longitude":10.178219,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.CS.NF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835984,
-    "wof:geomhash":"ad708a9c9325e5aeca4e4ccc895736ea",
+    "wof:geomhash":"32cca993db9774bd099329a14c66b668",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108785271,
-    "wof:lastmodified":1566640329,
+    "wof:lastmodified":1695886319,
     "wof:name":"Niefang",
     "wof:parent_id":85671565,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054986,
-    "geom:area_square_m":678520738.924028,
+    "geom:area_square_m":678520932.79636,
     "geom:bbox":"8.609694,3.528311,8.940444,3.787055",
     "geom:latitude":3.662793,
     "geom:longitude":8.784008,
@@ -287,17 +287,19 @@
         "gn:id":2566978,
         "gp:id":20069855,
         "hasc:id":"GQ.BS",
+        "iso:code":"GQ-BS",
         "iso:id":"GQ-BS",
         "qs_pg:id":1287551,
         "unlc:id":"GQ-BN",
         "wd:id":"Q845834",
         "wk:page":"Bioko Norte Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GQ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7f5563d41d15dc004387c1f59c1ae4a",
+    "wof:geomhash":"d678dd82f39d1760fb32c252f53ad762",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
         "spa",
         "fra"
     ],
-    "wof:lastmodified":1690924035,
+    "wof:lastmodified":1695884947,
     "wof:name":"Bioko Norte",
     "wof:parent_id":85632287,
     "wof:placetype":"region",

@@ -62,6 +62,7 @@
     "wof:concordances":{
         "hasc:id":"GQ.LI.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835971,
     "wof:geomhash":"cf1a6ad86daa494edbde532d8757a208",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108785243,
-    "wof:lastmodified":1694497839,
+    "wof:lastmodified":1695886320,
     "wof:name":"Cogo",
     "wof:parent_id":85671589,
     "wof:placetype":"county",

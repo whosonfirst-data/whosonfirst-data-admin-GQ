@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10958,
-    "geom:area_square_m":1354673346.056099,
+    "geom:area_square_m":1354673082.253248,
     "geom:bbox":"10.962163,1.0,11.3333,1.523501",
     "geom:latitude":1.206683,
     "geom:longitude":11.206574,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.WE.NR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835988,
-    "wof:geomhash":"45226148c207e37890936adda58b4f5f",
+    "wof:geomhash":"0a23d42ad4ccd8429601cb925a5395fe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108785279,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886628,
     "wof:name":"Nsork",
     "wof:parent_id":85671591,
     "wof:placetype":"county",

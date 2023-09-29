@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060249,
-    "geom:area_square_m":744565869.230422,
+    "geom:area_square_m":744565830.456458,
     "geom:bbox":"9.912936,1.673729,10.052319,2.202116",
     "geom:latitude":1.943861,
     "geom:longitude":9.976911,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GQ.LI.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GQ",
     "wof:created":1481835979,
-    "wof:geomhash":"fcfc67a89533ce8cfb203943a0f05981",
+    "wof:geomhash":"3e75415e4be1a4fdacb6ef1614127c68",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108785261,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1695886627,
     "wof:name":"Machinda",
     "wof:parent_id":85671589,
     "wof:placetype":"county",
